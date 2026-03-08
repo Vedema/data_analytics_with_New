@@ -41,8 +41,54 @@
         /* SECTION TITLE */
         .section-title {
             color: #312e81;
-            font-weight: 700;
+            font-weight: 800;
             margin-bottom: 30px;
+            position: relative;
+        }
+
+        .section-title::after {
+            content: "";
+            display: block;
+            width: 60px;
+            height: 4px;
+            background: #6d28d9;
+            margin-top: 10px;
+            border-radius: 5px;
+        }
+
+        /* PARAGRAPH TEXT */
+        .section-card p {
+            line-height: 1.7;
+            font-size: 16px;
+            color: #444;
+        }
+
+        /* WORKFLOW BULLETS */
+        .workflow-list {
+            list-style: none;
+            padding-left: 0;
+        }
+
+        .workflow-list li {
+            position: relative;
+            padding-left: 35px;
+            margin-bottom: 15px;
+            font-weight: 500;
+            transition: all 0.3s ease;
+        }
+
+        .workflow-list li::before {
+            content: "◆";
+            position: absolute;
+            left: 0;
+            top: 0;
+            color: #6d28d9;
+            font-size: 18px;
+        }
+
+        .workflow-list li:hover {
+            transform: translateX(6px);
+            color: #4c1d95;
         }
 
         /* QUERY CARD */
@@ -51,12 +97,13 @@
             border-radius: 20px;
             padding: 20px;
             box-shadow: 0 15px 35px rgba(49, 46, 129, 0.1);
-            transition: transform 0.3s ease;
+            transition: all 0.3s ease;
             margin-bottom: 30px;
         }
 
         .query-card:hover {
-            transform: translateY(-5px);
+            transform: translateY(-6px);
+            box-shadow: 0 25px 50px rgba(49, 46, 129, 0.2);
         }
 
         .query-card img {
@@ -72,6 +119,13 @@
             padding: 20px;
             border-radius: 15px;
             margin-bottom: 15px;
+            transition: all 0.3s ease;
+        }
+
+        .insight-box:hover {
+            background: #e9e5ff;
+            transform: translateY(-4px);
+            box-shadow: 0 10px 25px rgba(109, 40, 217, 0.15);
         }
 
         /* RECOMMENDATION CARD */
@@ -81,9 +135,16 @@
             border-radius: 15px;
             padding: 20px;
             margin-bottom: 15px;
+            transition: all 0.3s ease;
         }
 
-        /* BUTTON */
+        .recommendation-card:hover {
+            background: #f0ecff;
+            transform: translateY(-4px);
+            box-shadow: 0 10px 25px rgba(109, 40, 217, 0.12);
+        }
+
+        /* BUTTONS */
         .btn-custom {
             background: #6d28d9;
             color: white;
@@ -95,6 +156,20 @@
 
         .btn-custom:hover {
             background: #4c1d95;
+        }
+
+        .btn-download {
+            background: #312e81;
+            color: white;
+            border-radius: 40px;
+            padding: 12px 30px;
+            font-weight: 600;
+            border: none;
+            margin-right: 15px;
+        }
+
+        .btn-download:hover {
+            background: #1e1b4b;
         }
 
         .footer {
@@ -115,6 +190,7 @@
     <!-- DESCRIPTION -->
     <div class="section-card">
         <h3 class="section-title">📌 Project Overview</h3>
+
         <p>
             This project demonstrates the complete design, development, and analytical evaluation of a relational retail
             database using SQLite via DBBrowser.
@@ -123,14 +199,16 @@
         </p>
 
         <p><strong>Workflow:</strong></p>
-        <ul>
+
+        <ul class="workflow-list">
             <li>Designing the ERD</li>
-            <li>Creating a normalised database</li>
-            <li>Implementing PK & FK constraints</li>
-            <li>Populating transactional data</li>
+            <li>Creating a normalised relational database</li>
+            <li>Implementing primary and foreign key constraints</li>
+            <li>Populating structured tables with transactional data</li>
             <li>Writing SQL analytical queries</li>
-            <li>Interpreting business insights</li>
+            <li>Interpreting analytical outputs for decision-making</li>
         </ul>
+
     </div>
 
     <!-- QUERY RESULTS -->
@@ -139,7 +217,6 @@
 
         <div class="row">
 
-            <!-- CARD 1 -->
             <div class="col-md-6">
                 <div class="query-card">
                     <img src="screenshots/Project2/Total_Revenue.png">
@@ -148,16 +225,14 @@
                 </div>
             </div>
 
-            <!-- CARD 2 -->
             <div class="col-md-6">
                 <div class="query-card">
-                    <img src="screenshots/Project2/Top_Spending_Customers.png" alt="top spending customers">
+                    <img src="screenshots/Project2/Top_Spending_Customers.png">
                     <h5>Top Customers</h5>
                     <p>Identifies highest-spending customers using JOIN + GROUP BY.</p>
                 </div>
             </div>
 
-            <!-- CARD 3 -->
             <div class="col-md-6">
                 <div class="query-card">
                     <img src="screenshots/Project2/Best_Selling_Product.png">
@@ -166,48 +241,43 @@
                 </div>
             </div>
 
-            <!-- CARD 4 -->
             <div class="col-md-6">
                 <div class="query-card">
-                    <img src="screenshots/Project2/Monthly_Sales.png" alt="monthly sales">
+                    <img src="screenshots/Project2/Monthly_Sales.png">
                     <h5>Monthly Revenue Trend</h5>
-                    <p>Uses date functions to track revenue by month.</p>
+                    <p>Tracks revenue patterns using date functions.</p>
                 </div>
             </div>
 
-            <!-- CARD 5 -->
             <div class="col-md-6">
                 <div class="query-card">
                     <img src="screenshots/Project2/average_order_value.png">
                     <h5>Average Order Value</h5>
-                    <p>Subquery used to calculate average basket size.</p>
+                    <p>Subquery calculates average basket size.</p>
                 </div>
             </div>
 
-            <!-- CARD 6 -->
             <div class="col-md-6">
                 <div class="query-card">
-                    <img src="screenshots/Project2/Product_More_Than_500_Revenue.png" alt="high value order">
+                    <img src="screenshots/Project2/Product_More_Than_500_Revenue.png">
                     <h5>High Value Orders</h5>
                     <p>HAVING clause filters orders exceeding £500.</p>
                 </div>
             </div>
 
-            <!-- CARD 7 -->
             <div class="col-md-6">
                 <div class="query-card">
-                    <img src="screenshots/Project2/Customer_Revenue_By_City.png" alt="revenue by city">
+                    <img src="screenshots/Project2/Customer_Revenue_By_City.png">
                     <h5>Revenue by City</h5>
                     <p>Analyses geographic revenue contribution.</p>
                 </div>
             </div>
 
-            <!-- CARD 8 -->
             <div class="col-md-6">
                 <div class="query-card">
-                    <img src="screenshots/Project2/" alt="revenue by category">
+                    <img src="screenshots/Project2/Revenue_By_Category.png">
                     <h5>Revenue by Category</h5>
-                    <p>Evaluates category-level performance.</p>
+                    <p>Evaluates performance by product category.</p>
                 </div>
             </div>
 
@@ -240,7 +310,15 @@
 
     <!-- FOOTER -->
     <div class="footer">
-        <a href="../index.html" class="btn btn-custom">Back to Portfolio</a>
+
+        <a href="retail_analysis.db" class="btn btn-download" download>
+            Download Database File
+        </a>
+
+        <a href="../index.html" class="btn btn-custom">
+            Back to Portfolio
+        </a>
+
     </div>
 
 </body>
