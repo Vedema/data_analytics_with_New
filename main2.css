@@ -207,6 +207,16 @@ body#home .socicons-list li a:hover {
     box-shadow: 0 14px 28px rgba(36, 59, 74, 0.18);
 }
 
+.fancy-card {
+    border-radius: 12px;
+    overflow: hidden; /* ensures clean clipping */
+}
+
+.card-img-top {
+    height: 180px;
+    object-fit: cover;
+}
+
 /* ===============================
    COPYRIGHT
 ================================ */
