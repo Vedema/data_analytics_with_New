@@ -163,7 +163,7 @@
         <div class="row">
 
             <!-- CARD TEMPLATE -->
-            <div class="col-md-4">
+            <div class="col-md-6">
                 <div class="query-card">
 
                     <img src="Screenshots/Project2/ERD_RETAIL_WITH_HEADING.png" onclick="openModal(this.src)">
@@ -174,7 +174,7 @@
                 </div>
             </div>
 
-            <div class="col-md-4">
+            <div class="col-md-6">
                 <div class="query-card">
 
                     <img src="Screenshots/Project2/Database_Structure.png" onclick="openModal(this.src)">
@@ -185,7 +185,7 @@
                 </div>
             </div>
 
-            <div class="col-md-4">
+            <div class="col-md-6">
                 <div class="query-card">
 
                     <img src="Screenshots/Project2/Total_Revenue.png" onclick="openModal(this.src)">
@@ -196,7 +196,7 @@
                 </div>
             </div>
 
-            <div class="col-md-4">
+            <div class="col-md-6">
                 <div class="query-card">
 
                     <img src="Screenshots/Project2/Top_Spending_Customers.png" onclick="openModal(this.src)">
@@ -207,42 +207,68 @@
                 </div>
             </div>
 
-            <div class="col-md-4">
+            <div class="col-md-6">
                 <div class="query-card">
                     <img src="Screenshots/Project2/Best_Selling_Product.png" onclick="openModal(this.src)">
                     <div class="card-header-custom">🔥 Best Selling Products</div>
                     <div class="card-desc">Ranks products by total quantity sold.</div>
+                </div>
+            </div>
+
+            <div class="col-md-6">
+                <div class="query-card">
+
+                    <img src="Screenshots/Project2/Monthly_Sales.png" onclick="openModal(this.src)">
+
+                    <div class="card-header-custom">📅 Monthly Revenue Trends</div>
+                    <div class="card-desc">Tracks revenue patterns using date functions.</div>
 
                 </div>
             </div>
 
-            <div class="col-md-4">
-                <div class="query-card">
-                    <img src="Screenshots/Project2/Average_Order_Value.png" onclick="openModal(this.src)">
-                    <div class="card-header-custom">📈 Average Order Value</div>
+
+
+            <div class="col-md-6">
+                <div class="query-card"> <img src="Screenshots/Project2/Average_Order_Value.png">
+                    <div class="card-header-custom">📏 Average Order Value</div>
                     <div class="card-desc">Subquery calculates average basket size.</div>
                 </div>
             </div>
-            <div class="col-md-4">
-                <div class="query-card">
-                    <img src="Screenshots/Project2/Product_More_Than_500_Revenue.png" onclick="openModal(this.src)">
-                    <div class="card-header-custom">💵 High Value Orders</div>
+            <div class="col-md-6">
+                <div class="query-card"> <img src="Screenshots/Project2/Product_More_Than_500_Revenue.png">
+                    <div class="card-header-custom">💸 High Value Orders</div>
                     <div class="card-desc">HAVING clause filters orders exceeding £500.</div>
                 </div>
             </div>
-            <div class="col-md-4">
-                <div class="query-card">
-                    <img src="Screenshots/Project2/Customer_Revenue_By_City.png" onclick="openModal(this.src)">
+            <div class="col-md-6">
+                <div class="query-card"> <img src="Screenshots/Project2/Customer_Revenue_By_City.png">
+
                     <div class="card-header-custom">🌆 Revenue by City</div>
                     <div class="card-desc">Analyses geographic revenue contribution.</div>
                 </div>
             </div>
-            <div class="col-md-4">
-                <div class="query-card">
-                    <img src="Screenshots/Project2/Revenue_by_Category.png" onclick="openModal(this.src)">
+            <div class="col-md-6">
+                <div class="query-card"> <img src="Screenshots/Project2/Revenue_by_Category.png">
+
                     <div class="card-header-custom">📂 Revenue by Category</div>
                     <div class="card-desc">Evaluates performance by product category.</div>
                 </div>
+            </div>
+        </div>
+    </div>
+
+    </div>
+    </div>
+
+    <!-- MODAL -->
+    <div class="modal fade" id="imageModal" tabindex="-1">
+        <div class="modal-dialog modal-xl modal-dialog-centered">
+            <div class="modal-content bg-dark">
+
+                <div class="modal-body text-center">
+                    <img id="modalImage" class="modal-img">
+                </div>
+
             </div>
         </div>
     </div>
@@ -256,31 +282,13 @@
         <div class="insight-box">July showed consistent revenue across weeks.</div>
         <div class="insight-box">Laptops generated £900 compared to phones at £600.</div>
         <div class="insight-box">Average order value was £373.33.</div>
-    </div>
-
-    <!-- RECOMMENDATIONS -->
+    </div> <!-- RECOMMENDATIONS -->
     <div class="section-card">
         <h3 class="section-title">📈 Business Recommendations</h3>
-        <div class="recommendation-card">Focus marketing efforts on high-value electronics such as laptops.
-        </div>
+        <div class="recommendation-card">Focus marketing efforts on high-value electronics such as laptops.</div>
         <div class="recommendation-card">Implement loyalty campaigns targeting London customers.</div>
-        <div class="recommendation-card">Bundle accessories with premium devices to increase basket size.
-        </div>
+        <div class="recommendation-card">Bundle accessories with premium devices to increase basket size.</div>
         <div class="recommendation-card">Monitor monthly sales trends for forecasting.</div>
-    </div>
-
-
-    <!-- MODAL -->
-    <div class="modal fade" id="imageModal" tabindex="-1">
-        <div class="modal-dialog modal-xl modal-dialog-centered">
-            <div class="modal-content bg-dark">
-
-                <div class="modal-body text-center">
-                    <img id="modalImage" class="modal-img">
-                </div>
-
-            </div>
-        </div>
     </div>
 
     <!-- FOOTER -->
