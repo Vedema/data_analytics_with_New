@@ -257,12 +257,15 @@
             border-radius: 24px;
             overflow: hidden;
             box-shadow: 0 16px 34px rgba(0, 0, 0, 0.22);
-            transition: 0.3s ease;
             height: 100%;
+            transform: translateY(-6px) scale(1.01);
+            box-shadow: 0 25px 60px rgba(34, 211, 238, 0.25);
+            transition: 0.3s ease;
         }
 
         .image-card:hover {
-            transform: translateY(-5px);
+            transform: translateY(-6px) scale(1.01);
+            box-shadow: 0 25px 60px rgba(34, 211, 238, 0.25);
         }
 
         .image-wrap {
@@ -522,6 +525,21 @@
                 padding: 82px 16px 56px;
             }
         }
+
+        html {
+            scroll-behavior: smooth;
+        }
+
+        .fade-in {
+            opacity: 0;
+            transform: translateY(30px);
+            transition: all 0.8s ease;
+        }
+
+        .fade-in.show {
+            opacity: 1;
+            transform: translateY(0);
+        }
     </style>
 </head>
 
@@ -535,8 +553,9 @@
             <p>
                 This project explores the relationship between income and housing cost using R.
                 It begins with data loading, cleaning, exploration, summary analysis, and visualisation,
-                before progressing into more advanced statistical analysis. The next stage of the project
-                will focus on hypothesis testing, regression modelling, and deeper interpretation of the results.
+                before progressing into statistical analysis including correlation and regression modelling.
+                The final stage focuses on interpreting results and applying insights to real-world housing
+                affordability decisions.
             </p>
 
             <div class="hero-tags">
@@ -552,13 +571,14 @@
     </section>
 
     <!-- INTRODUCTION -->
-    <section class="section-card">
+    <section class="section-card fade-in">
         <h2 class="section-title">📌 Project Overview</h2>
         <p class="section-intro">
             This project examines housing affordability by analysing housing cost, income, employment status,
             property type, and region within a UK housing dataset. The work completed so far focuses on data
             loading, data quality checks, cleaning, descriptive analysis, grouping, and visualisation. The findings
-            provide an exploratory foundation for the next stage, which will involve statistical testing and regression.
+            provide an exploratory foundation for the final stage, which will involve statistical testing and
+            regression.
         </p>
 
         <div class="row mt-4 g-4">
@@ -612,7 +632,11 @@
             </div>
             <div class="kpi-card">
                 <div class="kpi-number">3</div>
-                <div class="kpi-label">Advanced Parts Left</div>
+                <div class="kpi-label">Analysis Stages Completed</div>
+
+                <div style="margin-top:10px; font-size:13px; color:#cbd5f5;">
+                    EDA • Visualisation • Modelling
+                </div>
             </div>
         </div>
     </section>
@@ -1128,7 +1152,7 @@
                     <p>Income appears to be an important driver of housing cost, although the spread of points suggests
                         that other factors also influence the relationship.</p>
                     <h6>Recommendation</h6>
-                    <p>This relationship should be tested formally in the next stage using correlation analysis and
+                    <p>This relationship should be tested formally in the final stage using correlation analysis and
                         regression modelling.</p>
                 </div>
             </div>
@@ -1203,12 +1227,12 @@
                 <div class="row g-4">
                     <div class="col-lg-6">
                         <div class="part-label">Code + Chart</div>
-                        <img src="Screenshots/Project5/25. Average Housing Cost by Property Type.png"
+                        <img src="Screenshots/Project5/25. Compare Average Housing Cost by Property Type.png"
                             alt="Average Housing Cost by Property Type Code and Chart" class="visual-img zoomable">
                     </div>
                     <div class="col-lg-6">
                         <div class="part-label">Chart Only</div>
-                        <img src="Screenshots/Project5/25a. Average House Cost by Property type.png"
+                        <img src="Screenshots/Project5/25b. Bar Chart Showing Average Housing Cost by Property Type.png"
                             alt="Average Housing Cost by Property Type Chart Only" class="visual-img zoomable">
                     </div>
                 </div>
@@ -1228,97 +1252,286 @@
         </div>
     </section>
 
+    <!-- STATISTICAL ANALYSIS -->
+    <section class="section-card">
+        <h2 class="section-title">5️⃣ Statistical Analysis & Regression Modelling</h2>
+        <p class="section-intro">
+            This stage extends the analysis beyond visual exploration into statistical validation.
+            The goal is to quantify the relationship between income and housing cost using
+            correlation and regression modelling.
+        </p>
+
+        <!-- KPI STATS -->
+        <div class="kpi-grid mt-4">
+            <div class="kpi-card">
+                <div class="kpi-number">53,954</div>
+                <div class="kpi-label">Mean Income (£)</div>
+            </div>
+
+            <div class="kpi-card">
+                <div class="kpi-number">24,516</div>
+                <div class="kpi-label">Mean Housing Cost (£)</div>
+            </div>
+
+            <div class="kpi-card">
+                <div class="kpi-number">0.661</div>
+                <div class="kpi-label">Correlation (r)</div>
+            </div>
+
+            <div class="kpi-card">
+                <div class="kpi-number">0.437</div>
+                <div class="kpi-label">R² (Model Fit)</div>
+            </div>
+        </div>
+
+        <!-- DESCRIPTIVE -->
+        <div class="row mt-4 g-4">
+            <div class="col-lg-6">
+                <div class="content-box">
+                    <div class="pill pill-purple">Descriptive Statistics</div>
+                    <ul class="list-clean">
+                        <li>Income shows a wide spread with a standard deviation of ~20,096.</li>
+                        <li>Housing cost has moderate variability (~12,916).</li>
+                        <li>Mean and median values are relatively close → limited skew in income.</li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="col-lg-6">
+                <div class="content-box">
+                    <div class="pill pill-blue">Correlation Analysis</div>
+                    <ul class="list-clean">
+                        <li>Correlation coefficient (r = 0.661) indicates a strong positive relationship.</li>
+                        <li>Higher income generally leads to higher housing cost.</li>
+                        <li>However, spread suggests other influencing factors exist.</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <!-- REGRESSION VISUALS -->
+        <div class="visual-card mt-4">
+            <div class="visual-card-header">Regression & Hypothesis Testing Visualisation</div>
+            <div class="visual-card-body">
+
+                <div class="row g-4">
+
+                    <!-- Regression Line -->
+                    <div class="col-lg-6">
+                        <div class="part-label">Income vs Housing Cost with Regression Line</div>
+                        <img src="Screenshots/Project5/5c2.. Scatter Plot with Regression Line Income vs Housing Cost_Plot Only.png"
+                            class="visual-img zoomable">
+
+                        <div class="analysis-box">
+                            <h6>Insight</h6>
+                            <p>
+                                The regression line confirms a positive linear relationship between income and housing
+                                cost.
+                            </p>
+                        </div>
+                    </div>
+
+                    <!-- Correlation Test -->
+                    <div class="col-lg-6">
+                        <div class="part-label">Correlation Significance Test</div>
+                        <img src="Screenshots/Project5/7. correlation Test of Significance Income vs Housing Cost.png"
+                            class="visual-img zoomable">
+
+                        <div class="analysis-box">
+                            <h6>Hypothesis Testing</h6>
+                            <p>
+                                The p-value is less than 0.001, meaning the relationship is statistically significant.
+                            </p>
+                        </div>
+                    </div>
+
+                    <!-- Regression Summary -->
+                    <div class="col-lg-6">
+                        <div class="part-label">Regression Model Summary</div>
+                        <img src="Screenshots/Project5/8. Simple Linear Regression Income vs Housing Cost.png"
+                            class="visual-img zoomable">
+
+                        <div class="analysis-box">
+                            <h6>Model Interpretation</h6>
+                            <p>
+                                The model explains 43.7% of the variation in housing cost (R² = 0.437).
+                            </p>
+                        </div>
+                    </div>
+
+                    <!-- Predicted vs Actual -->
+                    <div class="col-lg-6">
+                        <div class="part-label">Predicted vs Actual Housing Cost</div>
+                        <img src="Screenshots/Project5/9. Regression with Multiple Predictors.png"
+                            class="visual-img zoomable">
+
+                        <div class="analysis-box">
+                            <h6>Model Performance</h6>
+                            <p>
+                                The model shows a strong linear trend but some variation suggests other influencing
+                                factors.
+                            </p>
+                        </div>
+                    </div>
+
+                </div>
+
+            </div>
+        </div>
+    </section>
+
     <!-- OVERALL INSIGHTS -->
     <section class="section-card">
-        <h2 class="section-title">5️⃣ Key Insights and Recommendations</h2>
-
+        <h2 class="section-title">6️⃣ Final Insights & Data-Driven Recommendations</h2>
         <div class="row g-4">
+
+            <!-- INSIGHTS -->
             <div class="col-lg-6">
                 <div class="content-box">
                     <div class="pill pill-purple">Key Insights</div>
                     <ul class="list-clean">
-                        <li>Average income differs slightly by region, but not dramatically.</li>
-                        <li>Average housing costs are also fairly similar across regions.</li>
-                        <li>Income shows a clear positive relationship with housing cost.</li>
-                        <li>Housing cost distributions are right-skewed, with some high-cost outliers.</li>
-                        <li>Property type appears to influence average housing cost.</li>
-                        <li>Employment status has some effect on income, though the difference is modest.</li>
+                        <li>Income has a statistically significant positive relationship with housing cost.</li>
+                        <li>The Correlation (r = 0.661) confirms a strong linear association between the two variables.
+                        </li>
+                        <li>The regression model explains approximately 43.7% of housing cost variation (R² = 0.437).
+                        </li>
+                        <li>Housing cost distribution is right-skewed, indicating the presence of high-cost outliers.
+                        </li>
+                        <li>Regional differences exist but are relatively small compared to income influence.</li>
+                        <li>Property type and employment status contribute additional variation beyond income.</li>
                     </ul>
                 </div>
             </div>
 
+            <!-- RECOMMENDATIONS -->
             <div class="col-lg-6">
                 <div class="content-box">
-                    <div class="pill pill-orange">Recommendations</div>
+                    <div class="pill pill-orange">Data-Driven Recommendations</div>
                     <ul class="list-clean">
-                        <li>Use hypothesis testing to determine whether observed differences are statistically
-                            significant.</li>
-                        <li>Build regression models to quantify the effect of income on housing cost.</li>
-                        <li>Include region, employment status, and property type as explanatory variables where
-                            appropriate.</li>
-                        <li>Monitor outliers carefully, as they may influence summary statistics and model fit.</li>
-                        <li>Use the cleaned dataset as the foundation for the next analytical stage.</li>
+                        <li>Incorporate additional predictors (region, property type, savings) to improve model
+                            accuracy.
+                        </li>
+                        <li>Use multiple regression to better capture real-world housing affordability factors.</li>
+                        <li>Monitor and handle outliers carefully to avoid distortion in model performance.</li>
+                        <li>Combine statistical findings with domain knowledge when making housing-related decisions.
+                        </li>
+                        <li>Use insights to inform affordability analysis, policy discussions, and financial planning.
+                        </li>
                     </ul>
                 </div>
             </div>
+
         </div>
     </section>
 
-    <!-- NEXT STAGE -->
+    <!-- BUSINESS IMPACT -->
+    <section class="section-card">
+        <h2 class="section-title">💼 Business Impact & Real-World Value</h2>
+
+        <div class="content-box">
+            <ul class="list-clean">
+                <li>This analysis helps identify key drivers of housing affordability.</li>
+                <li>Insights can support financial planning for individuals and households.</li>
+                <li>Findings can inform policy discussions around housing and income inequality.</li>
+                <li>Regression modelling provides a data-driven foundation for predicting housing costs.</li>
+                <li>Supports decision-making for lenders, investors, and housing authorities.</li>
+            </ul>
+        </div>
+    </section>
+
+    <!-- FINAL STAGE / EXTENSIONS -->
     <section class="section-card">
         <div class="next-stage-box">
-            <h2 class="section-title">🚀 Next Stage of the Project</h2>
+            <h2 class="section-title">🚀 7️⃣ Final Stage & Future Enhancements</h2>
+
             <p class="section-intro">
-                The next stage will involve testing relationships statistically, building regression models,
-                and interpreting results in a more advanced way. This will move the project from exploratory
-                analysis into formal evidence-based modelling.
+                This project has now progressed from exploratory data analysis into statistical modelling.
+                The relationship between income and housing cost has been validated using correlation
+                and regression analysis. The focus now shifts towards improving model performance,
+                expanding the analysis, and applying the findings to real-world decision-making.
             </p>
 
             <div class="row mt-4 g-4">
+
                 <div class="col-md-4">
                     <div class="content-box">
-                        <div class="pill pill-blue">Hypothesis Testing</div>
-                        <p class="section-intro mb-0">
-                            Statistical tests will be used to determine whether differences in housing cost or income
-                            across categories are significant.
+                        <div class="pill pill-blue">Model Improvement</div>
+                        <p>
+                            A multiple regression model was implemented by adding additional predictors
+                            (e.g., Age and Savings). This improves the model’s ability to explain housing cost
+                            compared to using income alone, demonstrating that housing affordability is influenced
+                            by multiple factors rather than a single variable.
+                        </p>
+
+                        <h6>Next Step</h6>
+                        <p>
+                            Further improvements could include adding categorical variables such as region,
+                            property type, and employment status to capture real-world housing market complexity.
                         </p>
                     </div>
                 </div>
 
                 <div class="col-md-4">
                     <div class="content-box">
-                        <div class="pill pill-green">Regression Models</div>
+                        <div class="pill pill-green">Advanced Modelling</div>
                         <p class="section-intro mb-0">
-                            Regression analysis will estimate how strongly income predicts housing cost and whether
-                            additional variables improve explanation.
+                            Explore multiple regression models and compare performance using R-squared and residual
+                            analysis.
+                            This allows a deeper understanding of how different factors jointly influence housing
+                            affordability.
                         </p>
                     </div>
                 </div>
 
                 <div class="col-md-4">
                     <div class="content-box">
-                        <div class="pill pill-red">Advanced Interpretation</div>
+                        <div class="pill pill-red">Real-World Application</div>
                         <p class="section-intro mb-0">
-                            The final stage will focus on interpreting coefficients, significance, and practical
-                            implications for affordability and housing decision-making.
+                            Apply findings to real-world scenarios such as housing affordability assessments,
+                            policy recommendations, and financial planning insights for individuals and organisations.
                         </p>
                     </div>
                 </div>
+
             </div>
         </div>
     </section>
+
 
     <!-- DOWNLOAD -->
     <section class="section-card">
         <div class="download-box">
-            <h3>📁 Project Dataset</h3>
+            <h3>📁 Project Outputs & Datasets</h3>
+
             <p>
-                Download the dataset used for this project. This file supports the exploratory analysis completed so far
-                and will also be used in the next stage for hypothesis testing and regression modelling.
+                Download the full data pipeline used in this project, including the original messy dataset,
+                the cleaned dataset, and the regression dataset with predicted values generated from the model.
             </p>
 
-            <a href="uk_housing_income_dataset.csv" class="btn-custom" download>
-                ⬇ Download Dataset
+            <!-- MESSY DATASET -->
+            <a href="datasets/uk_housing_income_raw.csv" class="btn-custom" download>
+                🧹 Download Original Dataset (Raw)
+            </a>
+
+            <br><br>
+
+            <!-- CLEANED DATASET -->
+            <a href="datasets/uk_housing_income_cleaned.csv" class="btn-custom" download>
+                ⬇ Download Cleaned Dataset
+            </a>
+
+            <br><br>
+
+            <!-- REGRESSION DATASET -->
+            <a href="datasets/uk_housing_income_with_predictions.csv" class="btn-custom" download>
+                📊 Download Regression Dataset (Actual vs Predicted)
+            </a>
+
+            <br><br>
+
+            <!-- CORRELATION -->
+            <a href="datasets/correlation_results.csv" class="btn-custom" download>
+                📈 Download Correlation Results
             </a>
 
             <br>
@@ -1376,6 +1589,25 @@
         });
     </script>
 
+    <script>
+        const faders = document.querySelectorAll(".fade-in");
+
+        const appearOptions = {
+            threshold: 0.2
+        };
+
+        const appearOnScroll = new IntersectionObserver(function (entries, observer) {
+            entries.forEach(entry => {
+                if (!entry.isIntersecting) return;
+                entry.target.classList.add("show");
+                observer.unobserve(entry.target);
+            });
+        }, appearOptions);
+
+        faders.forEach(fader => {
+            appearOnScroll.observe(fader);
+        });
+    </script>
 </body>
 
 </html>
