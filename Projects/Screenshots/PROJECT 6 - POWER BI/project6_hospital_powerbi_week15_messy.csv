@@ -1,0 +1,1013 @@
+Patient_ID,Full Name,Age,Gender,City,Latitude,Longitude,Admission Date,Discharge Date,Department,Doctor Assigned,Diagnosis,Treatment Cost (£),Insurance Provider,Admission Type,Outcome,Satisfaction Score,Length of Stay
+PAT100000,Miss Kate Dickinson,82.0,Female,Manchester,53.43901378096513,-2.2332528799748115,2025-12-25,2026-01-05,cardio,Maria Ball,Cancer Screening,5595.59,Vitality,Referral,Referred,9.0,11.0
+PAT100001,Abigail Wyatt,80.0,Female,Cardiff,51.525091231825954,-3.170155417844925,2025-09-07,2025-09-25,Oncology,Charlie Kay,Heart Disease,6181.47,Vitality,Emergency,Recovered,10.0,18.0
+PAT100002,Dr Maria Webster,75.0,Female ,Liverpool,53.360515244243054,-2.9731968661452313,2025-03-26,2025-03-30,Oncology,Linda Macdonald,Hypertension,5038.15,Bupa,Routine,Under Treatment,1.0,4.0
+PAT100003,Eileen Wilson,66.0,Female ,Bristol,51.45228010041732,-2.606158927003959,2024-10-25,2024-11-06,cardio,Angela Carroll,Hypertension,5755.36,NHS,Referral,Readmitted,9.0,12.0
+PAT100004,Kim Reeves-Johnson,76.0,M,Liverpool,53.43564722077209,-2.9771106020950686,2025-01-07,2025-01-17,General Medicine,Joyce Ellis-Newton,Heart Disease,400.18,None,ER,Under Treatment,3.0,10.0
+PAT100005,Nicholas Schofield,29.0, Male,Sheffield,53.401020875376936,-1.5074742043007459,2026-04-22,2026-05-06,General Medicine,Georgina Bull,Migraine,,NHS,Routine,Readmitted,7.0,14.0
+PAT100006,Caroline Pratt,68.0,F,Cardiff,51.47204053220349,-3.1683069629186464,2024-06-01,2024-06-17,orthopedic,Brenda Evans,Cancer Screening,7556.43,Aviva,Referral,Readmitted,9.0,16.0
+PAT100007,Gerald Duffy-Newton,46.0,Female ,London,51.4256542278922,-0.0775386340998328,2024-10-06,2024-10-25,Cardiology,Mohammed Godfrey,Flu,7244.64,None,Emergency,Readmitted,3.0,19.0
+PAT100008,Callum Green,36.0,Male,Newcastle,54.9273226362807,-1.6286407127731228,2025-01-28,2025-02-13,Orthopaedics,Miss Julia Owen,Migraine,4878.73,None,Routine,Readmitted,8.0,16.0
+PAT100009,Ms Dorothy Bennett,69.0,Female ,Liverpool,53.40123452967184,-3.0343187524219424,2025-07-09,2025-07-27,Emergency,Rebecca Gregory,Flu,8621.65,None,Routine,Referred,5.0,18.0
+PAT100010,Phillip Abbott,55.0,Male,Newcastle,54.989861171467375,-1.6364109753251583,2025-01-08,2025-01-15,Cardiology,Kathryn Taylor,Stroke,5969.14,None,Referral,Referred,5.0,7.0
+PAT100011,Judith Cooper,64.0,Female ,Nottingham,52.99023226587046,-1.133088907686818,2024-12-27,2025-01-12,orthopedic,Alan Simpson,Migraine,3955.89,Aviva,Referral,Referred,4.0,16.0
+PAT100012,Barbara Parsons,22.0,F,Newcastle,54.976228684139585,-1.613409384223954,2024-06-20,2024-07-08,Neurology,Rhys Thomas,Fracture,3191.78,Aviva,Referral,Under Treatment,5.0,18.0
+PAT100013,Amy Jones,72.0,Female ,Sheffield,53.380796181639624,-1.4660045289729091,2026-02-05,2026-02-11,cardio,Connor Edwards-Adams,Diabetes,5593.26,Aviva,ER,Recovered,8.0,6.0
+PAT100014,Shane Bailey,36.0,Male,Leeds,53.76580558920546,-1.520898928048952,2026-05-14,2026-05-28,Cardiology,Dr Alexandra Smith,Heart Disease,8267.47,Aviva,Referral,Readmitted,8.0,14.0
+PAT100015,James O'Brien,43.0, Male,Manchester,53.45509306989542,-2.2370204217085337,2026-01-23,2026-02-12,cardio,Miss Francesca Pearson,Heart Disease,8541.91,Vitality,ER,Under Treatment,4.0,20.0
+PAT100016,Victor Holloway,58.0,F,Birmingham,52.481333882381534,-1.904748162977492,2026-01-15,2026-01-16,General Medicine,Mr Joel McDonald,Stroke,3552.53,Vitality,emergency,Referred,10.0,1.0
+PAT100017,Derek Hudson,82.0,F,Cardiff,51.415238476358496,-3.161875482080124,2024-12-08,2024-12-13,cardio,Mrs Kayleigh Taylor,Stroke,4800.38,Bupa,Referral,Under Treatment,5.0,5.0
+PAT100018,Marcus Baker,67.0,Female,Nottingham,52.97009140547177,-1.1306532610624713,2025-08-22,2025-09-05,Emergency,Dr Mohammed Campbell,Infection,350.0,NHS,Emergency,Referred,,14.0
+PAT100019,Dr Wendy Bailey,62.0,Male,Manchester,53.49768508743375,-2.221147967281437,2025-06-03,2025-06-05,Cardiology,Lawrence Barlow,Flu,4753.89,Aviva,ER,Under Treatment,6.0,2.0
+PAT100020,Mrs Mary Bennett,33.0, Male,Sheffield,53.36776459791112,-1.4595905968697773,2025-11-03,2025-11-14,Oncology,Max Taylor-Chadwick,Cancer Screening,7202.68,Bupa,emergency,Readmitted,8.0,11.0
+PAT100021,Robin West,73.0,F,Nottingham,52.93057214799791,-1.173896700093646,2025-01-18,2025-01-25,Neurology,Dr Gareth Palmer,Cancer Screening,3483.48,Bupa,Emergency,Readmitted,10.0,7.0
+PAT100022,Kathleen Peters,43.0,Female ,Newcastle,54.96209376657403,-1.6042807761739688,2025-11-05,2025-11-07,Cardiology,Amelia Todd,Flu,7109.01,NHS,Routine,Discharged,3.0,2.0
+PAT100023,Lynda Martin,34.0, Male,Sheffield,53.3740725762092,-1.466662167887834,2026-01-06,2026-01-07,Orthopaedics,Kieran Burgess,Stroke,4932.6,Bupa,emergency,Referred,9.0,1.0
+PAT100024,Anthony Stephenson,86.0,F,Liverpool,53.410570723140154,-2.9861026490065066,2026-01-11,2026-01-25,cardio,Josh Evans,Diabetes,6677.64,Bupa,ER,Discharged,7.0,14.0
+PAT100025,Olivia Newman,81.0,F,Liverpool,53.40348283007643,-2.985141936554728,2024-05-19,2024-06-03,orthopedic,Tony Hall,Stroke,5769.06,AXA,Referral,Referred,7.0,15.0
+PAT100026,Laura Pearson,85.0,Male,Sheffield,53.393570047532386,-1.4734539263687014,2025-11-12,2025-11-16,orthopedic,Alan Thompson,Asthma,4535.68,Bupa,Emergency,Recovered,9.0,4.0
+PAT100027,Sam Kaur,60.0,Female ,Sheffield,53.414628646299356,-1.511688230368698,2024-06-22,2024-07-13,Emergency,Bradley Phillips,Stroke,5811.9,NHS,ER,Discharged,7.0,21.0
+PAT100028,Mathew Ball,86.0, Male,Bristol,51.49028229725929,-2.6110359944364796,2025-11-10,2025-11-28,cardio,Katherine Smith-Brady,Diabetes,8169.13,Vitality,Referral,Discharged,4.0,18.0
+PAT100029,Joshua Smith,52.0,Male,Cardiff,51.488828516730926,-3.163157663761764,2026-03-24,2026-04-03,CARDIOLOGY,David Ford,Diabetes,9564.78,NHS,Routine,Discharged,9.0,10.0
+PAT100030,Margaret Foster,63.0, Male,Manchester,53.46212925309533,-2.2756698303657967,2024-08-30,2024-09-01,cardio,Alex Potts,Hypertension,8594.25,AXA,Referral,Recovered,3.0,2.0
+PAT100031,Jane Bartlett,38.0,Male,Liverpool,53.4137909968153,-2.9796442112010784,2025-03-16,2025-03-27,orthopedic,Antony Mills,Heart Disease,4348.94,Aviva,ER,Referred,5.0,11.0
+PAT100032,Abigail Smith,30.0,M,London,51.55852805802929,-0.15095356078745253,2024-09-01,2024-09-03,Cardiology,Ian Gregory,Fracture,7193.46,NHS,Referral,Readmitted,4.0,2.0
+PAT100033,Mr Abdul Taylor,76.0,Male,Bristol,51.464104100670575,-2.588564666178764,2024-09-17,2024-09-28,General Medicine,Dr Connor Bennett,Infection,1507.49,AXA,Referral,Discharged,10.0,11.0
+PAT100034,Dr Frank Moore,72.0, Male,Cardiff,51.4407283757698,-3.158848527736351,2025-11-11,2025-11-26,Neurology,Sian Hughes,Diabetes,3103.16,Aviva,ER,Under Treatment,2.0,15.0
+PAT100035,Rita Oliver,21.0,M,London,51.49891534698827,-0.04620729621251453,2026-05-03,2026-05-17,Neurology,Deborah Warren,Fracture,4120.37,AXA,Routine,Under Treatment,5.0,14.0
+PAT100036,Tina Stephens,87.0, Male,Cardiff,51.51231272224137,-3.196381954104367,2025-05-14,2025-05-15,Orthopaedics,Dr Rosie Little,Heart Disease,3142.33,None,Emergency,Discharged,6.0,1.0
+PAT100037,Gary Hughes,33.0, Male,Cardiff,51.44652165429867,-3.1480920316532455,2024-05-31,2024-06-04,CARDIOLOGY,Dr Allan Brookes,Hypertension,5003.87,Vitality,ER,Recovered,1.0,4.0
+PAT100038,Carole Webster,34.0,F,Newcastle,54.96382538556685,-1.6298620172786986,2025-08-22,2025-09-10,Paediatrics,Zoe Burns-Whitehead,Infection,2351.69,Bupa,Routine,Discharged,6.0,19.0
+PAT100039,Ms Rachel Pope,87.0,Female ,Birmingham,52.52161164369799,-1.8796237483623353,2025-08-18,2025-08-24,Emergency,Bethan Lucas,Flu,5402.92,Aviva,ER,Discharged,1.0,6.0
+PAT100040,Tony Evans,20.0,F,Leeds,53.8425275429644,-1.5606517167747236,2025-11-10,2025-11-11,Emergency,Jennifer Humphreys,Infection,6604.93,AXA,ER,Discharged,5.0,1.0
+PAT100041,Jenna Evans-Jones,29.0,Male,Glasgow,55.89252747845533,-4.227691830697945,2025-04-16,2025-05-05,Emergency,Mr Adam Cross,Flu,5324.02,AXA,ER,Readmitted,3.0,19.0
+PAT100042,Mandy Jones,25.0,F,Edinburgh,56.002511147814054,-3.193053500988759,2026-05-10,2026-05-21,Orthopaedics,Ms Marie Robinson,Heart Disease,5054.71,Bupa,Referral,Discharged,1.0,11.0
+PAT100043,Clifford Williams-Brown,64.0,M,Edinburgh,55.96664043777825,-3.190646908027073,2025-11-03,2025-11-16,Emergency,Lucy Austin,Hypertension,4610.33,Bupa,ER,Under Treatment,4.0,13.0
+PAT100044,Mr Glenn Smith,76.0,Female ,Sheffield,53.416562763704405,-1.4661877185094951,2025-05-18,2025-06-08,Oncology,Samuel Martin,Cancer Screening,4923.87,AXA,emergency,Discharged,9.0,21.0
+PAT100045,Gareth Powell,37.0,M,Glasgow,55.90306619444327,-4.28482196213794,2026-02-20,2026-03-06,Cardiology,Janice Morris-Clarke,Flu,7702.19,None,Routine,Recovered,8.0,14.0
+PAT100046,Claire Williams,28.0, Male,Glasgow,55.85339697292786,-4.240260897087755,2026-03-13,2026-03-19,Neurology,Mr Leslie Holmes,Diabetes,4144.26,Bupa,Emergency,Recovered,5.0,6.0
+PAT100047,Tony George,57.0,F,Nottingham,52.9372526894185,-1.1833478153423416,2024-12-30,2025-01-06,Cardiology,Holly Ali,Infection,7248.08,Vitality,Referral,Discharged,10.0,7.0
+PAT100048,Dr Norman Elliott,28.0,M,Nottingham,52.94939489068299,-1.169511568533471,2026-02-12,2026-02-16,Paediatrics,Joshua Heath,Flu,3388.93,AXA,ER,Recovered,3.0,4.0
+PAT100049,Mathew Goddard,42.0,M,Edinburgh,55.952621092328314,-3.169989121269005,2024-11-18,2024-12-07,orthopedic,Maureen Owen,Flu,5446.86,AXA,ER,Discharged,3.0,19.0
+PAT100050,Charlotte Higgins,19.0,F,Newcastle,54.961711125473634,-1.6295977061371045,2025-05-23,2025-05-30,Oncology,Mrs Amber Hawkins,Hypertension,7273.74,Vitality,emergency,Readmitted,10.0,7.0
+PAT100051,Marc Douglas,58.0,Female,London,51.51823425397026,-0.11903874315835819,2025-11-15,2025-11-21,CARDIOLOGY,Bruce Perry,Heart Disease,6804.83,NHS,Referral,Recovered,9.0,6.0
+PAT100052,Annette Black,65.0, Male,Bristol,51.503329615578615,-2.6332752773241386,2024-08-21,2024-08-24,Orthopaedics,Joel Moore-Quinn,Stroke,6988.94,Vitality,Referral,Discharged,5.0,3.0
+PAT100053,Dr Matthew Barlow,59.0,Female ,Birmingham,52.482933601511554,-1.9161375508955096,2024-11-29,2024-12-03,cardio,Lynne Akhtar-Holden,Fracture,6429.19,Aviva,ER,Readmitted,8.0,4.0
+PAT100054,Callum Davison,33.0,F,Liverpool,53.34600944015071,-2.9973974368286838,2025-08-26,2025-09-16,Oncology,Irene Dawson,Fracture,4133.87,Vitality,Referral,Discharged,6.0,21.0
+PAT100055,Tony Williams,62.0,Male,Bristol,51.463246395044855,-2.5946672926139667,2025-01-31,2025-02-15,cardio,Mr Terence Wood,Migraine,5677.14,AXA,ER,Discharged,2.0,15.0
+PAT100056,Dr Annette Jones,73.0,M,Birmingham,52.521268502999774,-1.9095824101034726,2026-04-14,2026-04-25,Emergency,Jemma Taylor,Hypertension,5933.77,None,Routine,Referred,9.0,11.0
+PAT100057,Alex Dixon,43.0,Female ,Bristol,51.49493379673482,-2.611954937600281,2024-05-18,2024-05-24,Orthopaedics,Mr Maurice Mills,Hypertension,4102.6,AXA,Routine,Readmitted,8.0,6.0
+PAT100058,Dale Howe,37.0,Female ,Newcastle,55.04095409560254,-1.6266405775197232,2025-05-19,2025-05-26,General Medicine,Amelia Marsh,Stroke,5627.81,Aviva,ER,Under Treatment,8.0,7.0
+PAT100059,Christine Edwards,52.0,Female,Manchester,53.494105677157236,-2.278430103456641,2024-08-11,2024-08-22,orthopedic,Mrs Hannah Brown,Flu,,None,ER,Discharged,8.0,11.0
+PAT100060,Michael Miah,33.0, Male,Bristol,51.39228008325793,-2.5881581177360564,2024-05-17,2024-05-22,orthopedic,David Clayton,Migraine,7714.89,None,Routine,Referred,5.0,
+PAT100061,Dominic Williams-Stevenson,60.0,Male,London,51.56833609825593,-0.12405543332858214,2024-06-18,2024-07-06,Neurology,Sarah Bartlett,Migraine,2754.39,None,Referral,Readmitted,7.0,18.0
+PAT100062,Abbie Richardson,63.0,F,Leeds,53.81763436744464,-1.5387641629100979,2025-11-25,2025-12-09,Cardiology,Dr Reece Moss,Stroke,4240.25,NHS,ER,Readmitted,6.0,14.0
+PAT100063,Chelsea Butcher,34.0,Female ,Edinburgh,55.902188992574416,-3.1576670412356553,2024-08-06,2024-08-15,General Medicine,Christopher Daly-Mitchell,Cancer Screening,5054.63,Aviva,Routine,Referred,6.0,9.0
+PAT100064,Joel Wall,22.0,Female ,Bristol,51.43577710411577,-2.6147694065067113,2025-07-09,2025-07-10,cardio,Vincent Jones,Diabetes,7751.43,AXA,Emergency,Discharged,4.0,1.0
+PAT100065,Josephine Cooper,53.0,Male,Sheffield,53.41402972239823,-1.4451324299441044,2025-06-29,2025-07-16,Neurology,Tony Jones-Mills,Flu,2330.64,None,emergency,Readmitted,10.0,17.0
+PAT100066,Christian Smith-Ford,37.0,F,London,51.53452558613454,-0.08861257801044628,2024-10-17,2024-10-21,Orthopaedics,Michael Mitchell,Asthma,4162.91,Vitality,emergency,Under Treatment,6.0,4.0
+PAT100067,Dominic Smith-Thompson,71.0, Male,Manchester,53.516787257814585,-2.2542660333946847,2024-10-27,2024-11-15,General Medicine,Martin Page,Stroke,2796.24,NHS,Emergency,Under Treatment,9.0,19.0
+PAT100068,Valerie Russell,41.0,Female,Newcastle,54.974669438323474,-1.6086009663597143,2026-01-08,2026-01-10,Emergency,Stacey Cameron,Migraine,4320.19,None,ER,Under Treatment,9.0,2.0
+PAT100069,Dr Edward Coleman,79.0,M,Bristol,51.42297001532379,-2.658067246376525,2026-01-25,2026-02-05,Oncology,Justin Kennedy-King,Diabetes,3327.51,NHS,Routine,Discharged,5.0,11.0
+PAT100070,Joanne Watts-Hammond,64.0,Female,London,51.5453808379861,-0.08400163800048875,2025-02-05,2025-02-21,Oncology,Mr Joel Birch,Hypertension,7092.37,AXA,Referral,Referred,5.0,16.0
+PAT100071,Garry Palmer,24.0,Female ,Liverpool,53.409984910941155,-3.027131762632164,2026-02-20,2026-02-27,cardio,Denise Griffiths,Flu,3453.09,None,Referral,Under Treatment,7.0,7.0
+PAT100072,Dr Max Green,29.0, Male,Sheffield,53.363891332076506,-1.5091348297998113,2025-05-31,2025-06-20,Emergency,Dr Josh Martin,Hypertension,2907.15,Aviva,ER,Under Treatment,9.0,20.0
+PAT100073,Ms Sylvia Sharp,27.0,M,Bristol,51.410007256682576,-2.617758694823284,2026-04-21,2026-04-27,CARDIOLOGY,Geraldine Nicholson,Flu,9062.87,Vitality,Routine,Recovered,9.0,6.0
+PAT100074,June Stanley,21.0,Female,Cardiff,51.48296597084261,-3.178585065624363,2025-07-23,2025-07-30,Orthopaedics,Gregory Barry,Infection,4546.27,Vitality,Referral,Discharged,8.0,7.0
+PAT100075,Edward Simpson-Kent,52.0, Male,Nottingham,52.96172636541801,-1.150221659976995,2026-03-02,2026-03-09,CARDIOLOGY,Brandon Moss,Hypertension,4518.09,AXA,Routine,Readmitted,8.0,7.0
+PAT100076,Charles Gallagher,42.0, Male,Cardiff,51.475943319226836,-3.1508632826202785,2025-05-30,2025-06-17,General Medicine,Miss Jill Metcalfe,Stroke,4174.16,None,emergency,Discharged,3.0,18.0
+PAT100077,Antony Martin,25.0,M,Glasgow,55.90312347242417,-4.226550914533342,2025-05-12,2025-05-31,orthopedic,Hilary Ross,Stroke,2771.73,Bupa,ER,Readmitted,1.0,19.0
+PAT100078,Mrs Chloe Sharpe,34.0,Female,Edinburgh,55.966984630469874,-3.1593292749123227,2025-08-28,2025-09-09,CARDIOLOGY,Gillian Lambert,Heart Disease,6640.73,Bupa,emergency,Referred,8.0,12.0
+PAT100079,Dr Glenn Green,80.0,M,Glasgow,55.8325976787377,-4.218796524562359,2026-04-30,2026-05-20,Cardiology,Mrs Paula Knowles,Asthma,7379.01,Vitality,ER,Readmitted,9.0,20.0
+PAT100080,Carol Hamilton-O'Neill,70.0,Female,Manchester,53.515504074205424,-2.2307720364656145,2025-11-14,2025-11-29,Neurology,Ashleigh Clayton,Flu,3498.17,NHS,Routine,Recovered,3.0,15.0
+PAT100081,Rhys Oliver,63.0,M,London,51.47441256861401,-0.11508229445708845,2024-10-21,2024-10-25,orthopedic,Christopher Martin,Heart Disease,3412.91,Bupa,Referral,Discharged,10.0,4.0
+PAT100082,Kathleen Anderson,,Female,Manchester,53.435895530966825,-2.2530791162767008,2026-03-26,2026-04-09,CARDIOLOGY,Dr Ellie Iqbal,Asthma,-7717.36,None,Routine,Discharged,4.0,14.0
+PAT100083,Mrs Hollie Daly,86.0,F,Bristol,51.44340437394172,-2.534545410699411,2025-01-02,2025-01-08,Paediatrics,Dr Scott Campbell,Hypertension,4672.99,None,emergency,Under Treatment,7.0,6.0
+PAT100084,Ashleigh Coleman,79.0,Female ,Glasgow,55.90060335722698,-4.272372784133121,2026-03-29,2026-04-13,Orthopaedics,Gavin Mills,Asthma,5732.47,NHS,Emergency,Under Treatment,2.0,15.0
+PAT100085,Lee Cole,38.0,Female,Edinburgh,55.97630372501375,-3.176383253309782,2025-04-26,2025-05-16,CARDIOLOGY,Olivia Bailey,Infection,8752.18,Bupa,Routine,Recovered,2.0,20.0
+PAT100086,Lisa Johnston,52.0,F,Nottingham,52.96442145098262,-1.115527396879691,2025-05-08,2025-05-13,Neurology,Joyce Morris,Heart Disease,4317.38,Aviva,Referral,Referred,5.0,5.0
+PAT100087,Mrs Danielle Barber,80.0,Female,Liverpool,53.4022650925565,-2.9954676901852633,2024-06-04,2024-06-16,cardio,Jemma Hunter,Flu,6130.36,Bupa,ER,Referred,3.0,12.0
+PAT100088,Mr Victor Hill,24.0,M,Newcastle,54.98211797531653,-1.6716579547578398,2026-03-08,2026-03-28,Neurology,Ms Sarah Vincent,Fracture,3595.8,Aviva,Routine,Under Treatment,9.0,20.0
+PAT100089,Denise Green-Dixon,85.0,M,Nottingham,52.928061494555195,-1.1711179280928785,2024-11-22,2024-12-09,orthopedic,Victor Payne-Benson,Heart Disease,6424.55,NHS,Referral,Recovered,2.0,17.0
+PAT100090,Jeremy Allen-Hughes,75.0,F,Manchester,53.505377783724086,-2.3045074929295266,2024-05-14,2024-05-31,cardio,Mrs Diana Clarke,Cancer Screening,5772.61,Aviva,Referral,Referred,10.0,17.0
+PAT100091,Hugh Jenkins,37.0,Male,Nottingham,53.02830437242707,-1.1170912200945389,2024-09-02,2024-09-03,CARDIOLOGY,Suzanne Kent,Fracture,4313.86,Aviva,Emergency,Discharged,6.0,1.0
+PAT100092,Dawn Newton,20.0, Male,Nottingham,52.94799278712768,-1.1197431695530207,2024-12-12,2024-12-21,cardio,Mohammed Stone,Flu,8684.91,NHS,ER,Discharged,1.0,9.0
+PAT100093,Mr Albert Bartlett,48.0,Female ,Liverpool,53.39632339944594,-3.045117894015058,2025-11-07,2025-11-23,Oncology,Dr Connor Schofield,Asthma,5967.16,Aviva,emergency,Readmitted,6.0,16.0
+PAT100094,Dr Dylan Thompson,23.0, Male,Bristol,51.44748976576827,-2.6536213262506894,2025-05-24,2025-06-07,Orthopaedics,Rosemary Carter,Stroke,,Aviva,emergency,Recovered,8.0,14.0
+PAT100095,Dr Damian Banks,66.0,Male,Cardiff,51.473754346372274,-3.2127189015987927,2025-02-27,2025-03-15,Emergency,Glenn Marshall,Migraine,3499.4,Bupa,Routine,Recovered,8.0,16.0
+PAT100096,Mitchell Bell,35.0, Male,Nottingham,52.946007132349706,-1.1479047448256654,2024-10-26,2024-11-10,Orthopaedics,Sylvia Holt,Hypertension,5897.9,AXA,Routine,Readmitted,5.0,15.0
+PAT100097,Mr Stuart Brown,84.0,Male,London,51.51952688691612,-0.1679237434863115,2024-09-10,2024-09-22,Emergency,Dr Danny Allen,Cancer Screening,6508.67,AXA,emergency,Readmitted,3.0,12.0
+PAT100098,Andrew Lewis-Winter,39.0,Male,Manchester,53.464339634946036,-2.2913471437626844,2024-07-28,2024-08-15,Paediatrics,Victor Kay,Fracture,4211.27,Aviva,Routine,Recovered,8.0,18.0
+PAT100099,Cameron Daniels-Lewis,24.0, Male,Leeds,53.8156354921486,-1.5360207493501987,2025-05-31,2025-06-07,CARDIOLOGY,Elliot Taylor-Morgan,Diabetes,5949.1,AXA,Emergency,Under Treatment,5.0,7.0
+PAT100100,Sharon Taylor,45.0,F,Birmingham,52.48779988372515,-1.8592033606778622,2025-08-09,2025-08-11,cardio,Nicholas Carroll,Flu,3962.7,None,Emergency,Under Treatment,9.0,2.0
+PAT100101,Mr Josh Brown,83.0,Female ,Edinburgh,55.95467738657147,-3.185152999078334,2026-04-10,2026-04-25,Orthopaedics,Barbara Harris,Migraine,3903.88,NHS,ER,Recovered,1.0,15.0
+PAT100102,Gavin Jones,,Male,Birmingham,52.5209953605834,-1.8850233679432753,2025-07-27,2025-08-17,Orthopaedics,Dr Julia Kelly,Diabetes,5096.84,Vitality,Emergency,Referred,5.0,21.0
+PAT100103,June Ellis,87.0,Female ,Liverpool,53.377862633615116,-2.9834273206535284,2025-07-05,2025-07-08,Emergency,Ms Jenna Pearce,Flu,3042.3,Vitality,Referral,Discharged,3.0,3.0
+PAT100104,Laura French,87.0, Male,Sheffield,53.382332933504415,-1.466281178718923,2024-11-02,2024-11-04,Orthopaedics,Sheila White,Infection,2043.6,Aviva,Emergency,Discharged,6.0,2.0
+PAT100105,William Wyatt,70.0,Male,London,51.49630245495186,-0.12449409054961015,2025-03-03,2025-03-04,Emergency,Oliver Campbell,Migraine,5551.65,None,Referral,Discharged,,1.0
+PAT100106,Sian Kelly,39.0, Male,Birmingham,52.463702251387836,-1.8606054205431415,2025-02-04,2025-02-12,Orthopaedics,Francis Jackson,Hypertension,3814.01,Aviva,ER,Discharged,9.0,8.0
+PAT100107,Alice Begum-Faulkner,20.0,Female ,Sheffield,53.39246177965646,-1.4351645993122313,2026-01-03,2026-01-06,cardio,Miss Judith Anderson,Stroke,5446.72,Vitality,Referral,Discharged,6.0,3.0
+PAT100108,Mrs Kelly Barker,0.0, Male,Sheffield,53.42614079871171,-1.4876914572315105,2024-08-10,2024-08-15,Oncology,Guy Abbott,Fracture,8565.69,Bupa,Emergency,Referred,3.0,5.0
+PAT100109,Jacqueline Sharp,71.0, Male,Manchester,53.47270408735029,-2.2559150352487327,2026-01-09,2026-01-25,Neurology,Dr Abigail Walters,Hypertension,1102.81,NHS,Referral,Recovered,10.0,16.0
+PAT100110,Mohammed Grant,48.0,Female,Glasgow,55.85698427278528,-4.254967180467246,2025-01-10,2025-01-19,Paediatrics,Max Patel,Diabetes,3141.37,Vitality,Referral,Readmitted,2.0,9.0
+PAT100111,Ashleigh Miles,86.0,M,Birmingham,52.496926120925465,-1.8326486939191733,2025-07-14,2025-07-24,Cardiology,Dr Tracey Lee,Stroke,3646.92,None,Routine,Readmitted,1.0,10.0
+PAT100112,Yvonne Cook-Bell,78.0, Male,Manchester,53.49989961952826,-2.2201142238454064,2024-07-10,2024-07-18,General Medicine,Lucy Singh,Migraine,5758.04,NHS,Emergency,Discharged,3.0,8.0
+PAT100113,Tracy Jenkins-Cole,85.0,F,London,51.49431911630848,-0.05944302131889741,2025-05-14,2025-06-03,CARDIOLOGY,Jill Coleman,Diabetes,5145.11,NHS,Routine,Readmitted,5.0,20.0
+PAT100114,Joseph Cook-Hurst,66.0, Male,Liverpool,53.44848248059156,-2.987549517105693,2025-06-06,2025-06-11,Oncology,Sian Sanderson,Fracture,6705.37,NHS,emergency,Under Treatment,1.0,5.0
+PAT100115,Leslie Kaur,67.0,F,Sheffield,53.406116019866865,-1.448971144342886,2025-04-07,2025-04-10,Oncology,Dr Kieran Kirby,Diabetes,7055.74,AXA,Routine,Readmitted,5.0,
+PAT100116,Miss Joyce Pearce,55.0,Male,Newcastle,54.97228575720767,-1.5510780104936668,2026-04-17,2026-05-03,CARDIOLOGY,Leigh Baker-Heath,Cancer Screening,4758.79,Vitality,Emergency,Discharged,6.0,16.0
+PAT100117,Laura Yates,69.0,Female,Leeds,53.83893818743138,-1.5514921018526093,2026-01-29,2026-02-08,Neurology,Jeremy Lees,Fracture,3219.93,Bupa,Routine,Discharged,4.0,10.0
+PAT100118,Dr Mohammad Davies,86.0, Male,Cardiff,51.45777085732015,-3.223874825907652,2025-06-01,2025-06-12,Orthopaedics,Lauren Rees,Flu,3134.89,AXA,Referral,Readmitted,7.0,11.0
+PAT100119,Natasha Moore-Harrison,62.0,Female,Newcastle,54.96918754261736,-1.6396991916619543,2026-01-26,2026-02-04,Orthopaedics,Michael White-Smith,Flu,2256.91,AXA,Emergency,Readmitted,8.0,9.0
+PAT100120,Roger Lucas-Carter,39.0,Female,Leeds,53.77739231736521,-1.56644467778559,2024-11-28,2024-12-08,General Medicine,Billy Stevenson,Migraine,1263.64,Aviva,Routine,Recovered,7.0,10.0
+PAT100121,Chloe Martin,22.0,M,Cardiff,51.49792629578323,-3.1747215009997327,2025-08-26,2025-09-05,Emergency,Gail Barker,Flu,5526.78,AXA,Routine,Discharged,10.0,10.0
+PAT100122,Ms Tracey Williams,86.0,Female ,Edinburgh,55.9559332008246,-3.180299054298137,2024-12-10,2024-12-31,orthopedic,Mr Colin Jones,Cancer Screening,6252.15,Vitality,ER,Under Treatment,9.0,21.0
+PAT100123,Mr Timothy Davies,46.0, Male,Newcastle,54.95774186694657,-1.6193398386696265,2024-10-17,2024-11-03,Paediatrics,Hazel Ashton,Infection,1801.27,Aviva,Referral,Under Treatment,1.0,17.0
+PAT100124,Mrs Francesca Scott,66.0,Male,Leeds,53.85472315607116,-1.5309717676285362,2024-10-08,2024-10-26,Cardiology,Dr Shaun Moore,Asthma,,Bupa,emergency,Referred,6.0,18.0
+PAT100125,Brett Lloyd,78.0, Male,Cardiff,51.47749981459804,-3.166559610727453,2025-08-21,2025-09-03,Paediatrics,Bernard Mitchell,Asthma,4189.06,AXA,Emergency,Readmitted,3.0,13.0
+PAT100126,Mr Oliver Ward,32.0,Male,Manchester,53.46099631177155,-2.2047940164644837,2026-03-05,2026-03-09,Paediatrics,Mr Kevin Newman,Migraine,5382.59,Vitality,ER,Readmitted,4.0,4.0
+PAT100127,Leslie Cole,71.0,M,Glasgow,55.88210847950586,-4.220653226626069,2026-05-11,2026-05-15,Neurology,Clifford Mills,Heart Disease,1149.24,NHS,Emergency,Under Treatment,4.0,4.0
+PAT100128,Lindsey Naylor,76.0,Female ,Glasgow,55.89330318533192,-4.29470716300486,2025-08-10,2025-08-15,cardio,Kieran Walker,Fracture,7628.21,Bupa,Referral,Referred,7.0,5.0
+PAT100129,Martyn Kaur,41.0,M,Bristol,51.503993323121946,-2.555108457829701,2025-01-27,2025-02-16,cardio,Jonathan Greenwood-Jones,Asthma,5752.78,Bupa,Routine,Referred,2.0,20.0
+PAT100130,Mrs Janice Wood,72.0,Male,Manchester,53.45940145778278,-2.22787664512563,2026-04-24,2026-05-12,cardio,Mrs Sandra James,Migraine,5368.93,Aviva,Emergency,Referred,3.0,18.0
+PAT100131,Nigel Miles,,Female ,Sheffield,53.3761263202287,-1.4912753659389413,2026-03-29,2026-03-31,Neurology,Roger Carpenter,Fracture,3071.19,NHS,Routine,Discharged,8.0,2.0
+PAT100132,Dr Kathryn Williamson,26.0, Male,Newcastle,55.00415733354135,-1.6169988850117563,2025-04-27,2025-05-18,Emergency,Ms Eleanor Clayton,Asthma,5230.97,Aviva,Emergency,Under Treatment,5.0,21.0
+PAT100133,Richard Davies,36.0,M,Birmingham,52.48710272727543,-1.8094253267321936,2024-08-10,2024-08-11,General Medicine,Adrian Walsh,Diabetes,4218.12,Aviva,Emergency,Discharged,10.0,1.0
+PAT100134,Miss Sheila Hutchinson,70.0, Male,Bristol,51.496905788367144,-2.6366887330675146,2025-04-05,2025-04-08,General Medicine,Mr Clifford Williams,Diabetes,4165.38,AXA,Routine,Readmitted,2.0,3.0
+PAT100135,Luke Mason,47.0,Female,Cardiff,51.47700339367201,-3.2031325373725617,2025-03-13,2025-03-23,Emergency,Leigh Davis,Flu,3914.53,Aviva,ER,Recovered,10.0,10.0
+PAT100136,Marcus Evans,50.0,M,Nottingham,52.94433076874906,-1.1093852104864916,2025-07-29,2025-08-18,Oncology,Georgina Davis-Lucas,Infection,3205.59,None,ER,Discharged,9.0,20.0
+PAT100137,Mr Andrew Morris,74.0, Male,Edinburgh,55.9697313172527,-3.157405299531043,2025-03-16,2025-04-04,Neurology,Mrs Wendy King,Diabetes,3852.5,AXA,ER,Recovered,3.0,19.0
+PAT100138,Mrs Aimee Finch,18.0, Male,Cardiff,51.516875933535616,-3.175629946107981,2024-05-24,2024-06-01,General Medicine,Ben Gray,Hypertension,2931.98,None,ER,Recovered,4.0,8.0
+PAT100139,Gary Rhodes,69.0,F,Glasgow,55.83482218296262,-4.249326764206565,2024-08-22,2024-09-02,General Medicine,Gillian Fletcher-Woods,Cancer Screening,4174.42,Aviva,Emergency,Under Treatment,7.0,11.0
+PAT100140,Sarah Sykes,59.0,M,Newcastle,54.956528946736455,-1.6495630226130775,2025-10-13,2025-10-28,Paediatrics,Dr Peter Parsons,Heart Disease,3784.9,AXA,Routine,Under Treatment,10.0,15.0
+PAT100141,Lucy Black,19.0,F,Liverpool,53.42119648976322,-2.9844338093937517,2024-09-04,2024-09-20,Paediatrics,Jacqueline Ward-Palmer,Heart Disease,949.67,Vitality,Emergency,Under Treatment,6.0,16.0
+PAT100142,Julie Barker,24.0,F,Nottingham,52.97205155670625,-1.099279742885158,2025-02-07,2025-02-25,Neurology,Mr Alan Mitchell,Diabetes,4477.91,Aviva,ER,Under Treatment,2.0,18.0
+PAT100143,Emily Cunningham,45.0,Female,London,51.53354971404652,-0.11673924667766827,2026-02-20,2026-02-27,cardio,Nicholas Watkins-Burgess,Stroke,6658.15,NHS,ER,Readmitted,1.0,7.0
+PAT100144,Edward Williams,31.0, Male,Nottingham,52.941385480624284,-1.1387398121771275,2025-05-15,2025-05-30,Emergency,Clifford Bond-Edwards,Cancer Screening,5015.03,NHS,ER,Discharged,10.0,15.0
+PAT100145,Ms Carolyn Barrett,47.0,Male,Manchester,53.450229728556245,-2.2371103046482697,2026-04-20,2026-05-04,cardio,Ms Jean Newman,Fracture,6318.14,Vitality,Routine,Recovered,2.0,14.0
+PAT100146,Garry Perry,21.0,M,Birmingham,52.49226004515711,-1.8571639088795922,2026-04-19,2026-05-04,Paediatrics,Douglas Norman-Adams,Flu,1714.17,None,Routine,Discharged,5.0,15.0
+PAT100147,Mr Shaun Barrett,57.0,Female ,London,51.467433877363725,-0.17170643447738368,2025-09-01,2025-09-15,orthopedic,Ben Arnold,Flu,5829.54,Bupa,Referral,Referred,3.0,
+PAT100148,Joshua Smith-Wells,0.0,F,Edinburgh,55.94245962724922,-3.1890914063739157,2026-04-06,2026-04-08,General Medicine,Barbara Smith,Migraine,350.0,Aviva,emergency,Recovered,8.0,2.0
+PAT100149,Philip Davis,34.0,M,Liverpool,53.38911707725317,-3.0447674397843776,2026-01-04,2026-01-08,Orthopaedics,Shaun Baker,Migraine,2235.13,Vitality,Referral,Discharged,7.0,4.0
+PAT100150,Mohammad Richards,38.0,Male,Leeds,53.835379976840514,-1.5449999033982391,2025-01-31,2025-02-11,Cardiology,Damian Glover,Asthma,5286.47,Aviva,Routine,Recovered,5.0,11.0
+PAT100151,Ben Foster,27.0, Male,Bristol,51.4750223927299,-2.601665714670334,2026-01-01,2026-01-14,Neurology,Dr Joseph Reeves,Fracture,5442.0,AXA,Referral,Discharged,1.0,13.0
+PAT100152,Bethan Ford,50.0, Male,Leeds,53.827311160906426,-1.600919957898411,2024-06-10,2024-06-21,orthopedic,Ms Clare Hughes,Flu,6997.75,NHS,Referral,Recovered,2.0,11.0
+PAT100153,Albert Chambers,77.0,Female,Edinburgh,55.93093309659473,-3.1949178539491885,2025-03-27,2025-04-04,Neurology,Neil Wilson,Stroke,2705.77,Bupa,emergency,Readmitted,9.0,8.0
+PAT100154,Olivia Hodgson,67.0,Female ,Liverpool,53.442105525351856,-2.9836631436161225,2025-07-09,2025-07-13,General Medicine,Dr John Finch,Migraine,3638.94,AXA,emergency,Discharged,5.0,4.0
+PAT100155,Roy Young,78.0,Female,Birmingham,52.513046948577845,-1.899202109920334,2025-10-02,2025-10-14,General Medicine,Thomas Taylor,Cancer Screening,2786.98,AXA,Referral,Recovered,2.0,12.0
+PAT100156,Mrs Julia Lambert,46.0,Female ,Nottingham,52.94859366820276,-1.120175015988086,2024-05-17,2024-05-29,Oncology,Harry Lambert,Heart Disease,7086.01,AXA,emergency,Under Treatment,5.0,12.0
+PAT100157,Pauline Harper-Barton,,Male,Sheffield,53.36454029209596,-1.507996760560698,2025-05-18,2025-05-31,orthopedic,Lynn Lawson,Diabetes,4919.76,None,Routine,Recovered,4.0,13.0
+PAT100158,Conor Leach-Leach,54.0,Female ,Sheffield,53.36635336240499,-1.429372477457338,2025-09-03,2025-09-14,CARDIOLOGY,Angela Barry,Heart Disease,6377.47,NHS,ER,Referred,5.0,11.0
+PAT100159,Mr Jeremy Parry,,Male,Manchester,53.48868461806681,-2.2519168311138573,2025-07-22,2025-07-29,Cardiology,Simon Saunders-Owen,Hypertension,7083.39,Bupa,Emergency,Under Treatment,9.0,7.0
+PAT100160,Carly Davies,81.0,Female ,Manchester,53.451404024147635,-2.3028748545697204,2025-02-19,2025-02-28,Paediatrics,Bruce French,Hypertension,4054.59,Vitality,Referral,Discharged,9.0,9.0
+PAT100161,Ms Rita Hayes,81.0,Male,London,51.50985277135291,-0.06412566387686014,2024-08-18,2024-08-30,Paediatrics,Simon Evans,Hypertension,1442.65,AXA,emergency,Readmitted,8.0,12.0
+PAT100162,Mrs Joanna Lee,85.0, Male,Liverpool,53.4130807192683,-3.0003926856075473,2025-02-11,2025-03-01,Paediatrics,Miss Emily Wallace,Fracture,4716.1,None,Emergency,Referred,6.0,18.0
+PAT100163,Allan Lowe,23.0,Female ,Sheffield,53.37983625463279,-1.4762634595822748,2024-09-25,2024-09-27,CARDIOLOGY,Dr Robert Parker,Migraine,5799.31,Aviva,Emergency,Under Treatment,8.0,2.0
+PAT100164,Dr Gordon Gregory,33.0,Female,Manchester,53.43080443683812,-2.2091530445319405,2024-06-13,2024-06-22,Paediatrics,George Jackson,Asthma,5150.85,AXA,emergency,Referred,4.0,9.0
+PAT100165,Robert Baxter,,F,Glasgow,55.828150671113015,-4.270864741458444,2025-10-19,2025-10-20,Emergency,Donald Evans,Hypertension,4245.81,Bupa,Routine,Discharged,1.0,1.0
+PAT100166,Mr Alexander Mason,56.0,F,Leeds,53.840854127195904,-1.5701765756008883,2025-12-08,2025-12-28,orthopedic,Mitchell Turner,Diabetes,4610.13,Aviva,Routine,Readmitted,3.0,20.0
+PAT100167,Mr Matthew Parker,29.0,M,Newcastle,54.960245261664575,-1.5744679793563765,2024-06-12,2024-06-19,Paediatrics,Miss Yvonne Bailey,Asthma,5302.14,Vitality,Referral,Readmitted,7.0,7.0
+PAT100168,Abbie Rose,51.0,Female ,Cardiff,51.55008960284197,-3.1544310900819332,2025-04-04,2025-04-20,Orthopaedics,Deborah Goodwin,Hypertension,4387.47,Vitality,Emergency,Discharged,6.0,16.0
+PAT100169,Derek Collins,41.0,Female,Edinburgh,56.005829958308595,-3.183201882287895,2025-01-20,2025-01-29,Oncology,Naomi Phillips,Asthma,5864.0,None,emergency,Under Treatment,2.0,9.0
+PAT100170,Kathleen Pearson,77.0,M,Cardiff,51.472691607402695,-3.2200326653287936,2024-09-01,2024-09-15,Cardiology,Stacey Scott,Diabetes,4598.74,None,Emergency,Recovered,8.0,14.0
+PAT100171,Georgina Hall,61.0, Male,Liverpool,53.437469024498576,-2.983861486086524,2024-12-14,2024-12-29,Paediatrics,Adam Potts,Flu,1456.66,Aviva,ER,Referred,2.0,15.0
+PAT100172,Kelly Morrison,53.0, Male,Manchester,53.49533602402092,-2.2656933236141468,2024-06-29,2024-07-03,Cardiology,Julian Harris,Stroke,5087.13,Bupa,ER,Readmitted,2.0,4.0
+PAT100173,Mohammed Cartwright-Humphreys,51.0,Male,Bristol,51.462866026996025,-2.5602700455858423,2025-01-03,2025-01-11,orthopedic,Mrs Janet Kemp,Diabetes,5189.5,Bupa,Referral,Under Treatment,10.0,
+PAT100174,Jemma Evans,76.0, Male,Sheffield,53.39600617201929,-1.4272005746327496,2024-12-17,2024-12-26,cardio,Mohammad Murphy,Stroke,2573.99,AXA,ER,Referred,9.0,9.0
+PAT100175,Jade Evans,68.0,M,London,51.53318302514732,-0.12727544488296852,2025-11-16,2025-11-22,General Medicine,Gavin Lucas-Saunders,Infection,,Vitality,Emergency,Readmitted,2.0,6.0
+PAT100176,Jacqueline Lowe,25.0,Female ,London,51.44822390025751,-0.15155821908450284,2026-03-15,2026-03-18,Cardiology,Craig Walker,Hypertension,,None,emergency,Recovered,1.0,3.0
+PAT100177,James Brown,24.0,Male,London,51.46459371484673,-0.18180752362447683,2026-04-25,2026-05-11,General Medicine,Charles Dawson-Perry,Migraine,2729.04,NHS,emergency,Readmitted,1.0,16.0
+PAT100178,Deborah Evans,43.0,M,Birmingham,52.43725712160799,-1.8948711177085966,2024-08-17,2024-09-02,Cardiology,Amanda Black,Migraine,5176.23,NHS,emergency,Recovered,4.0,16.0
+PAT100179,Victoria Smith,82.0,Female ,Liverpool,53.416247548339655,-3.0129957792546356,2026-02-23,2026-03-12,Oncology,Peter Graham,Flu,3954.24,None,Emergency,Referred,8.0,17.0
+PAT100180,Rosie Bond,27.0,F,Edinburgh,55.94528072645943,-3.203293099116953,2024-08-29,2024-09-11,orthopedic,Julie Horton,Asthma,3534.67,AXA,Emergency,Recovered,2.0,13.0
+PAT100181,Christopher Welch,21.0,Female,London,51.500488992238544,-0.13367631271573457,2024-12-02,2024-12-08,Emergency,Gregory Bates,Heart Disease,5081.78,NHS,ER,Recovered,4.0,6.0
+PAT100182,Jenna Thomas,18.0,Female,Glasgow,55.84125467234018,-4.241935843201558,2024-08-09,2024-08-16,orthopedic,Roger Reid,Infection,4006.29,Bupa,Routine,Recovered,1.0,7.0
+PAT100183,Jane Roberts,30.0,Female,Newcastle,54.90937101576848,-1.6272380603677776,2025-07-27,2025-08-12,Neurology,Rachel Richardson,Cancer Screening,2572.47,Bupa,Emergency,Recovered,6.0,16.0
+PAT100184,Abdul Harris,74.0,Female ,Birmingham,52.51118809357066,-1.8451629351854868,2026-03-20,2026-04-03,Emergency,Dr Robert O'Connor,Fracture,4280.66,Bupa,Referral,Referred,1.0,14.0
+PAT100185,Ms Paula Saunders,61.0,Female ,Sheffield,53.363633064826786,-1.4474208233971362,2025-03-29,2025-03-30,General Medicine,Brandon Murphy,Stroke,6680.2,Vitality,Referral,Discharged,8.0,1.0
+PAT100186,Marc Slater-Thompson,83.0,Female,Leeds,53.74637571789688,-1.6092606256443482,2026-01-21,2026-02-10,Orthopaedics,Dr Lee Edwards,Migraine,5832.28,NHS,emergency,Referred,2.0,20.0
+PAT100187,Holly Clayton-Davis,83.0,M,Glasgow,55.8660801303703,-4.272149149065419,2024-08-11,2024-08-15,cardio,Terence Burns,Flu,3259.48,NHS,emergency,Readmitted,7.0,4.0
+PAT100188,Miss Beth Hilton,31.0,Male,Cardiff,51.468879806641176,-3.137435887289339,2024-07-04,2024-07-24,Oncology,Colin Taylor,Infection,7994.25,Aviva,ER,Under Treatment,5.0,20.0
+PAT100189,Jessica Khan,58.0,F,Liverpool,53.472799144374974,-3.0606182563828845,2026-04-07,2026-04-25,Paediatrics,Diana Walker,Asthma,4071.25,AXA,Emergency,Referred,1.0,18.0
+PAT100190,Mr Aaron Dunn,84.0, Male,Sheffield,53.369581543103024,-1.459595932483133,2025-07-05,2025-07-19,Neurology,Joyce Rogers,Migraine,4523.31,Bupa,ER,Readmitted,3.0,14.0
+PAT100191,Mr Darren Williams,35.0,F,Edinburgh,55.93339342202127,-3.2203463086049147,2025-09-16,2025-09-19,cardio,Joe Hughes-Johnson,Stroke,7057.11,Aviva,ER,Discharged,5.0,3.0
+PAT100192,Aaron Lewis-Smith,68.0,Female,Edinburgh,55.96758115454224,-3.1546873000884776,2025-10-12,2025-10-26,Emergency,Carol Jones,Cancer Screening,6921.64,NHS,Referral,Discharged,3.0,14.0
+PAT100193,Samantha Dale,35.0,Female ,London,51.58949535157156,-0.11643128831482961,2024-06-25,2024-07-12,CARDIOLOGY,Dr Antony Wilkinson,Stroke,8280.2,NHS,ER,Discharged,5.0,17.0
+PAT100194,Gavin Riley-Cooper,84.0,Female ,Newcastle,54.98603301020106,-1.581545572622949,2025-10-17,2025-10-23,Oncology,Dr Bruce Adams,Heart Disease,5159.07,None,Referral,Under Treatment,4.0,6.0
+PAT100195,Dr Keith Hart,25.0, Male,London,51.48561690106994,-0.1886888450938772,2025-09-09,2025-09-22,Emergency,Bruce Walters,Cancer Screening,4175.21,None,Referral,Referred,2.0,13.0
+PAT100196,Suzanne Brookes,33.0,F,London,51.50553192210627,-0.13903090676929758,2026-03-22,2026-04-01,cardio,Dr Nathan Parkinson,Flu,6523.57,NHS,Emergency,Discharged,6.0,10.0
+PAT100197,Dr Garry Browne,36.0,F,Leeds,53.80349272467594,-1.5318135575992697,2025-02-28,2025-03-21,CARDIOLOGY,Dr Gary Curtis,Cancer Screening,7221.55,AXA,Routine,Discharged,6.0,21.0
+PAT100198,Miss Anne Davies,85.0,F,Glasgow,55.899733830720265,-4.246252696046149,2025-02-08,2025-02-24,Oncology,Henry Mitchell,Heart Disease,10347.22,None,Referral,Discharged,3.0,16.0
+PAT100199,Leslie Sinclair-Stephens,69.0,Male,Manchester,53.467793619757586,-2.237309941971701,2026-03-03,2026-03-22,CARDIOLOGY,Owen Johnson,Asthma,6363.52,Vitality,ER,Referred,2.0,19.0
+PAT100200,Lee Turner,23.0,Female,London,51.51053514888131,-0.17974411968964127,2025-12-14,2025-12-29,CARDIOLOGY,Mr Ronald Barker,Asthma,4856.73,Vitality,Routine,Readmitted,1.0,15.0
+PAT100201,Rosemary May,,Female,Newcastle,55.0336589912918,-1.6367332807361645,2025-12-14,2026-01-03,orthopedic,Ross Stevens-Barber,Stroke,6297.45,Aviva,ER,Referred,4.0,20.0
+PAT100202,Dr Abdul Hamilton,22.0,Female ,Bristol,51.42083435596604,-2.569909094910506,2025-02-17,2025-02-28,Orthopaedics,Brandon Lee,Hypertension,3318.03,NHS,Emergency,Recovered,2.0,11.0
+PAT100203,Leonard Shaw,80.0,Male,Newcastle,55.007759509204554,-1.680998215539813,2026-04-23,2026-04-30,Oncology,Dr Karl Fraser,Fracture,7075.5,Bupa,ER,Discharged,2.0,7.0
+PAT100204,Christine Hart,64.0,M,Leeds,53.7942608319527,-1.516534266637343,2024-08-01,2024-08-22,Paediatrics,Jill Hussain,Flu,5201.61,AXA,Emergency,Readmitted,2.0,21.0
+PAT100205,Lisa Holmes,,Male,Nottingham,52.94376348686381,-1.1416708425304642,2025-03-04,2025-03-25,Cardiology,Eric Lewis,Hypertension,8905.17,AXA,emergency,Recovered,9.0,21.0
+PAT100206,Dr Vanessa Burns,23.0,Female,Newcastle,54.969811789913436,-1.5703463852137889,2024-07-16,2024-07-19,Cardiology,Caroline Simpson,Stroke,5663.23,AXA,Emergency,Discharged,4.0,3.0
+PAT100207,June Wright,38.0,Female ,Manchester,53.508829754152686,-2.2218550320100814,2025-08-20,2025-09-01,Neurology,Charlie O'Connor,Fracture,2888.61,NHS,ER,Readmitted,1.0,12.0
+PAT100208,Luke Cole,50.0,Female,Birmingham,52.54957502227513,-1.869195927046814,2025-06-06,2025-06-26,Emergency,Joe Marsh,Diabetes,6775.81,NHS,Referral,Recovered,2.0,20.0
+PAT100209,Mr Patrick Godfrey,45.0,Female ,Nottingham,53.00853853329053,-1.1403126118766873,2024-09-08,2024-09-13,Paediatrics,Daniel Hewitt-Donnelly,Fracture,4689.79,Bupa,ER,Discharged,9.0,5.0
+PAT100210,Carl Edwards-Ward,34.0,Female,Edinburgh,56.00249590430768,-3.1800426245235514,2025-10-23,2025-10-27,CARDIOLOGY,Dr Denis Hill,Flu,4765.57,None,Routine,Discharged,3.0,4.0
+PAT100211,Mrs Anna Kaur,77.0,Male,Sheffield,53.29572661057129,-1.4226638243880665,2024-08-17,2024-09-04,Paediatrics,Mr Joseph Jones,Diabetes,5516.21,None,Emergency,Under Treatment,8.0,18.0
+PAT100212,Dr Danny Newton,54.0,Female ,Liverpool,53.410793469032626,-2.960297305450321,2025-08-09,2025-08-15,Emergency,Anna Richards,Hypertension,5768.16,AXA,emergency,Under Treatment,,6.0
+PAT100213,Dr Malcolm Thompson,73.0,Female ,Birmingham,52.512772621927226,-1.8626281328870544,2025-01-13,2025-01-28,cardio,Dorothy McLean,Stroke,7975.86,Vitality,Routine,Under Treatment,5.0,15.0
+PAT100214,Ricky Archer-Robinson,74.0,Male,Liverpool,53.37367867999843,-3.0425255105501847,2025-03-23,2025-04-13,Paediatrics,Louise Hill-Wilson,Diabetes,2009.42,None,Routine,Recovered,7.0,21.0
+PAT100215,Martin Richards-Armstrong,47.0,Female ,Leeds,53.79201283733532,-1.5634695548278743,2026-01-27,2026-02-16,Cardiology,Mr George Cunningham,Hypertension,8145.76,AXA,Emergency,Under Treatment,7.0,20.0
+PAT100216,Charlie Richards,64.0, Male,Cardiff,51.506234407525184,-3.2131103521722477,2025-02-12,2025-02-25,Cardiology,Charlotte Edwards-Davies,Infection,6339.46,NHS,ER,Referred,8.0,13.0
+PAT100217,Maureen Brady,47.0,F,Liverpool,53.45411624382123,-3.009719417425151,2025-09-29,2025-10-07,Emergency,Leanne Bishop,Cancer Screening,4914.4,Bupa,Routine,Readmitted,4.0,8.0
+PAT100218,Yvonne Brown,31.0, Male,Sheffield,53.41010417481647,-1.4819233050647873,2024-05-23,2024-06-07,General Medicine,Mr Marcus Cartwright,Infection,,AXA,ER,Under Treatment,1.0,15.0
+PAT100219,Janet Howard-Smith,57.0,F,Newcastle,54.97863095911733,-1.6141319686226283,2024-11-27,2024-12-17,Orthopaedics,Nicole Walker,Stroke,5653.52,NHS,ER,Referred,1.0,20.0
+PAT100220,Jade Newton,34.0,Female ,Nottingham,52.9526171537089,-1.1518992199141673,2025-05-27,2025-06-04,Paediatrics,Ms Sylvia Taylor,Heart Disease,2848.2,Aviva,ER,Referred,7.0,8.0
+PAT100221,Arthur Johnson,66.0,F,Nottingham,52.94444153177252,-1.1234657947124949,2024-12-29,2025-01-17,cardio,Callum Barnes,Diabetes,5261.51,Vitality,Emergency,Referred,6.0,19.0
+PAT100222,Clare Campbell-Roberts,40.0, Male,Nottingham,53.021993649001885,-1.1335854215430474,2026-05-10,2026-05-27,Orthopaedics,Mrs Caroline Blackburn,Infection,4632.11,Bupa,emergency,Recovered,1.0,17.0
+PAT100223,Clare Summers-Swift,86.0, Male,Cardiff,51.47821633887547,-3.1977454738422066,2024-09-17,2024-10-08,Paediatrics,Timothy Blake,Hypertension,2773.37,Bupa,Referral,Referred,8.0,21.0
+PAT100224,Donald Davis,18.0, Male,Manchester,53.480033025180106,-2.2450473391679533,2025-01-24,2025-01-28,General Medicine,Ashleigh Anderson,Cancer Screening,,Aviva,Routine,Recovered,1.0,4.0
+PAT100225,Dr Christian Lewis,83.0,Male,London,51.49000116078766,-0.13643184129331,2025-11-30,2025-12-06,CARDIOLOGY,Mr Elliot Hopkins,Migraine,7567.43,NHS,Emergency,Referred,3.0,6.0
+PAT100226,Natalie Leach,84.0,Female,Cardiff,51.47982865711964,-3.1820248200628125,2025-11-19,2025-11-24,orthopedic,Dr David Swift,Migraine,3889.03,Vitality,emergency,Recovered,5.0,5.0
+PAT100227,Jonathan Kerr-Hurst,37.0,Female,Edinburgh,55.97981725590105,-3.1533817272611047,2024-05-25,2024-06-07,orthopedic,Norman Davies,Fracture,4871.33,Aviva,Routine,Under Treatment,5.0,13.0
+PAT100228,Dylan Begum,52.0,Female ,Newcastle,54.94488602636232,-1.6008029166617381,2024-11-27,2024-12-10,CARDIOLOGY,Mandy Mason,Asthma,7925.24,NHS,Routine,Referred,4.0,13.0
+PAT100229,Francis Jones,38.0,Male,Sheffield,53.38072508039419,-1.5073448149994575,2025-03-12,2025-03-27,orthopedic,Samantha Burton-Gregory,Hypertension,4762.55,Bupa,ER,Under Treatment,2.0,15.0
+PAT100230,Jamie Smith-Rogers,68.0,Female ,Sheffield,53.34199585486298,-1.4788722476508367,2025-06-14,2025-07-05,CARDIOLOGY,Jane Reed,Hypertension,8871.29,Bupa,Emergency,Readmitted,8.0,21.0
+PAT100231,Connor Dawson,22.0,Female,Cardiff,51.484319307843855,-3.2006508655669315,2026-01-10,2026-01-29,Orthopaedics,Grace Lawrence,Fracture,5483.37,Bupa,Routine,Referred,4.0,19.0
+PAT100232,John Richards,38.0,Male,Nottingham,53.0028323099852,-1.17100594717044,2024-08-23,2024-09-06,Oncology,Callum Nelson,Asthma,7398.58,Vitality,emergency,Recovered,3.0,14.0
+PAT100233,Mathew Clarke,52.0,M,Birmingham,52.435295352339224,-1.8944747087909668,2025-06-09,2025-06-28,cardio,Jacob Evans,Heart Disease,6458.13,None,emergency,Readmitted,8.0,19.0
+PAT100234,Lewis Ward,41.0,M,Bristol,51.45829938775118,-2.6237238881516047,2025-02-12,2025-02-17,Oncology,Katie Thomas,Stroke,6881.14,AXA,Routine,Under Treatment,1.0,5.0
+PAT100235,Mr Ross Allen,82.0,Male,Sheffield,53.37854081284091,-1.4746421918068053,2026-04-29,2026-05-18,Oncology,Graeme Black,Migraine,4970.62,None,Routine,Discharged,4.0,19.0
+PAT100236,Dorothy Smith,37.0,Female ,Liverpool,53.419124149421165,-2.996886045711962,2024-12-31,2025-01-11,Cardiology,Joanna Webb,Infection,6664.27,None,ER,Under Treatment,7.0,11.0
+PAT100237,Mr Christopher Clark,27.0, Male,London,51.53404088679789,-0.10146245309484132,2025-10-24,2025-10-27,Neurology,Martyn Pratt,Diabetes,1746.43,Aviva,Emergency,Readmitted,5.0,3.0
+PAT100238,Denis Bentley,86.0,Female ,Newcastle,54.99078509368704,-1.6003930114754346,2025-08-12,2025-08-24,Neurology,Joshua Nicholson,Heart Disease,3328.44,NHS,Routine,Under Treatment,5.0,12.0
+PAT100239,Mr Wayne Williams,59.0, Male,Edinburgh,55.98234767177348,-3.1873459990417303,2025-09-03,2025-09-20,orthopedic,Terry Whitehead,Fracture,,NHS,Emergency,Discharged,2.0,17.0
+PAT100240,Alice Knight,65.0,M,Leeds,53.77594525546603,-1.5526564048802478,2025-12-30,2026-01-02,Cardiology,Dr Mathew Metcalfe,Heart Disease,4396.21,Vitality,emergency,Referred,7.0,3.0
+PAT100241,Justin Yates,60.0,Male,Nottingham,52.94621752762157,-1.150626257296713,2025-06-28,2025-07-01,Paediatrics,Dr Danny Begum,Heart Disease,2787.3,NHS,Emergency,Recovered,10.0,3.0
+PAT100242,Clifford Cooper,54.0,F,Cardiff,51.51079563345263,-3.1990409841393364,2025-09-13,2025-09-24,orthopedic,Mrs Sandra James,Fracture,4365.49,AXA,Emergency,Under Treatment,5.0,11.0
+PAT100243,Kerry Sullivan,49.0,Male,Sheffield,53.46354928583097,-1.4842499103484312,2024-12-14,2024-12-26,CARDIOLOGY,Andrea Taylor,Heart Disease,8705.21,None,emergency,Under Treatment,10.0,12.0
+PAT100244,Shane Murphy,22.0,Female ,Liverpool,53.43481909592281,-2.9645577438029194,2026-03-16,2026-04-04,CARDIOLOGY,Jonathan Bell-Wheeler,Fracture,5322.88,Vitality,Referral,Readmitted,10.0,19.0
+PAT100245,Dr Michelle Patterson,54.0,M,Edinburgh,55.97996937898875,-3.225656972360666,2026-02-02,2026-02-04,General Medicine,Steven Kaur,Asthma,3974.1,NHS,ER,Discharged,10.0,2.0
+PAT100246,Mr Victor Andrews,47.0,Female ,Leeds,53.81810993492809,-1.5395250928951123,2025-12-07,2025-12-23,Paediatrics,Ellie Davison,Cancer Screening,2284.46,Aviva,Referral,Under Treatment,4.0,16.0
+PAT100247,Dr Dominic Hughes,85.0,Female,Manchester,53.478052356593324,-2.28593004641754,2025-12-24,2026-01-07,orthopedic,Dominic Smith,Diabetes,5255.43,Aviva,ER,Under Treatment,6.0,14.0
+PAT100248,Charlie Williams,19.0,M,Edinburgh,55.99851321509593,-3.2034577275915823,2024-05-31,2024-06-17,General Medicine,Lynda Phillips,Cancer Screening,2782.33,Vitality,Emergency,Referred,6.0,17.0
+PAT100249,Ms Sheila Garner,84.0,Female ,Bristol,51.44167761321353,-2.5587313179450395,2025-07-03,2025-07-15,Paediatrics,Frances Ross,Stroke,4594.94,AXA,emergency,Readmitted,6.0,12.0
+PAT100250,Darren Carpenter-Hunter,73.0,F,Liverpool,53.38408341390458,-2.9726072031385096,2024-09-26,2024-10-07,Emergency,Gregory Jones,Asthma,6969.84,AXA,Emergency,Under Treatment,2.0,11.0
+PAT100251,Gordon Russell,45.0,M,Newcastle,54.9453195978627,-1.618748073284415,2025-07-25,2025-07-28,Oncology,Dr Susan Foster,Heart Disease,3568.85,Aviva,Referral,Under Treatment,6.0,3.0
+PAT100252,Billy Morgan,67.0,Female ,Birmingham,52.48705287709154,-1.8822433507987473,2025-10-27,2025-11-10,Emergency,Patricia Lees,Fracture,5687.73,None,ER,Discharged,10.0,14.0
+PAT100253,Edward Brown,77.0,M,Leeds,53.80420117207377,-1.5302715146406158,2025-10-14,2025-10-17,cardio,Yvonne Whittaker,Asthma,7054.15,None,Emergency,Referred,10.0,3.0
+PAT100254,Gail Williams-Charlton,75.0,Female,Liverpool,53.40111197770443,-3.029931935880418,2025-04-01,2025-04-16,Paediatrics,Dr Michael Hall,Flu,4704.47,Vitality,Routine,Readmitted,8.0,15.0
+PAT100255,Graeme Stevens,19.0,Male,Manchester,53.46368952601613,-2.300120152968776,2026-02-03,2026-02-21,orthopedic,Stephen Webb,Flu,3227.11,Aviva,Emergency,Discharged,5.0,18.0
+PAT100256,Heather Smith,50.0, Male,Glasgow,55.90580499739484,-4.270631245021666,2024-08-12,2024-09-02,Paediatrics,Mrs Katy Lawrence,Hypertension,,Aviva,emergency,Recovered,1.0,21.0
+PAT100257,Christine Burrows,64.0,Male,Liverpool,53.461704379605095,-2.9938157299547172,2026-02-28,2026-03-07,Paediatrics,Gavin Rogers,Flu,1609.99,NHS,Routine,Under Treatment,5.0,7.0
+PAT100258,Stuart Read,86.0,Female,Newcastle,55.00137203425448,-1.6159200528232176,2025-03-03,2025-03-18,Oncology,Scott Clark,Diabetes,6468.32,None,Routine,Referred,2.0,15.0
+PAT100259,Albert Howard-Lamb,39.0,Female,Liverpool,53.42428978792473,-2.995935378678604,2024-12-24,2024-12-27,Cardiology,Carole Clark,Flu,6174.39,AXA,Referral,Under Treatment,3.0,3.0
+PAT100260,Stephanie Dawson,88.0,Female ,Birmingham,52.452164008425584,-1.8834134020116695,2025-10-09,2025-10-20,CARDIOLOGY,Elaine Henry,Hypertension,5635.58,None,Routine,Readmitted,1.0,11.0
+PAT100261,Mr Marc Webb,86.0,F,Glasgow,55.84884303554239,-4.192272091641376,2025-06-15,2025-06-30,Oncology,Mr Karl Wilson,Flu,4763.71,Vitality,Routine,Readmitted,2.0,15.0
+PAT100262,Roy Hammond,150.0, Male,Liverpool,53.4724809088274,-2.9689413127554785,2026-02-13,2026-03-04,Oncology,Ms Hazel Moore,Migraine,5313.94,Vitality,ER,Under Treatment,2.0,19.0
+PAT100263,Kim Gibbs,70.0,Female ,Sheffield,53.3965647401525,-1.5202339262718416,2025-07-04,2025-07-15,Cardiology,Dr John Fowler,Hypertension,8081.59,AXA,ER,Readmitted,7.0,11.0
+PAT100264,Jenna Reeves,70.0, Male,Leeds,53.76041049108133,-1.5669648369085722,2026-05-01,2026-05-22,Cardiology,David Hill,Flu,6035.75,None,Routine,Readmitted,8.0,21.0
+PAT100265,Dr Beverley Edwards,26.0,M,Bristol,51.45196271041804,-2.616214217075577,2025-07-22,2025-07-29,CARDIOLOGY,Terry Stone-Black,Diabetes,8408.96,Vitality,Routine,Recovered,7.0,7.0
+PAT100266,Leigh Brown,51.0,F,Sheffield,53.381440759573,-1.450023104169638,2025-03-15,2025-03-30,Orthopaedics,Aaron Miah-Turner,Diabetes,4845.77,NHS,emergency,Discharged,9.0,15.0
+PAT100267,Matthew Taylor,29.0,Female,London,51.47439236165982,-0.1530551646351195,2025-01-25,2025-01-28,CARDIOLOGY,Francis Bradshaw,Cancer Screening,7887.38,NHS,emergency,Under Treatment,8.0,3.0
+PAT100268,Geoffrey Cole,22.0,Male,Sheffield,53.42254187970671,-1.3989732817817055,2025-06-07,2025-06-18,Emergency,Natasha Barnett-Parkinson,Migraine,2645.38,Aviva,Routine,Readmitted,6.0,11.0
+PAT100269,Garry Price,63.0,Male,Bristol,51.449630978541784,-2.5960313482872786,2024-06-24,2024-07-04,General Medicine,Janice Carroll-Jackson,Heart Disease,2676.6,NHS,Routine,Readmitted,8.0,10.0
+PAT100270,Kate Price-Harrison,45.0,Female,Cardiff,51.471337992455545,-3.171519789757475,2025-04-07,2025-04-13,Orthopaedics,Nigel Brennan,Migraine,4437.33,NHS,Routine,Under Treatment,9.0,6.0
+PAT100271,David Anderson-Bell,53.0,Male,Bristol,51.4829946077013,-2.595982506542258,2025-03-24,2025-03-28,Neurology,Mrs Ellie Patel,Fracture,3964.34,AXA,Referral,Discharged,4.0,4.0
+PAT100272,Mrs Lucy Clark,83.0,F,Sheffield,53.34948387984363,-1.487590069946892,2024-11-30,2024-12-21,Orthopaedics,Pauline Johnson,Infection,5694.76,Aviva,ER,Referred,8.0,21.0
+PAT100273,Robert Hill,77.0,Female,Manchester,53.44478916657501,-2.2836016229242966,2025-09-11,2025-09-21,CARDIOLOGY,Mr Eric Davis,Fracture,7978.55,Bupa,ER,Under Treatment,4.0,10.0
+PAT100274,Ms Harriet Robinson,80.0,Female,Birmingham,52.47791336563426,-1.8684799665568268,2025-12-18,2026-01-05,cardio,Mr Rhys Harris,Stroke,4817.44,None,Routine,Under Treatment,8.0,18.0
+PAT100275,Jason Hunter,55.0, Male,Liverpool,53.45387770583231,-2.9650509129169853,2024-07-13,2024-07-14,Cardiology,Mr Gareth Wells,Infection,6109.66,AXA,emergency,Readmitted,4.0,1.0
+PAT100276,Mrs Maria Jones,44.0,Female,Birmingham,52.52985371798555,-1.9012777861600703,2024-11-17,2024-11-27,orthopedic,Vincent Storey-Williams,Asthma,5180.69,AXA,Referral,Recovered,2.0,10.0
+PAT100277,Ms Barbara Oliver,83.0,Female ,Nottingham,52.97268402344514,-1.1586824799389135,2026-04-17,2026-04-24,orthopedic,Danny Collins,Cancer Screening,1311.41,AXA,Routine,Under Treatment,2.0,7.0
+PAT100278,Adrian Carter-Woods,59.0,F,Liverpool,53.45206842406829,-2.984132340059214,2025-10-19,2025-10-22,Paediatrics,Mrs Geraldine Thompson,Stroke,5916.45,None,Routine,Recovered,9.0,3.0
+PAT100279,Roy Perry,37.0,Female ,Birmingham,52.54284215889519,-1.8820911785131302,2024-08-15,2024-08-27,orthopedic,Hilary Pollard,Stroke,3860.05,Aviva,ER,Recovered,1.0,12.0
+PAT100280,Dr Robert Miles,41.0,M,Manchester,53.47436237412575,-2.2665668589204344,2024-06-07,2024-06-20,General Medicine,Miss Diane Long,Flu,6260.44,Bupa,ER,Readmitted,7.0,13.0
+PAT100281,Ms Amanda Parsons,78.0,Female ,London,51.50411990804452,-0.12622002187685355,2026-02-04,2026-02-10,Cardiology,Joanne Morris-Baker,Hypertension,7806.03,Bupa,Referral,Referred,2.0,6.0
+PAT100282,Angela Sims,57.0,M,Bristol,51.45528592130334,-2.5917771661686415,2024-08-20,2024-09-08,Cardiology,Darren Smith,Hypertension,8683.06,NHS,Referral,Discharged,7.0,19.0
+PAT100283,Dr Ross Slater,22.0,M,London,51.491155483683876,-0.13421766053819856,2024-09-14,2024-09-15,cardio,Iain Mistry,Infection,6288.74,AXA,ER,Under Treatment,8.0,1.0
+PAT100284,Miss Joan Wright,39.0, Male,Sheffield,53.38859346434489,-1.4731606696895654,2024-07-03,2024-07-09,orthopedic,Nicholas Harris-Hall,Flu,4999.89,Vitality,emergency,Recovered,4.0,6.0
+PAT100285,Natalie Hayes-McDonald,69.0, Male,Birmingham,52.491410225855056,-1.7821002093784053,2024-06-25,2024-06-30,orthopedic,Christopher Powell,Heart Disease,1712.45,Vitality,Referral,Readmitted,6.0,5.0
+PAT100286,Leah Reeves,48.0,Female,Birmingham,52.48868804533161,-1.8835347182840276,2025-07-06,2025-07-14,orthopedic,Lindsey Davies,Heart Disease,4806.01,AXA,Referral,Recovered,9.0,8.0
+PAT100287,Mrs Megan Armstrong,32.0,Female,Edinburgh,56.003190731772044,-3.1898197624465725,2025-11-17,2025-12-01,CARDIOLOGY,Dr Brett Anderson,Migraine,7660.16,AXA,ER,Discharged,10.0,14.0
+PAT100288,Helen Gardiner,48.0,F,Bristol,51.44908727639649,-2.610444773330164,2024-09-11,2024-09-21,orthopedic,Dr Garry Stephenson,Diabetes,6306.09,AXA,ER,Recovered,5.0,10.0
+PAT100289,Malcolm Smith-Lyons,58.0,Female ,Cardiff,51.48299731043462,-3.167744763468899,2024-11-08,2024-11-27,General Medicine,Dr Damien Gray,Asthma,4715.33,None,Referral,Discharged,6.0,19.0
+PAT100290,Georgia Ahmed,29.0,Female ,Cardiff,51.49470518127405,-3.227855502864264,2024-09-21,2024-10-09,Cardiology,Stuart Patel,Asthma,9125.06,None,Routine,Recovered,8.0,18.0
+PAT100291,Marilyn Rice,74.0,Female ,Glasgow,55.827483160302805,-4.2736185639161555,2026-02-07,2026-02-14,Cardiology,Philip Butler,Asthma,7745.97,Aviva,ER,Discharged,4.0,7.0
+PAT100292,Ross Rees,18.0, Male,Newcastle,54.96036766698436,-1.614994278098245,2025-12-01,2025-12-18,Oncology,Joe Taylor,Infection,7649.52,NHS,ER,Recovered,6.0,17.0
+PAT100293,Bethany Evans-Murphy,88.0,F,Glasgow,55.910129404339784,-4.260802663544131,2026-01-07,2026-01-28,Oncology,Dr Megan Butler,Fracture,5586.45,Bupa,ER,Discharged,4.0,21.0
+PAT100294,Carole White,41.0,M,Cardiff,51.452108801444744,-3.1356455501354765,2024-08-08,2024-08-26,Oncology,Bethany Thomas,Asthma,7281.99,Aviva,Emergency,Referred,6.0,18.0
+PAT100295,June Howe,82.0,Male,Leeds,53.823370636551495,-1.5484954242830904,2025-06-24,2025-06-25,General Medicine,Ms Sian Hayward,Flu,4560.62,Aviva,emergency,Referred,1.0,1.0
+PAT100296,Dr Heather Scott,34.0,M,Sheffield,53.42381600708356,-1.4643951184009611,2025-02-01,2025-02-09,orthopedic,Mary Bentley-Rhodes,Hypertension,5070.66,Bupa,Routine,Under Treatment,7.0,8.0
+PAT100297,Teresa James,88.0,Female,Leeds,53.803653013419954,-1.5767456209304094,2024-08-03,2024-08-17,orthopedic,Dr Gavin Cooper,Fracture,3360.91,NHS,ER,Recovered,1.0,14.0
+PAT100298,Derek Fox-Thompson,69.0,Female ,Sheffield,53.33605193219761,-1.4601987166577546,2025-07-10,2025-07-16,orthopedic,Mr Lewis Rose,Stroke,5210.82,Bupa,ER,Recovered,2.0,6.0
+PAT100299,Callum Morgan,27.0,F,Bristol,51.48614108104208,-2.5636414396931535,2025-10-31,2025-11-05,Neurology,Lesley Jackson,Infection,4448.16,Aviva,ER,Discharged,7.0,5.0
+PAT100300,Mr Keith Howells,64.0, Male,Newcastle,55.009476239131814,-1.6012835840031603,2025-11-12,2025-11-13,cardio,Mr Joel Martin,Flu,6389.31,None,ER,Readmitted,9.0,1.0
+PAT100301,Dr Marilyn Marshall,84.0, Male,Cardiff,51.45602638703321,-3.1967254376746124,2025-06-03,2025-06-10,CARDIOLOGY,Dr Tracey Stevens,Cancer Screening,7489.15,None,Emergency,Referred,4.0,7.0
+PAT100302,Brandon Hammond,30.0,F,Sheffield,53.39815550416668,-1.4380259799016935,2025-09-23,2025-09-25,cardio,Frederick Jones,Hypertension,4270.27,Aviva,Emergency,Referred,4.0,2.0
+PAT100303,Sheila Jones,68.0,F,London,51.46784290113864,-0.07089799261840771,2025-12-10,2025-12-14,Paediatrics,Suzanne Barry-Pearson,Infection,5420.77,AXA,ER,Referred,10.0,4.0
+PAT100304,Aimee Hall,83.0,F,Cardiff,51.43144657341339,-3.1518283224305335,2026-03-09,2026-03-24,Oncology,Elliott Thomas,Flu,5239.46,Vitality,Emergency,Referred,4.0,15.0
+PAT100305,Marc Bell,73.0,M,Edinburgh,55.901674476951776,-3.233409144677989,2024-09-30,2024-10-15,Orthopaedics,Conor Lucas,Stroke,,Bupa,Routine,Under Treatment,1.0,15.0
+PAT100306,Jennifer Wade,71.0,Female,Edinburgh,55.90695060818792,-3.191053463184445,2025-03-28,2025-04-16,Cardiology,Sheila Knowles,Infection,5250.36,None,Referral,Discharged,7.0,19.0
+PAT100307,Abbie Andrews,52.0,Male,Sheffield,53.45027444988269,-1.5117060082214342,2024-05-30,2024-06-10,orthopedic,Jessica Williams,Hypertension,8148.38,AXA,Routine,Referred,8.0,11.0
+PAT100308,Deborah Savage-Bruce,45.0,M,Glasgow,55.86180849576798,-4.3083664685137935,2024-07-21,2024-07-28,Oncology,Ms Tracy Khan,Asthma,6573.25,Aviva,Routine,Discharged,4.0,7.0
+PAT100309,Helen Begum,50.0, Male,London,51.47834026908593,-0.16911614637877592,2026-02-18,2026-02-28,cardio,Mrs Kirsty Robinson,Fracture,4341.34,NHS,Referral,Discharged,7.0,10.0
+PAT100310,Clifford Parkinson,78.0,Male,Leeds,53.762953188962946,-1.566284010761791,2025-08-02,2025-08-06,CARDIOLOGY,Maureen Gardiner-Baker,Hypertension,7460.74,AXA,Emergency,Under Treatment,9.0,4.0
+PAT100311,Mr Terry Baldwin,65.0,Male,Cardiff,51.46430447705438,-3.1765513001532506,2025-03-16,2025-03-20,CARDIOLOGY,Amanda Banks-Morley,Infection,8064.6,None,Referral,Referred,4.0,4.0
+PAT100312,Gail Chadwick,82.0,Female ,London,51.50490333278906,-0.11697735492254041,2024-10-18,2024-11-02,orthopedic,Dylan May,Asthma,4799.57,None,Emergency,Referred,5.0,15.0
+PAT100313,Miss Kirsty Morley,79.0,Female,Leeds,53.857438009140836,-1.5960890944689807,2024-05-20,2024-06-03,cardio,Richard Mason-Edwards,Migraine,4609.84,None,emergency,Under Treatment,6.0,14.0
+PAT100314,Dr Rosie Ahmed,59.0,Male,Bristol,51.44126510570943,-2.568505255738285,2025-06-02,2025-06-23,Neurology,Lydia Dale,Migraine,3601.43,AXA,Routine,Discharged,7.0,21.0
+PAT100315,Ashleigh Gardiner,23.0,Female,Edinburgh,55.937626525691186,-3.2333477360563267,2024-09-15,2024-09-29,cardio,Clifford Williams,Heart Disease,6887.78,None,emergency,Referred,1.0,14.0
+PAT100316,Mr Karl Blackburn,74.0,Female,Newcastle,54.94990530773372,-1.6650867077820053,2024-12-17,2024-12-23,Oncology,Bethany Horton,Infection,7621.05,Aviva,Routine,Referred,10.0,6.0
+PAT100317,Beverley Williams,79.0, Male,Newcastle,54.989477165883606,-1.643448818974229,2026-02-15,2026-03-07,Paediatrics,Hayley Warner,Migraine,1836.69,Bupa,Emergency,Referred,2.0,20.0
+PAT100318,Mr Stewart O'Brien,30.0,Female ,Liverpool,53.40745506368327,-3.0122841663453213,2025-09-27,2025-10-15,Emergency,Jennifer Finch,Diabetes,6977.92,NHS,Referral,Readmitted,10.0,18.0
+PAT100319,Marie Andrews,77.0,F,Leeds,53.80614049749447,-1.538720965336529,2025-06-01,2025-06-17,General Medicine,Carole Welch-Smith,Stroke,3615.07,Bupa,ER,Under Treatment,5.0,16.0
+PAT100320,Leon Mason,19.0,F,Edinburgh,55.932743692004316,-3.187310970815721,2025-09-02,2025-09-23,orthopedic,Roger Graham,Fracture,7224.18,Vitality,ER,Readmitted,1.0,21.0
+PAT100321,Anne Lee,88.0, Male,London,51.526779422465616,-0.1576643198889747,2024-09-15,2024-10-01,Paediatrics,Brett Evans-Jones,Hypertension,3211.8,AXA,Emergency,Under Treatment,3.0,16.0
+PAT100322,Marilyn Jones,81.0,Male,Leeds,53.718937545381785,-1.5124917439817054,2026-01-23,2026-02-12,orthopedic,Heather Pope,Stroke,2905.15,AXA,emergency,Recovered,5.0,20.0
+PAT100323,Harry Cook,23.0,Female,Cardiff,51.49080553251944,-3.168646327153116,2025-03-08,2025-03-22,Paediatrics,Miss Hazel Davidson,Flu,439.96,Aviva,ER,Discharged,8.0,14.0
+PAT100324,Mrs Rosie Smith,23.0,Male,Bristol,51.43427344369929,-2.5350854541419148,2026-02-27,2026-03-03,Oncology,Kevin Turner,Flu,6302.9,Aviva,Routine,Recovered,5.0,4.0
+PAT100325,Daniel Leach,79.0,M,Edinburgh,55.897019930166564,-3.188845769175165,2025-03-29,2025-04-06,Cardiology,Mrs Lydia Graham,Cancer Screening,5930.71,None,Referral,Referred,6.0,8.0
+PAT100326,Dr Charles Baxter,31.0,Female ,Edinburgh,55.941550185944664,-3.1517327762449527,2026-03-03,2026-03-22,CARDIOLOGY,Abigail Harrison,Stroke,6885.08,Aviva,emergency,Under Treatment,7.0,19.0
+PAT100327,Melissa Hill,32.0,F,Cardiff,51.49417239990322,-3.229184626023,2025-02-10,2025-02-16,Cardiology,Mr Joe Lee,Flu,7320.61,Vitality,Routine,Under Treatment,8.0,6.0
+PAT100328,Roy Stevenson,34.0,Female ,Bristol,51.479698331145215,-2.549238541294942,2024-10-20,2024-10-29,orthopedic,Clare Young,Hypertension,6687.43,Bupa,emergency,Discharged,9.0,9.0
+PAT100329,Gillian Tyler,21.0,M,Glasgow,55.85883300302094,-4.228226063195793,2024-12-16,2024-12-27,Orthopaedics,Oliver Lewis-Moore,Fracture,5380.59,Vitality,Routine,Referred,5.0,11.0
+PAT100330,Mr Jacob Fox,43.0, Male,London,51.51546687411668,-0.12526819743306705,2025-11-22,2025-12-01,Orthopaedics,Ms Melissa Wilson,Fracture,6041.67,Aviva,emergency,Recovered,5.0,9.0
+PAT100331,Elliott Wilson,42.0,M,Newcastle,54.94224722087248,-1.5905795858508232,2025-06-02,2025-06-20,General Medicine,Marcus Willis-Hill,Infection,1884.4,Vitality,Emergency,Referred,10.0,18.0
+PAT100332,Ellie Cameron-Lee,20.0,Male,Birmingham,52.464489993384795,-1.89934678174318,2024-10-07,2024-10-10,Emergency,Ashley Thompson,Heart Disease,5528.76,Bupa,ER,Discharged,5.0,3.0
+PAT100333,Joan Martin,83.0,Female,Liverpool,53.40529400768199,-3.013781204535283,2025-08-24,2025-09-09,Neurology,Gregory Barnes,Heart Disease,1014.38,NHS,ER,Recovered,8.0,16.0
+PAT100334,Dr Marcus Wright,80.0,F,Birmingham,52.53053533325607,-1.8962773961993857,2024-09-29,2024-10-19,Neurology,Jacob Knight-Hamilton,Diabetes,4901.12,Vitality,Referral,Referred,8.0,
+PAT100335,Anne Murphy,22.0, Male,Nottingham,52.869933760719384,-1.1955488670375936,2025-10-23,2025-10-26,Cardiology,Antony Savage,Fracture,7951.14,NHS,emergency,Discharged,2.0,3.0
+PAT100336,Joyce Wright,44.0,M,Birmingham,52.47999869792839,-1.8438726926943405,2026-01-12,2026-01-14,Paediatrics,Dr Shirley Gibson,Diabetes,2648.84,Aviva,Routine,Recovered,1.0,2.0
+PAT100337,Dr Elliott Thomas,, Male,Birmingham,52.489895674952066,-1.8687673284915538,2024-05-30,2024-06-07,CARDIOLOGY,Mr Declan Murphy,Migraine,5331.3,None,emergency,Recovered,7.0,8.0
+PAT100338,Miss Melanie Moss,62.0,Male,Edinburgh,55.866173551907835,-3.1733963788089405,2025-10-04,2025-10-13,Orthopaedics,Alexandra Smith,Infection,4207.2,NHS,Referral,Readmitted,4.0,9.0
+PAT100339,Margaret Collins,57.0,F,Manchester,53.464910145687845,-2.168724999729794,2025-02-21,2025-03-02,Orthopaedics,Miss Tracy Watson,Infection,1367.46,NHS,Emergency,Recovered,4.0,9.0
+PAT100340,Sharon Walsh,41.0,F,Birmingham,52.505876981517275,-1.9139022323726294,2025-08-02,2025-08-05,Paediatrics,Amber Williams,Infection,1968.46,NHS,emergency,Recovered,1.0,3.0
+PAT100341,Christine Hicks,60.0,Female ,Glasgow,55.876821373636204,-4.213834048855083,2025-07-03,2025-07-14,Orthopaedics,Leon Watts,Stroke,3629.66,Vitality,emergency,Under Treatment,10.0,11.0
+PAT100342,Dr Barbara Hunter,24.0,F,London,51.50497412243244,-0.23179697561758777,2024-10-30,2024-11-15,orthopedic,Dr Bruce Thorpe,Hypertension,4603.09,Aviva,Routine,Recovered,2.0,16.0
+PAT100343,Jack Marshall,63.0, Male,Birmingham,52.435181012456354,-1.8689207119848772,2025-02-18,2025-03-04,orthopedic,Mrs Andrea Pratt,Fracture,4383.45,Bupa,Referral,Recovered,3.0,14.0
+PAT100344,Mr Glenn Hunt,67.0,Female,Manchester,53.523684747543065,-2.3080950563950986,2024-12-08,2024-12-17,Cardiology,Brett Murray,Stroke,5969.7,AXA,Referral,Readmitted,3.0,9.0
+PAT100345,Mr Roy Conway,0.0,F,Leeds,53.8700625783876,-1.5366249852426557,2024-08-21,2024-09-11,cardio,Mitchell Thorpe,Asthma,5417.62,Bupa,Referral,Discharged,8.0,21.0
+PAT100346,Barry Ward,31.0,Female,Nottingham,52.92680748512038,-1.1481392285651397,2025-11-06,2025-11-17,Cardiology,Mrs Lisa Jones,Cancer Screening,4861.23,AXA,Referral,Discharged,1.0,11.0
+PAT100347,Mrs Jean Barlow,38.0,Female,Liverpool,53.384630137998,-2.9712110967582586,2025-11-03,2025-11-13,orthopedic,Craig Evans,Fracture,7351.62,Bupa,ER,Referred,2.0,10.0
+PAT100348,Ms Josephine Gray,37.0, Male,Edinburgh,55.95177745848853,-3.1633887161022036,2025-08-09,2025-08-25,Cardiology,Declan Watson,Asthma,6874.78,None,ER,Referred,2.0,16.0
+PAT100349,Irene Stevens,68.0,Female ,Edinburgh,55.95030295019829,-3.219452143545611,2024-10-29,2024-11-17,General Medicine,Dominic Stephenson,Hypertension,937.94,Bupa,Emergency,Readmitted,2.0,19.0
+PAT100350,Suzanne Coles,36.0,Male,Bristol,51.55697331905151,-2.6167144438700505,2024-07-26,2024-08-07,cardio,Lawrence Webster,Fracture,7967.6,Aviva,Referral,Referred,2.0,12.0
+PAT100351,Barry Finch,88.0,Male,Edinburgh,55.94104207294179,-3.2291117653223913,2024-05-27,2024-06-01,orthopedic,Timothy Glover-Brooks,Fracture,6065.77,None,ER,Referred,6.0,5.0
+PAT100352,Dr Toby Godfrey,31.0,Male,Sheffield,53.402876232690495,-1.481786171332928,2024-11-14,2024-11-20,cardio,Diana Hunt,Stroke,6436.38,None,Emergency,Recovered,7.0,6.0
+PAT100353,Janet Shah,51.0,M,Newcastle,54.9749855338895,-1.6006385893319433,2025-02-11,2025-03-01,Neurology,Lydia Booth-Morris,Flu,4053.29,None,ER,Recovered,5.0,18.0
+PAT100354,Julia Rahman,0.0,Female,Cardiff,51.48614814525132,-3.1788173578534393,2026-01-05,2026-01-16,Emergency,Miss Georgia Bradley,Diabetes,4894.73,NHS,Referral,Readmitted,1.0,11.0
+PAT100355,Bradley Ward,56.0,M,Leeds,53.90430710228691,-1.5219767084628975,2024-07-29,2024-08-17,General Medicine,Holly Atkins,Cancer Screening,4352.52,NHS,Emergency,Readmitted,4.0,19.0
+PAT100356,Louis Palmer,21.0,F,London,51.482127791824304,-0.21453754697743252,2024-06-11,2024-06-27,orthopedic,Mr Leslie West,Flu,5695.61,AXA,Referral,Readmitted,2.0,16.0
+PAT100357,Stanley Day-Bennett,22.0,M,Glasgow,55.885703239920886,-4.2647843994725845,2026-03-21,2026-03-26,Cardiology,Victoria Kaur,Cancer Screening,3895.16,NHS,Referral,Recovered,5.0,5.0
+PAT100358,Dr Lindsey Williams,61.0, Male,Bristol,51.4473606342579,-2.6030146029481744,2024-10-26,2024-11-03,cardio,Mrs Dawn Cole,Fracture,4754.54,Vitality,Routine,Under Treatment,1.0,8.0
+PAT100359,Diana Ball,23.0,F,Birmingham,52.476520450498576,-1.9065665518657637,2024-09-04,2024-09-06,orthopedic,Dr Allan Hardy,Flu,3964.49,AXA,emergency,Recovered,4.0,2.0
+PAT100360,Mr Carl Morris,22.0,M,Leeds,53.774177218944395,-1.558466530461543,2026-02-11,2026-02-21,Paediatrics,Karl Ashton-Edwards,Fracture,762.31,AXA,emergency,Under Treatment,8.0,10.0
+PAT100361,Geraldine Evans,76.0,Female,Cardiff,51.580701532048785,-3.190504350043832,2025-02-14,2025-03-02,Neurology,Mr Darren Lawrence,Asthma,2405.85,Aviva,ER,Referred,1.0,16.0
+PAT100362,Oliver Payne,25.0,Male,Birmingham,52.5205345574727,-1.9315604105104796,2024-09-23,2024-09-25,cardio,Samuel Spencer,Flu,5599.34,Aviva,ER,Discharged,2.0,2.0
+PAT100363,Catherine Murphy-Francis,19.0,M,London,51.543108676281044,-0.08401927974107493,2025-06-06,2025-06-22,cardio,Sylvia Wilkinson-Morgan,Asthma,5511.79,Aviva,Referral,Recovered,1.0,16.0
+PAT100364,Elliot Patel,75.0,Male,London,51.53716682403664,-0.16540953272648373,2026-04-25,2026-04-29,Oncology,Mrs Wendy Taylor,Migraine,6039.13,Bupa,emergency,Under Treatment,3.0,4.0
+PAT100365,Katherine Clark-O'Neill,54.0,M,Edinburgh,55.95502607416196,-3.1957885087135067,2024-07-30,2024-08-10,Cardiology,Leon Douglas,Hypertension,6467.54,Bupa,Referral,Discharged,10.0,11.0
+PAT100366,Kieran Brady,42.0, Male,Glasgow,55.90303032776929,-4.246096934160716,2025-12-19,2025-12-22,Orthopaedics,Ms Bethany Holt,Heart Disease,4322.18,NHS,emergency,Referred,2.0,3.0
+PAT100367,Alan Johnson,22.0, Male,Liverpool,53.39075940146463,-3.017681330490307,2026-04-15,2026-04-24,cardio,Mr Martin Clarke,Infection,8723.72,Vitality,ER,Discharged,9.0,9.0
+PAT100368,Arthur Robinson-Davis,66.0,Female,Newcastle,54.98898402100467,-1.6147351571335633,2024-09-22,2024-09-24,cardio,Dr Alison Ellis,Stroke,5382.87,AXA,Referral,Referred,7.0,2.0
+PAT100369,Simon Smith,71.0, Male,Glasgow,55.8617932507536,-4.258084279318716,2025-01-14,2025-01-26,General Medicine,Dr Cameron King,Hypertension,6741.61,None,Emergency,Referred,8.0,12.0
+PAT100370,Lydia Moore,72.0,Female,Cardiff,51.48637227327499,-3.1523955779567143,2024-10-12,2024-10-21,Orthopaedics,Sam Stevenson,Fracture,,None,Emergency,Referred,5.0,9.0
+PAT100371,Brett James,58.0,M,Sheffield,53.29961059004628,-1.4436057868841972,2025-07-13,2025-07-18,Neurology,Ruth Baker,Heart Disease,4278.56,Vitality,Emergency,Recovered,8.0,5.0
+PAT100372,Barry Dyer,22.0,M,Nottingham,52.94490177757192,-1.176379474194137,2024-12-12,2024-12-20,orthopedic,Declan Bradley,Diabetes,6394.85,Vitality,emergency,Under Treatment,4.0,8.0
+PAT100373,Ms Bethan Vaughan,75.0,F,Birmingham,52.44996930936693,-1.889630241586496,2024-05-24,2024-06-13,Cardiology,Shirley Williams,Migraine,3830.21,Aviva,emergency,Readmitted,6.0,20.0
+PAT100374,Ms Emily Barker,20.0,M,Liverpool,53.38831184483693,-3.0310849559497273,2026-04-10,2026-04-19,cardio,Mr Dominic Morton,Asthma,5211.69,Vitality,Emergency,Under Treatment,6.0,9.0
+PAT100375,Dr Stanley Talbot,52.0,Female,Cardiff,51.48385929085182,-3.1959808194963446,2025-10-30,2025-11-12,Cardiology,Dennis Higgins,Diabetes,6163.39,None,Emergency,Referred,2.0,13.0
+PAT100376,Mr Donald Talbot,39.0,Female ,Bristol,51.47114171230812,-2.584743272287606,2026-04-28,2026-05-02,Emergency,Mr Kenneth Patel,Heart Disease,5875.14,Vitality,ER,Referred,3.0,4.0
+PAT100377,Pauline Barnes,25.0,Female,Glasgow,55.863280011959326,-4.264569766248173,2025-12-17,2026-01-06,Paediatrics,Allan Turner,Diabetes,868.16,AXA,ER,Referred,4.0,20.0
+PAT100378,Kimberley Roberts,82.0,Female,Birmingham,52.47964286291006,-1.8878159159301715,2025-12-21,2026-01-04,Oncology,Anne Harding,Fracture,6287.39,Bupa,Emergency,Under Treatment,6.0,14.0
+PAT100379,Marilyn Wilkinson,32.0,F,Manchester,53.46214305068896,-2.2356133987143907,2026-05-02,2026-05-16,Oncology,Francis Nicholls,Hypertension,7277.16,NHS,ER,Discharged,7.0,14.0
+PAT100380,Jeffrey Hall,29.0,Female,Newcastle,54.982907044907364,-1.65221810046027,2025-08-25,2025-09-05,Cardiology,Katherine Hall,Asthma,6553.03,None,Routine,Readmitted,8.0,11.0
+PAT100381,Christopher Evans-Brown,68.0, Male,Glasgow,55.89032809114161,-4.217084192304033,2025-08-15,2025-09-04,Orthopaedics,Dr Jane Duncan,Infection,3958.74,AXA,Referral,Discharged,6.0,20.0
+PAT100382,Ms Maureen Butler,72.0, Male,Leeds,53.84587849565087,-1.5335464075129581,2026-04-02,2026-04-18,Neurology,Mr Shane Davison,Asthma,5692.95,AXA,emergency,Referred,9.0,16.0
+PAT100383,Deborah Matthews,68.0,M,Bristol,51.465881276018024,-2.55613463830447,2025-09-13,2025-09-25,Orthopaedics,Iain Higgins,Cancer Screening,4748.59,Aviva,Emergency,Discharged,1.0,12.0
+PAT100384,Jacqueline Tomlinson,37.0,Female ,Leeds,53.7913430044254,-1.5653888433140537,2025-10-01,2025-10-17,Paediatrics,Ms Amy Turner,Fracture,2254.49,Bupa,Emergency,Referred,10.0,16.0
+PAT100385,Victor Wilson,80.0,M,Nottingham,52.95699809817712,-1.148143614253187,2026-01-10,2026-01-21,Cardiology,Kevin Burgess,Stroke,7307.52,AXA,Referral,Recovered,2.0,11.0
+PAT100386,Leonard Thomson,52.0,M,Nottingham,52.945992770375526,-1.1165171223582413,2025-01-28,2025-02-14,Emergency,Dr Ricky Allen,Hypertension,2011.09,None,emergency,Discharged,8.0,17.0
+PAT100387,Dr Declan Davies,42.0, Male,Nottingham,52.94322729458426,-1.1439493364974844,2026-02-17,2026-02-28,Neurology,Mr Robert Smith,Flu,1616.86,Vitality,emergency,Discharged,10.0,11.0
+PAT100388,Stephen Reid-Griffiths,45.0, Male,Birmingham,52.50908111471343,-1.9149218174523281,2024-11-04,2024-11-17,Cardiology,Margaret Shaw-Armstrong,Hypertension,7613.88,NHS,Emergency,Referred,2.0,13.0
+PAT100389,Mr Christopher Horton,35.0,M,Cardiff,51.417952522717584,-3.189082144806482,2025-05-30,2025-05-31,Oncology,Dr Elliott Smith,Stroke,3073.85,NHS,Routine,Discharged,8.0,1.0
+PAT100390,Miss Clare Riley,51.0,Female,Manchester,53.49825501237631,-2.209235621832044,2024-12-07,2024-12-16,cardio,Carly Day-Hall,Diabetes,4823.51,Bupa,Referral,Readmitted,7.0,9.0
+PAT100391,Miss Olivia Patel,58.0,M,Cardiff,51.49050679116972,-3.2054668821607626,2025-09-30,2025-10-20,Paediatrics,Billy Clark,Diabetes,4915.74,None,Routine,Discharged,10.0,20.0
+PAT100392,Dr Hollie Gilbert,59.0, Male,London,51.526288762450406,-0.13575403888917364,2025-02-04,2025-02-16,Emergency,Darren Peacock,Hypertension,4791.69,Vitality,Routine,Under Treatment,5.0,12.0
+PAT100393,Dawn Phillips,34.0,F,Glasgow,55.86868537930791,-4.222092968845529,2025-03-24,2025-03-29,Emergency,Anna Taylor,Fracture,6277.58,Aviva,emergency,Under Treatment,4.0,5.0
+PAT100394,Helen Stevens,66.0,Female ,Nottingham,52.92677037107427,-1.1542789302422924,2025-07-07,2025-07-26,orthopedic,Max Allen,Cancer Screening,4309.58,None,ER,Recovered,7.0,19.0
+PAT100395,Malcolm Shaw,44.0,Female ,Sheffield,53.35883499722537,-1.4613794221660792,2026-01-08,2026-01-11,Orthopaedics,Lucy Rees,Diabetes,3898.75,Vitality,emergency,Referred,6.0,3.0
+PAT100396,Dr Jennifer Powell,47.0,Female ,Nottingham,52.95227478557279,-1.2206866747764105,2025-09-13,2025-09-26,Oncology,Ms Joanna Hurst,Flu,5344.13,NHS,Emergency,Referred,7.0,13.0
+PAT100397,Rachael Lane,77.0, Male,Liverpool,53.42297061658293,-2.9948977668518575,2025-12-20,2025-12-24,Neurology,Dr Charlotte Wood,Infection,-5708.8,AXA,Referral,Under Treatment,4.0,4.0
+PAT100398,Malcolm Brown,85.0, Male,Birmingham,52.50415950143395,-1.8196972586368991,2024-09-06,2024-09-19,Emergency,Callum Bailey,Fracture,4887.71,Bupa,Emergency,Referred,2.0,13.0
+PAT100399,Stephanie Hawkins,27.0,Male,Glasgow,55.90899037205401,-4.229218305786709,2025-01-02,2025-01-11,Oncology,Rosemary Bartlett,Fracture,5968.75,NHS,Emergency,Under Treatment,10.0,9.0
+PAT100400,Frank Thomas,52.0,Male,Edinburgh,55.96087131257967,-3.1825975427258375,2024-12-24,2024-12-29,Cardiology,Dr Damian Sullivan,Migraine,4358.52,AXA,Emergency,Under Treatment,10.0,5.0
+PAT100401,Miss Stephanie Bishop,49.0,Female,Edinburgh,55.95054720886139,-3.1894057038637458,2026-04-23,2026-04-28,General Medicine,Mr Brandon Harrison,Diabetes,,NHS,Emergency,Readmitted,1.0,5.0
+PAT100402,Sian Banks,24.0,M,London,51.47167077565809,-0.12177016173704945,2025-06-16,2025-06-26,Oncology,Lynda Johnson,Diabetes,7607.2,AXA,Referral,Referred,6.0,10.0
+PAT100403,Michael Powell-Storey,28.0,M,London,51.515481145159555,-0.10614450402543367,2025-12-27,2026-01-12,Paediatrics,Max Hale,Infection,4182.29,Aviva,Referral,Discharged,10.0,16.0
+PAT100404,Holly Lewis,53.0,Female ,Manchester,53.493087993661796,-2.2652757682311915,2026-04-04,2026-04-21,Orthopaedics,Hilary Kaur,Fracture,,AXA,ER,Discharged,6.0,17.0
+PAT100405,Neil Crawford,61.0,Male,London,51.472534543497694,-0.14179635008741506,2025-03-09,2025-03-14,orthopedic,Miss Josephine Smith,Stroke,3673.24,NHS,Emergency,Referred,5.0,5.0
+PAT100406,Lynne Brooks,19.0,M,Glasgow,55.85728219670052,-4.2536345734648755,2025-05-29,2025-06-08,Neurology,Aaron Jones,Hypertension,4831.88,Vitality,Referral,Discharged,6.0,10.0
+PAT100407,Dr Helen Elliott,39.0,F,London,51.538605147780025,-0.16125826744018806,2026-05-13,2026-05-23,orthopedic,Mr Joel Morgan,Flu,2539.86,Aviva,Referral,Recovered,1.0,10.0
+PAT100408,Dr Sarah Smith,35.0,Female ,Manchester,53.474764713447684,-2.247721532735376,2025-01-09,2025-01-13,cardio,Mrs Clare Riley,Hypertension,5764.45,Aviva,Referral,Readmitted,6.0,4.0
+PAT100409,Dr Deborah Smith,51.0,M,Sheffield,53.47605679347289,-1.443701727509366,2024-09-27,2024-10-18,Paediatrics,Howard Wilkins,Heart Disease,3301.88,Bupa,Routine,Referred,9.0,21.0
+PAT100410,Charlie Khan,71.0,Male,Manchester,53.41204122958484,-2.2604956810194987,2024-11-10,2024-11-28,orthopedic,Ms Amelia Roberts,Infection,5462.14,Vitality,ER,Readmitted,9.0,18.0
+PAT100411,Rita Carter-Fleming,21.0,F,Newcastle,54.97359514401741,-1.6460154311570254,2025-08-06,2025-08-25,Cardiology,Geraldine Phillips-Martin,Diabetes,8114.94,Vitality,Referral,Readmitted,4.0,19.0
+PAT100412,Eric Williams,80.0,Male,Manchester,53.46358751544168,-2.206404988462612,2024-06-14,2024-07-04,Neurology,Francesca Powell,Heart Disease,4097.05,NHS,ER,Under Treatment,10.0,20.0
+PAT100413,Trevor Fraser,88.0, Male,Newcastle,54.9559290835888,-1.5448821972538855,2024-10-03,2024-10-14,Neurology,Mr Brian Patel,Diabetes,3347.56,None,Routine,Recovered,7.0,11.0
+PAT100414,Georgia Houghton,, Male,Cardiff,51.471158464496064,-3.221590233112925,2026-02-02,2026-02-14,orthopedic,Mr Mohammad Morris,Fracture,5276.88,Bupa,emergency,Referred,4.0,12.0
+PAT100415,Beverley Johnson,43.0,Female,Nottingham,52.95284295210209,-1.180937245828396,2026-02-15,2026-02-26,cardio,Emma Goodwin-Collins,Cancer Screening,6228.63,Aviva,emergency,Under Treatment,9.0,11.0
+PAT100416,Rachel King,86.0,M,Sheffield,53.366594760458376,-1.4661155451287622,2025-04-22,2025-05-05,Cardiology,Natalie Carter,Heart Disease,3989.14,None,Emergency,Under Treatment,7.0,13.0
+PAT100417,Victoria Gregory,28.0,Male,Nottingham,52.95129370431703,-1.140982061619628,2024-12-18,2025-01-01,orthopedic,Carly Hayes,Hypertension,6962.58,Aviva,ER,Discharged,3.0,14.0
+PAT100418,Brian Blackburn,22.0,F,Nottingham,52.88240508841291,-1.1949229204521343,2025-11-23,2025-12-12,CARDIOLOGY,Stephen Glover,Heart Disease,8277.77,Aviva,Referral,Readmitted,4.0,19.0
+PAT100419,Norman Bennett-Dawson,32.0,Female,Leeds,53.8394698025356,-1.5883137676153958,2024-08-25,2024-09-03,Cardiology,Ross Smith,Stroke,4739.39,Aviva,Emergency,Readmitted,10.0,9.0
+PAT100420,Sheila Jackson,38.0,Female ,Birmingham,52.51456920142385,-1.909143593402295,2025-03-18,2025-04-03,Orthopaedics,Ms Sharon Jones,Stroke,1991.04,Vitality,Referral,Readmitted,,16.0
+PAT100421,Michelle Rhodes,85.0,Male,Newcastle,54.95197873869569,-1.6516381156327047,2024-06-24,2024-07-15,Oncology,Jemma Kerr,Asthma,5540.88,None,Routine,Under Treatment,7.0,21.0
+PAT100422,Marion Brooks,22.0,M,Birmingham,52.514822225118756,-1.8585527275586577,2025-12-08,2025-12-24,Oncology,Dr Shane Ali,Hypertension,6606.5,AXA,Emergency,Readmitted,6.0,16.0
+PAT100423,Mitchell Fletcher,61.0,Female,Manchester,53.490028881751854,-2.2061365029718853,2024-10-25,2024-11-14,Oncology,George Moore,Cancer Screening,3615.95,Bupa,Referral,Discharged,1.0,20.0
+PAT100424,Sylvia White,33.0,Male,Leeds,53.807661051574804,-1.5653636208198214,2024-10-02,2024-10-21,Orthopaedics,Gareth Todd,Migraine,4116.57,NHS,Referral,Recovered,2.0,19.0
+PAT100425,Olivia Williams,80.0,Male,Edinburgh,55.89602993986995,-3.131080781998618,2024-07-16,2024-07-28,Oncology,James Jordan,Cancer Screening,5312.31,Aviva,Routine,Readmitted,5.0,12.0
+PAT100426,Daniel Hughes,52.0,M,Leeds,53.83424885297339,-1.6069017045344418,2025-03-20,2025-03-24,Emergency,Gail Knight,Heart Disease,4021.23,Vitality,emergency,Under Treatment,10.0,4.0
+PAT100427,Malcolm Jenkins,45.0,Male,Glasgow,55.85328606607105,-4.298477596321139,2025-07-02,2025-07-08,orthopedic,Dr Phillip Hanson,Hypertension,5385.19,AXA,Emergency,Readmitted,1.0,6.0
+PAT100428,Thomas Marshall-Collins,63.0, Male,Sheffield,53.35906734191546,-1.498825021391459,2026-01-13,2026-01-21,CARDIOLOGY,Callum Newton,Diabetes,7254.27,Aviva,emergency,Recovered,10.0,8.0
+PAT100429,Georgia Burns,36.0, Male,Birmingham,52.470119864265634,-1.899940912785518,2025-03-24,2025-03-27,Oncology,Mr Christian Schofield,Stroke,5766.0,Aviva,emergency,Referred,8.0,3.0
+PAT100430,Mr Rhys Hurst,28.0,Female ,London,51.501620784273314,-0.16476018163550876,2024-09-05,2024-09-08,Oncology,Mr Neil Sutton,Diabetes,7027.94,AXA,Routine,Under Treatment,8.0,3.0
+PAT100431,Liam Robinson,41.0,M,Manchester,53.53112433517968,-2.2694722291077665,2025-10-27,2025-11-02,CARDIOLOGY,Dr Joel Giles,Migraine,8282.87,Vitality,Emergency,Readmitted,10.0,6.0
+PAT100432,Mrs Jade Hill,46.0,Male,Manchester,53.49221465063751,-2.2600789372299905,2024-10-31,2024-11-15,CARDIOLOGY,Benjamin Bull,Flu,2605.56,AXA,Emergency,Under Treatment,7.0,15.0
+PAT100433,Debra Moore,83.0,Female ,Bristol,51.434367485768426,-2.545799463724769,2026-01-25,2026-02-03,Cardiology,Donald Stevens-Burns,Flu,6299.17,NHS,emergency,Discharged,7.0,9.0
+PAT100434,Shane Hardy,38.0,Female ,Edinburgh,55.969987803051175,-3.1701866969443326,2025-05-03,2025-05-24,CARDIOLOGY,Owen Allen-Johnson,Diabetes,5101.63,AXA,Routine,Under Treatment,4.0,21.0
+PAT100435,Alan Turner,51.0,M,London,51.501982852095765,-0.14712373659954994,2026-01-28,2026-02-08,orthopedic,Judith Thomas,Stroke,6889.44,AXA,emergency,Recovered,4.0,11.0
+PAT100436,Miss Josephine Walton,32.0,Female,Birmingham,52.5213407043159,-1.848867188862286,2025-08-19,2025-08-20,cardio,Callum Randall-Robertson,Cancer Screening,5563.04,AXA,emergency,Discharged,5.0,1.0
+PAT100437,Irene Blake,55.0,F,Edinburgh,55.940946274087885,-3.187979382675132,2024-12-13,2024-12-16,Neurology,Bruce Jones,Hypertension,5750.95,Bupa,emergency,Readmitted,5.0,3.0
+PAT100438,Adrian Evans,38.0,F,Birmingham,52.4894830465748,-1.8456524557497485,2025-04-22,2025-04-29,Orthopaedics,Colin Graham,Migraine,5427.47,AXA,Referral,Under Treatment,9.0,7.0
+PAT100439,Mrs Brenda Morgan,40.0,Female,London,51.53546745839413,-0.13266530114276168,2025-10-16,2025-10-19,Emergency,Martin Cameron,Stroke,6694.5,Bupa,Referral,Under Treatment,3.0,3.0
+PAT100440,Paige Rose-Davies,24.0,Male,Cardiff,51.477755659079534,-3.1669302663072867,2024-12-03,2024-12-21,Orthopaedics,Eric Williams-Jones,Diabetes,4415.53,Aviva,ER,Discharged,8.0,18.0
+PAT100441,Katherine Garner,23.0, Male,Leeds,53.8255107961564,-1.5786320013229123,2024-11-20,2024-12-09,Neurology,Graeme Williams,Heart Disease,5700.71,Vitality,ER,Under Treatment,4.0,19.0
+PAT100442,Duncan Sharpe,74.0, Male,Glasgow,55.85510554665104,-4.210742718866352,2025-10-01,2025-10-10,Cardiology,Georgina Dunn,Diabetes,5167.95,AXA,ER,Discharged,10.0,9.0
+PAT100443,Shirley Davies,48.0,Male,Leeds,53.831806840637135,-1.5625329387255973,2024-05-17,2024-06-04,General Medicine,Dr Lewis Wong,Flu,4297.2,AXA,Emergency,Referred,10.0,18.0
+PAT100444,Carolyn Coleman,27.0,Male,Liverpool,53.40130335518969,-2.973843289694044,2025-10-03,2025-10-13,CARDIOLOGY,Abdul Webb-Hope,Migraine,4275.97,Aviva,ER,Discharged,4.0,10.0
+PAT100445,Francis Brown,68.0, Male,Newcastle,54.99494845653839,-1.5915296589678594,2024-11-12,2024-11-21,orthopedic,Conor Collins,Flu,6622.33,Vitality,Routine,Recovered,1.0,9.0
+PAT100446,Ms Hollie Parker,51.0,Male,Sheffield,53.37169078275187,-1.4668202544832973,2024-12-28,2025-01-15,orthopedic,Abbie West,Cancer Screening,4228.72,AXA,Routine,Recovered,1.0,18.0
+PAT100447,Eric Jennings-Lynch,53.0, Male,Newcastle,54.98921549185263,-1.608238441223661,2024-09-09,2024-09-21,Paediatrics,Hannah Mason,Fracture,2615.11,None,Routine,Discharged,3.0,12.0
+PAT100448,Gareth Carr,31.0,F,Bristol,51.50024936938659,-2.615602257195811,2025-09-07,2025-09-15,cardio,Mr Michael Green,Hypertension,-4631.75,Vitality,Emergency,Recovered,7.0,8.0
+PAT100449,Guy King,73.0,Male,Bristol,51.43539362483496,-2.584247294878278,2024-10-17,2024-10-19,CARDIOLOGY,Gordon Bevan,Asthma,7617.62,Bupa,Emergency,Recovered,1.0,2.0
+PAT100450,Mr Oliver Wheeler,63.0,M,Manchester,53.42315690297419,-2.2328188167697034,2026-04-04,2026-04-13,General Medicine,Irene Palmer,Hypertension,3072.02,None,Referral,Readmitted,5.0,9.0
+PAT100451,Timothy Tomlinson,30.0,F,Glasgow,55.78410893267726,-4.214127141846156,2025-10-23,2025-11-08,cardio,Mandy Robinson,Diabetes,4517.23,Aviva,emergency,Discharged,9.0,16.0
+PAT100452,Mr Bryan Green,68.0,Female,London,51.44880308848837,-0.04463104488150699,2026-04-23,2026-05-11,orthopedic,Philip Woods-Cartwright,Stroke,3784.48,Vitality,Referral,Under Treatment,10.0,18.0
+PAT100453,Michael Mills,66.0,F,Liverpool,53.39706447298116,-3.0159198660019118,2026-04-09,2026-04-18,Orthopaedics,Miss Sarah Pearson,Heart Disease,6218.43,AXA,Emergency,Recovered,6.0,9.0
+PAT100454,Wayne Baxter-Morris,18.0, Male,Newcastle,54.90678781925697,-1.650248216735519,2024-05-30,2024-06-04,Orthopaedics,Robin Jackson,Fracture,5520.55,AXA,Emergency,Discharged,2.0,5.0
+PAT100455,Shaun Kemp,62.0,Female ,Leeds,53.8082521747807,-1.5134016162620512,2025-05-16,2025-05-21,cardio,Ryan Gough-Herbert,Migraine,5408.21,Vitality,emergency,Discharged,1.0,5.0
+PAT100456,Jonathan Gardner,49.0, Male,Newcastle,54.98876371613572,-1.644394886972442,2025-02-14,2025-03-07,Paediatrics,Stuart Thomas,Migraine,3648.31,None,Routine,Under Treatment,4.0,21.0
+PAT100457,Darren Rees,78.0,Female,Nottingham,53.00056203495853,-1.1464310473872246,2025-09-14,2025-09-16,cardio,Dr Alexander Walsh,Diabetes,5625.33,Bupa,Emergency,Referred,7.0,2.0
+PAT100458,Kim Lane,51.0,M,Sheffield,53.39468856762228,-1.4880368788586165,2025-02-09,2025-02-28,Paediatrics,Mr Clive Hunter,Hypertension,,Aviva,emergency,Readmitted,2.0,19.0
+PAT100459,Richard Gill-Smith,79.0,Female ,Bristol,51.435175850839315,-2.5268017638915974,2024-07-05,2024-07-14,Paediatrics,Mr Antony Smith,Migraine,3517.75,Aviva,Routine,Discharged,7.0,9.0
+PAT100460,Mrs Jessica Edwards,82.0,Male,Liverpool,53.40570915460277,-2.984826828852182,2025-09-26,2025-10-05,cardio,Toby Young,Stroke,4428.65,None,emergency,Readmitted,9.0,9.0
+PAT100461,Nicholas Elliott,27.0,Female,Leeds,53.7616031179651,-1.5667281160596833,2024-08-16,2024-08-28,Paediatrics,Hannah Stephens-Wade,Hypertension,5259.9,AXA,ER,Referred,9.0,12.0
+PAT100462,Ms Stephanie Nelson,43.0, Male,Liverpool,53.44119877280657,-2.909418174111204,2024-11-21,2024-11-30,CARDIOLOGY,Ms Donna Wright,Diabetes,6260.73,None,emergency,Recovered,4.0,9.0
+PAT100463,Mrs Lynn Booth,51.0,Male,Leeds,53.794097152947515,-1.480451823004036,2025-12-04,2025-12-06,orthopedic,Ms Susan Ali,Migraine,3915.05,Bupa,ER,Referred,10.0,2.0
+PAT100464,Lucy Morgan,19.0,Male,Glasgow,55.83310665204009,-4.233358275499451,2025-07-16,2025-07-22,cardio,Diane King,Fracture,6394.18,None,emergency,Referred,8.0,6.0
+PAT100465,Roger Howard,18.0,Female ,Birmingham,52.46023331023797,-1.8665163848632786,2024-11-04,2024-11-20,Cardiology,Rita Cooper,Diabetes,6379.6,Aviva,Emergency,Readmitted,4.0,16.0
+PAT100466,Carl Smith,57.0,M,Newcastle,54.96511871663565,-1.5789006850255287,2024-07-20,2024-08-03,Neurology,Hugh Dyer,Asthma,4140.22,None,Routine,Discharged,2.0,14.0
+PAT100467,Stephen Francis,41.0,Male,Bristol,51.450374307391684,-2.5857214112642706,2025-09-20,2025-09-30,orthopedic,Miss Alexandra Pickering,Flu,2649.08,Vitality,Routine,Discharged,7.0,10.0
+PAT100468,Jordan Evans,56.0,Female ,Manchester,53.457816923656935,-2.2250748364361375,2025-05-24,2025-06-04,Oncology,Kyle Morgan,Fracture,8404.96,Bupa,Routine,Under Treatment,8.0,11.0
+PAT100469,Sharon Morgan,36.0,Female,Newcastle,55.00677460341107,-1.5962861117708302,2024-12-09,2024-12-14,Cardiology,Albert Pearson,Stroke,7081.58,Vitality,Referral,Under Treatment,2.0,5.0
+PAT100470,Sophie Manning,85.0,Male,Nottingham,52.94328908959088,-1.1359434163113769,2026-03-08,2026-03-26,Neurology,Joel Davis,Heart Disease,3987.32,Vitality,Referral,Discharged,10.0,18.0
+PAT100471,Carolyn Watts,37.0,M,Nottingham,52.9975098740409,-1.1915941664666534,2025-10-10,2025-10-18,General Medicine,Linda Graham,Flu,4408.02,Vitality,emergency,Under Treatment,6.0,8.0
+PAT100472,Jamie Armstrong,32.0,Female ,Liverpool,53.41842753045506,-2.97858334895766,2025-08-21,2025-09-09,Paediatrics,Lawrence Robson,Hypertension,2264.39,Bupa,ER,Readmitted,5.0,19.0
+PAT100473,Dr Kathleen Thomas,50.0,Female,Leeds,53.77539140763555,-1.5749096608301938,2024-08-05,2024-08-11,Paediatrics,Jenna Daniels,Fracture,3906.35,Vitality,ER,Referred,4.0,6.0
+PAT100474,Dr Shirley Collins,86.0,M,Newcastle,55.03851464946848,-1.63894195441793,2024-10-15,2024-11-05,CARDIOLOGY,Mr James Nelson,Cancer Screening,6197.33,NHS,ER,Readmitted,5.0,21.0
+PAT100475,Duncan Taylor-Reid,26.0,Female ,Nottingham,52.953931662882496,-1.1530425941321991,2026-01-22,2026-01-25,Cardiology,Garry Harris-Robinson,Infection,3986.25,Bupa,Routine,Referred,10.0,3.0
+PAT100476,Harriet Craig-Burton,77.0,Female ,Manchester,53.405134473930005,-2.3115360066563992,2026-05-07,2026-05-10,General Medicine,Zoe Cox,Diabetes,4107.74,Bupa,ER,Referred,3.0,3.0
+PAT100477,Miss June Richards,46.0,M,Liverpool,53.373162441355475,-2.9582309037055285,2025-09-03,2025-09-23,Neurology,Marian Fox,Hypertension,4803.88,AXA,Routine,Discharged,4.0,20.0
+PAT100478,Tina Thorpe,44.0,M,London,51.508974225729006,-0.15726222481329966,2026-04-11,2026-04-26,Oncology,Kenneth Steele,Hypertension,5862.14,Vitality,emergency,Referred,4.0,15.0
+PAT100479,Nicole Hudson,46.0, Male,London,51.44020105493308,-0.13702997290562163,2025-01-31,2025-02-05,Neurology,Amber Newman-Townsend,Asthma,3278.05,Vitality,ER,Recovered,3.0,5.0
+PAT100480,Dr Conor Tomlinson,50.0, Male,Bristol,51.46964342002707,-2.604562667379581,2026-02-10,2026-02-17,CARDIOLOGY,Megan Page,Infection,6508.28,AXA,Routine,Under Treatment,9.0,7.0
+PAT100481,Paige Lawson,57.0, Male,Birmingham,52.54259244064902,-1.879614548863982,2026-02-19,2026-03-09,General Medicine,Dr Elaine Lewis,Migraine,4140.79,Bupa,emergency,Readmitted,3.0,18.0
+PAT100482,Jemma Clark,72.0,Female,Leeds,53.80518225567102,-1.5702745473701252,2025-01-17,2025-01-31,Cardiology,Gillian Cooper,Stroke,5072.11,Vitality,emergency,Recovered,3.0,14.0
+PAT100483,Georgia Begum,79.0,M,London,51.5066667713312,-0.14652206662575631,2024-07-08,2024-07-13,cardio,Mr Jason Wright,Diabetes,8511.68,Aviva,Referral,Under Treatment,9.0,5.0
+PAT100484,Grace Gill,39.0,Female,London,51.45542966465738,-0.10889509821974941,2025-04-12,2025-04-22,Cardiology,Mrs Dawn Cooper,Migraine,4911.1,Aviva,Referral,Under Treatment,2.0,10.0
+PAT100485,Elliott Coleman,49.0,Female ,Cardiff,51.49521359474537,-3.147342669943553,2025-03-27,2025-04-12,CARDIOLOGY,Olivia Taylor,Migraine,4303.44,NHS,Emergency,Recovered,10.0,16.0
+PAT100486,Mrs Hayley Norris,75.0, Male,Glasgow,55.85103669367555,-4.206351699259144,2026-02-17,2026-02-21,Neurology,Dr Douglas Patel,Diabetes,3487.3,None,Routine,Readmitted,2.0,4.0
+PAT100487,Jay White,63.0,Male,Edinburgh,55.967731707319516,-3.1951972344406387,2024-08-13,2024-08-20,orthopedic,Victor Rowe-Cooper,Infection,4890.37,NHS,Referral,Referred,1.0,7.0
+PAT100488,Ronald James,34.0,F,Birmingham,52.488029000532876,-1.8724859015810695,2025-04-01,2025-04-13,Cardiology,Hilary Hayward,Flu,8902.97,Aviva,emergency,Recovered,5.0,12.0
+PAT100489,Mr Charlie Brown,55.0,M,Leeds,53.76175554842962,-1.5483128911566608,2026-01-06,2026-01-22,orthopedic,Thomas Dunn,Asthma,6302.85,Vitality,Emergency,Recovered,9.0,16.0
+PAT100490,Lorraine Horton,82.0,M,Bristol,51.397961031782884,-2.6013452332788947,2024-08-21,2024-09-09,Orthopaedics,Dr Cameron Ball,Fracture,7556.01,Aviva,Emergency,Discharged,2.0,19.0
+PAT100491,Mrs Lorraine Bennett,71.0, Male,Manchester,53.4940173668032,-2.218994221035814,2025-03-16,2025-03-23,orthopedic,Adrian Lloyd,Asthma,6038.07,Bupa,Routine,Readmitted,3.0,7.0
+PAT100492,Billy Mitchell-Lynch,,Female ,Newcastle,54.97972489972366,-1.612013097060399,2025-04-23,2025-04-24,Emergency,Kieran Pearce,Hypertension,3965.03,Aviva,Routine,Discharged,1.0,1.0
+PAT100493,Dr Dylan Gibson,65.0, Male,Leeds,53.76159027064562,-1.5593533710129994,2026-05-04,2026-05-19,Oncology,Mr Gary Ball,Cancer Screening,6911.21,Aviva,Emergency,Discharged,6.0,15.0
+PAT100494,Ms Bethany Savage,37.0,Female,Nottingham,52.90268784199424,-1.1294055242256245,2026-03-29,2026-04-09,cardio,Victoria Jones,Stroke,6213.62,AXA,Referral,Discharged,5.0,11.0
+PAT100495,Kevin King,77.0,M,Liverpool,53.41419673666469,-2.950772725264728,2025-10-16,2025-10-18,Orthopaedics,Ms Kathryn Thomas,Stroke,2253.53,AXA,Emergency,Under Treatment,,2.0
+PAT100496,Jamie Oliver,83.0, Male,Liverpool,53.40747216007749,-3.0200675398714125,2025-07-19,2025-08-02,Oncology,Alexandra Hayes,Stroke,7554.39,AXA,ER,Under Treatment,3.0,14.0
+PAT100497,Conor Gibson,47.0,F,London,51.493873912015715,-0.14537368404691328,2024-08-16,2024-08-28,Orthopaedics,Tina Bevan,Diabetes,5307.58,NHS,Emergency,Discharged,8.0,12.0
+PAT100498,Bruce Brown,55.0,Female ,Liverpool,53.39771172491042,-3.0075949673618987,2026-03-26,2026-03-28,Cardiology,Brenda Jackson,Migraine,5765.77,AXA,Emergency,Recovered,5.0,2.0
+PAT100499,Shane Gardner,80.0,M,Leeds,53.8076377423489,-1.5512952390312034,2024-09-25,2024-10-14,cardio,Steven Collins,Heart Disease,4673.87,None,ER,Recovered,5.0,19.0
+PAT100500,Miss Sian Holmes,27.0,Female ,Manchester,53.53050756707733,-2.2044360318108103,2025-09-18,2025-10-04,cardio,Carly Jones,Migraine,7428.26,Aviva,ER,Readmitted,5.0,16.0
+PAT100501,Victor Cole-Summers,29.0, Male,Edinburgh,55.97478176933318,-3.1767071853758226,2024-10-09,2024-10-11,orthopedic,Ms Teresa Collins,Diabetes,6643.92,Bupa,ER,Under Treatment,5.0,2.0
+PAT100502,Rebecca O'Sullivan,, Male,Birmingham,52.48587937422004,-1.9302994982367725,2026-01-07,2026-01-21,Paediatrics,Oliver Griffiths,Asthma,2699.91,None,Routine,Recovered,2.0,14.0
+PAT100503,Dorothy Ball,49.0,M,Edinburgh,56.000538383970984,-3.1628640180693908,2026-04-22,2026-05-10,Paediatrics,Alex Harrison,Flu,2281.06,None,Referral,Discharged,10.0,18.0
+PAT100504,Pauline Harvey-Heath,74.0, Male,Nottingham,52.962911826666264,-1.181389435901254,2024-05-16,2024-05-27,General Medicine,Anna Bates,Hypertension,3547.93,Vitality,ER,Referred,3.0,11.0
+PAT100505,Ms Mary Jones,38.0,M,Glasgow,55.88437382328364,-4.2487401185171265,2025-08-31,2025-09-02,Neurology,Jennifer Kirk,Asthma,4513.54,None,emergency,Under Treatment,7.0,2.0
+PAT100506,Dr Lee Smart,30.0,F,Bristol,51.453251222917174,-2.5402171596821033,2025-05-01,2025-05-22,Neurology,David Carr-Taylor,Infection,1682.03,NHS,ER,Readmitted,6.0,21.0
+PAT100507,Louis Field,40.0,Female ,Newcastle,54.99579728892194,-1.603192343139313,2024-05-20,2024-05-29,Oncology,Mr Raymond Jarvis,Hypertension,6905.17,NHS,ER,Recovered,8.0,9.0
+PAT100508,Callum Johnson,78.0,Female,Cardiff,51.46058677917916,-3.171365757365758,2025-06-28,2025-07-19,Oncology,Diana Begum,Migraine,4227.48,Aviva,Referral,Under Treatment,5.0,21.0
+PAT100509,Adrian Brown,46.0,Female ,Glasgow,55.85980479878076,-4.225153046230163,2025-09-05,2025-09-24,CARDIOLOGY,Janet Scott,Infection,7160.77,Vitality,ER,Recovered,3.0,
+PAT100510,Marie Hall-Smith,47.0, Male,Glasgow,55.84834857656497,-4.238842029479883,2025-05-10,2025-05-28,Cardiology,Victor Thomson,Diabetes,7630.25,Aviva,emergency,Discharged,6.0,18.0
+PAT100511,Harry Watson,48.0,M,Nottingham,52.96351358531746,-1.1591201585786803,2025-05-19,2025-06-03,Neurology,Mr Ricky Davies,Asthma,,AXA,emergency,Recovered,4.0,15.0
+PAT100512,Katy Payne,60.0,Female,Birmingham,52.4668383232651,-1.887420362810336,2025-08-01,2025-08-13,Cardiology,Daniel Williams,Stroke,5613.5,Bupa,Referral,Referred,10.0,12.0
+PAT100513,Georgina Pollard,75.0,F,Sheffield,53.37260164175644,-1.5053564009851166,2024-08-04,2024-08-19,Neurology,Mrs Kim Brown,Hypertension,2432.25,None,ER,Under Treatment,7.0,15.0
+PAT100514,Karl Wood-Stevens,38.0,Female ,Sheffield,53.33752178455146,-1.5099038895942176,2025-11-27,2025-12-03,Paediatrics,Mrs Rebecca Howard,Migraine,3868.27,Bupa,Emergency,Readmitted,,6.0
+PAT100515,Malcolm Clarke,81.0,Female,Sheffield,53.3978483004694,-1.426969026517765,2024-06-16,2024-07-03,cardio,Damien Mitchell-Mills,Hypertension,8750.08,NHS,emergency,Readmitted,1.0,17.0
+PAT100516,Kim Cook-Williams,43.0,F,Cardiff,51.454682889891956,-3.1639676401507373,2024-11-16,2024-11-23,cardio,Miss Katherine Potter,Migraine,5637.19,Aviva,Referral,Referred,6.0,7.0
+PAT100517,Danielle Campbell-Hussain,67.0,Male,Liverpool,53.34789108112274,-3.029673018984346,2024-12-25,2025-01-06,Cardiology,Hugh Coles-Fry,Fracture,9065.05,Vitality,ER,Discharged,6.0,12.0
+PAT100518,Bernard Miller,66.0, Male,Cardiff,51.44360282208943,-3.1833541579046405,2025-10-15,2025-10-31,General Medicine,Clifford Kent,Fracture,457.49,None,Emergency,Readmitted,10.0,16.0
+PAT100519,Mr Steven Harris,26.0, Male,Manchester,53.50243670994858,-2.2447586043989993,2025-08-30,2025-09-20,Oncology,Dr Bradley Chapman,Cancer Screening,7611.61,Bupa,Emergency,Under Treatment,3.0,21.0
+PAT100520,Graeme Brookes,33.0,M,Leeds,53.80275953402981,-1.6119310957986983,2024-10-10,2024-10-14,Cardiology,Beth Bennett-Parry,Migraine,5666.93,NHS,Routine,Readmitted,4.0,4.0
+PAT100521,Dr Dorothy Bull,68.0,Male,Newcastle,54.948612258946724,-1.6404501942417737,2025-12-22,2026-01-03,Cardiology,Mrs Hilary Harrison,Infection,6353.58,Aviva,emergency,Discharged,2.0,12.0
+PAT100522,Miss Geraldine Taylor,58.0,Female,Leeds,53.82444346722853,-1.5322220429383742,2025-03-10,2025-03-20,cardio,Glen Hewitt,Migraine,6934.59,Bupa,Emergency,Discharged,6.0,10.0
+PAT100523,Anna Campbell,49.0,F,London,51.497694333690575,-0.11463933474596197,2025-02-10,2025-02-15,Neurology,Leah Harper,Heart Disease,2753.58,Vitality,Routine,Under Treatment,3.0,5.0
+PAT100524,Mrs Stacey Turner,50.0, Male,London,51.46988749824478,-0.09267349703767216,2025-04-09,2025-04-25,Oncology,Janice Edwards,Migraine,5869.33,Bupa,Referral,Discharged,1.0,16.0
+PAT100525,Jemma Evans,75.0, Male,Nottingham,52.90620276945957,-1.2064501416124098,2024-05-17,2024-05-28,Orthopaedics,Aaron Wheeler,Migraine,4146.68,Bupa,emergency,Recovered,,11.0
+PAT100526,Pamela Kent,68.0,Female,Birmingham,52.521505807791854,-1.8519329836983565,2026-03-29,2026-04-01,cardio,Beverley Gordon,Diabetes,5839.91,NHS,ER,Under Treatment,1.0,3.0
+PAT100527,Frank Savage,64.0, Male,Sheffield,53.34448108563222,-1.4669782266937599,2025-12-15,2025-12-28,Emergency,Dr Sylvia Mason,Hypertension,5664.01,AXA,Routine,Recovered,7.0,13.0
+PAT100528,Dr Reece Smith,79.0,Male,Glasgow,55.82911007182262,-4.261172014840592,2024-07-22,2024-08-04,Emergency,Katherine Rees,Hypertension,6604.16,Aviva,Routine,Under Treatment,8.0,13.0
+PAT100529,Kayleigh Brown-Faulkner,23.0,M,Manchester,53.54680949647479,-2.205419581788026,2025-01-02,2025-01-20,Orthopaedics,Lawrence Stone,Cancer Screening,4075.16,Vitality,Routine,Referred,1.0,18.0
+PAT100530,Maureen Cooper-White,64.0,Male,Glasgow,55.9220241563522,-4.24141894352818,2024-10-13,2024-10-18,General Medicine,Dr Rhys Roberts,Hypertension,4160.3,NHS,Routine,Under Treatment,7.0,5.0
+PAT100531,Stuart Burke,59.0,Male,London,51.55986895218575,-0.13101270401016263,2025-09-28,2025-10-13,CARDIOLOGY,Alison Smith,Infection,6537.6,Bupa,ER,Discharged,8.0,15.0
+PAT100532,Mohammed Smith,69.0,M,Edinburgh,55.98994873097819,-3.199006605985923,2025-05-06,2025-05-20,orthopedic,Eileen Howard-Webb,Asthma,2882.52,Aviva,Emergency,Readmitted,8.0,14.0
+PAT100533,Jade Fox,40.0,Male,Newcastle,54.910745723578785,-1.5822445183912117,2026-04-22,2026-05-08,CARDIOLOGY,Aimee Roberts-Ahmed,Diabetes,8376.8,Aviva,emergency,Readmitted,9.0,16.0
+PAT100534,Kenneth Robinson,81.0,Female,Manchester,53.46774464378517,-2.250782181156412,2025-11-20,2025-12-05,Cardiology,Sandra Freeman-Jackson,Cancer Screening,6795.11,Vitality,Routine,Discharged,,15.0
+PAT100535,Dr Michelle Parkes,66.0,F,Liverpool,53.40626935340718,-2.981851595798645,2026-01-08,2026-01-29,Oncology,Tracey Morris,Migraine,7063.03,Bupa,Routine,Readmitted,4.0,
+PAT100536,Miss Joyce Butler,150.0,Female,Glasgow,55.86901685994384,-4.229809684825115,2026-04-11,2026-04-22,orthopedic,Mrs Marion Schofield,Migraine,4695.03,Aviva,emergency,Recovered,,11.0
+PAT100537,Robin Cooke,41.0,Female ,Cardiff,51.47613559062801,-3.1688258406528194,2025-10-18,2025-11-08,Paediatrics,Annette Harding,Diabetes,,NHS,Emergency,Discharged,3.0,21.0
+PAT100538,Mohamed Bell,29.0,M,Glasgow,55.918445637140586,-4.276857121416662,2025-09-06,2025-09-17,Cardiology,Mr Philip Griffin,Asthma,5362.45,AXA,ER,Referred,8.0,11.0
+PAT100539,Ian Hussain-Dixon,83.0, Male,Nottingham,52.93388307017425,-1.132503517492075,2025-12-15,2025-12-23,Cardiology,Mrs Katy Briggs,Heart Disease,5762.14,NHS,Emergency,Discharged,3.0,8.0
+PAT100540,Leigh Reid-Burke,18.0,Female,Bristol,51.51265646755584,-2.610741861030981,2026-04-12,2026-04-14,Neurology,Geoffrey Chan-Davidson,Heart Disease,3702.34,Vitality,emergency,Readmitted,7.0,2.0
+PAT100541,Naomi Doyle,82.0,Female,London,51.50560664867388,-0.12011904868907325,2025-02-22,2025-03-11,orthopedic,Mr Duncan Evans,Fracture,3340.12,NHS,ER,Discharged,7.0,17.0
+PAT100542,Jacob Morris,58.0,Male,Newcastle,55.00187947620095,-1.6348541209077125,2024-07-31,2024-08-08,Orthopaedics,Janet Mason,Flu,6222.96,NHS,Routine,Readmitted,3.0,8.0
+PAT100543,Sheila Hurst,25.0,F,Nottingham,52.94087316148866,-1.1125279294825434,2025-02-09,2025-02-18,Orthopaedics,Sean Griffiths,Diabetes,4550.74,Bupa,Emergency,Referred,8.0,9.0
+PAT100544,Dr Toby Miah,71.0,Female ,Manchester,53.52074060418776,-2.2608831151355053,2026-04-25,2026-05-10,Oncology,Brenda Lewis-Walsh,Hypertension,4476.06,Bupa,ER,Readmitted,7.0,15.0
+PAT100545,Chelsea O'Sullivan,30.0,M,London,51.50866976964159,-0.12960455356638148,2025-11-26,2025-12-10,Paediatrics,Lynda Shaw-Smith,Fracture,3829.68,NHS,ER,Referred,8.0,14.0
+PAT100546,Ronald Atkinson,47.0,M,Sheffield,53.352531859297024,-1.4479685872484203,2025-06-11,2025-06-24,cardio,Wendy Collins,Hypertension,3233.38,None,Emergency,Discharged,2.0,13.0
+PAT100547,Mr Reece Parry,37.0,F,Edinburgh,56.00479874278607,-3.156445418828805,2025-08-27,2025-09-09,orthopedic,Vanessa Wilson,Hypertension,1912.79,Bupa,emergency,Readmitted,10.0,13.0
+PAT100548,Oliver Perry,62.0, Male,Glasgow,55.90288017433561,-4.258982321514347,2024-07-12,2024-07-28,CARDIOLOGY,Miss Katie Richardson,Heart Disease,5183.16,Aviva,Routine,Referred,3.0,16.0
+PAT100549,Barbara Watts,34.0,M,Edinburgh,56.00853091745571,-3.149782053015003,2024-09-05,2024-09-21,Emergency,Dr Glen Cooke,Stroke,3900.43,NHS,Routine,Discharged,9.0,16.0
+PAT100550,Gregory Fox-Weston,49.0,M,London,51.507313415363456,-0.09597109394694522,2025-04-23,2025-05-04,Neurology,Ruth Sharpe,Migraine,2308.78,NHS,Emergency,Recovered,5.0,11.0
+PAT100551,Ms Georgina Marshall,39.0,Female,Glasgow,55.862443240969846,-4.282084010386308,2024-06-20,2024-06-23,Oncology,Ms Jean Smith,Infection,6315.71,NHS,Routine,Discharged,6.0,3.0
+PAT100552,Gordon Akhtar,41.0,Male,Bristol,51.49883488173935,-2.5874073423403474,2025-10-13,2025-10-23,CARDIOLOGY,Iain Robinson,Flu,6261.35,NHS,Referral,Discharged,2.0,10.0
+PAT100553,Mathew Foster,34.0, Male,Leeds,53.80828753226482,-1.5494253315854316,2024-05-20,2024-05-28,cardio,Dr Colin Mills,Infection,6260.81,Aviva,Emergency,Referred,,8.0
+PAT100554,Mr Steven Benson,51.0, Male,Glasgow,55.87473900417997,-4.258594340658946,2024-08-23,2024-09-01,cardio,Dr Conor Lee,Migraine,7345.1,Vitality,ER,Readmitted,1.0,9.0
+PAT100555,Julian Jones,39.0,Male,Sheffield,53.43803783937248,-1.4827394315549056,2026-02-25,2026-02-26,orthopedic,Colin Shah,Heart Disease,2464.48,None,Referral,Under Treatment,,1.0
+PAT100556,James Smith-Ahmed,47.0, Male,Cardiff,51.48494497501255,-3.179506934701271,2024-09-12,2024-09-18,General Medicine,Malcolm Atkinson,Flu,3619.27,None,Routine,Referred,9.0,6.0
+PAT100557,Martyn Edwards,47.0,F,Sheffield,53.327733669300706,-1.459803019442533,2025-11-08,2025-11-22,Cardiology,Dr Ian Oliver,Heart Disease,8330.49,NHS,Routine,Under Treatment,5.0,14.0
+PAT100558,Gail Hardy,34.0, Male,Nottingham,52.94679525039875,-1.1932460152376807,2025-05-07,2025-05-22,Oncology,Kate Smith,Heart Disease,5617.72,NHS,ER,Readmitted,9.0,15.0
+PAT100559,Wayne Dennis,73.0,Male,Birmingham,52.50289351807482,-1.9201441683162477,2026-01-06,2026-01-17,Oncology,Mathew Robinson,Flu,6576.72,AXA,emergency,Readmitted,6.0,11.0
+PAT100560,Russell Foster,33.0,Female ,Bristol,51.45550620100078,-2.586996121983421,2025-12-14,2025-12-24,Orthopaedics,Miss Amelia Morris,Migraine,5924.34,AXA,Emergency,Readmitted,6.0,10.0
+PAT100561,Charles Howard,78.0,Female,Glasgow,55.82916598450307,-4.1597654971123115,2024-10-29,2024-11-06,Cardiology,Kate Williams,Asthma,5721.0,None,Referral,Discharged,2.0,8.0
+PAT100562,Conor Woods,81.0,F,Birmingham,52.464764144556,-1.957036600913943,2026-02-08,2026-02-09,cardio,Miss Jenna Webb,Infection,8921.43,AXA,ER,Referred,2.0,1.0
+PAT100563,Miss Tina Coleman,73.0, Male,Birmingham,52.50176779316157,-1.9223836561371972,2025-05-25,2025-06-08,Orthopaedics,Beverley Evans,Diabetes,6941.74,None,Emergency,Referred,1.0,14.0
+PAT100564,June Foster,19.0,Female ,London,51.49481047946684,-0.11346448989336365,2025-08-26,2025-09-13,cardio,Claire Scott,Cancer Screening,5841.11,Bupa,emergency,Under Treatment,5.0,18.0
+PAT100565,Clare White,35.0, Male,Edinburgh,55.909826047990755,-3.187957304448827,2025-02-27,2025-03-16,Neurology,Dr Oliver Begum,Fracture,3520.65,AXA,Routine,Readmitted,8.0,17.0
+PAT100566,Neil Smith,55.0,Female ,Leeds,53.811888645918245,-1.5512973058276531,2026-02-17,2026-03-09,Neurology,Hazel Lane-Hill,Infection,1397.89,Aviva,Routine,Referred,3.0,20.0
+PAT100567,Dr Nicholas Thomas,45.0,Female ,Cardiff,51.481615657899326,-3.1894872019759637,2025-01-30,2025-02-11,Cardiology,Mr Sam Jones,Asthma,5497.7,AXA,Emergency,Referred,6.0,12.0
+PAT100568,Dr John Hobbs,21.0,M,Glasgow,55.87914114312944,-4.244393928263285,2025-10-23,2025-10-27,General Medicine,Sheila Alexander,Flu,2670.6,Aviva,Referral,Recovered,9.0,4.0
+PAT100569,Mrs Carole Brown,85.0,Male,Manchester,53.526176029209566,-2.237100681413598,2025-09-22,2025-10-03,Paediatrics,Julie Buckley,Hypertension,4185.03,Bupa,emergency,Under Treatment,6.0,11.0
+PAT100570,Patrick Stephens,23.0,Female,Birmingham,52.5054000909231,-1.8439044646242966,2026-03-17,2026-04-01,Cardiology,Mr Paul Joyce,Infection,4619.15,None,ER,Under Treatment,5.0,15.0
+PAT100571,Lindsey Matthews,56.0,Female ,Cardiff,51.445462555916194,-3.175216313993404,2025-12-06,2025-12-17,orthopedic,Dr Hannah Bray,Cancer Screening,5460.77,AXA,Emergency,Under Treatment,2.0,11.0
+PAT100572,Sylvia Duffy,150.0,Female,Liverpool,53.40033367502558,-2.987095456095841,2026-02-11,2026-03-02,Orthopaedics,Dr Mitchell Jennings,Heart Disease,4288.74,None,emergency,Discharged,1.0,19.0
+PAT100573,Hugh Smith,40.0,Female ,Nottingham,52.95172801929662,-1.1923794011981383,2026-03-31,2026-04-07,Paediatrics,Glenn Morris,Cancer Screening,2998.34,Aviva,ER,Referred,7.0,7.0
+PAT100574,Christopher Dunn-Brown,48.0,Female ,Cardiff,51.458493724776645,-3.149715042348194,2025-01-03,2025-01-19,General Medicine,Connor Robertson-Phillips,Fracture,4850.05,NHS,emergency,Discharged,8.0,16.0
+PAT100575,Samuel Wilkinson-Moore,37.0,Male,Edinburgh,55.977908635285566,-3.2227560844163157,2026-04-01,2026-04-13,Oncology,Mrs Sandra Thomas,Infection,6404.01,AXA,Routine,Under Treatment,2.0,12.0
+PAT100576,Ryan Smith,50.0,M,Liverpool,53.404987029344824,-3.009009331986841,2025-03-06,2025-03-27,cardio,Aaron Barber,Flu,5318.85,Aviva,Referral,Recovered,10.0,21.0
+PAT100577,Andrew Kennedy,45.0,F,Bristol,51.424639141121446,-2.589044435220466,2026-02-27,2026-03-17,Neurology,Mr Liam Page,Migraine,2872.78,Vitality,emergency,Discharged,8.0,18.0
+PAT100578,Dr Jake Lord,53.0,Male,Liverpool,53.402344590984484,-3.008897970240497,2025-07-23,2025-08-08,Oncology,Rhys Davis,Flu,5951.86,NHS,Emergency,Recovered,1.0,16.0
+PAT100579,Miss Emily Hunt,88.0,Male,Birmingham,52.50055114109823,-1.9170526198305289,2024-09-06,2024-09-08,cardio,Miss Gemma Ryan,Diabetes,6709.95,None,Emergency,Under Treatment,4.0,2.0
+PAT100580,Dr Tracy Bell,49.0,Female ,Glasgow,55.843577875351414,-4.280943043200256,2026-02-26,2026-03-03,cardio,Sam Bennett,Infection,7502.09,None,ER,Under Treatment,7.0,5.0
+PAT100581,Mr Joe James,61.0,Female,Sheffield,53.3731255385299,-1.4277840614185189,2024-10-12,2024-10-15,CARDIOLOGY,Christine Bennett,Stroke,6166.12,Aviva,Referral,Under Treatment,4.0,3.0
+PAT100582,Cameron Jenkins,56.0, Male,Sheffield,53.35009602738447,-1.480105318680835,2024-09-18,2024-09-27,Oncology,Ms Dorothy Burton,Infection,4366.65,None,Emergency,Readmitted,6.0,9.0
+PAT100583,Iain Andrews-Horton,38.0,Female,Liverpool,53.392617186443545,-2.9606926989084297,2025-08-02,2025-08-15,Oncology,Katy Baker,Fracture,5877.7,Vitality,ER,Discharged,10.0,13.0
+PAT100584,Arthur Lucas,70.0,Male,Glasgow,55.843583611196884,-4.288949878735969,2024-07-19,2024-08-05,Neurology,Donna Lewis,Flu,2120.88,Aviva,Emergency,Referred,2.0,17.0
+PAT100585,Miss Grace Lewis,54.0,Female ,Birmingham,52.49240817179642,-1.9244689172317444,2025-12-13,2025-12-17,Paediatrics,Sean Leonard,Hypertension,5286.11,AXA,Emergency,Referred,,4.0
+PAT100586,Ann Hunter-Ball,41.0,Female,Glasgow,55.9014732942117,-4.246508099031786,2025-04-09,2025-04-28,cardio,Ashley Jackson,Hypertension,7761.82,Vitality,Emergency,Discharged,2.0,19.0
+PAT100587,Brandon Cooper,24.0,Female,Nottingham,52.91902732781174,-1.186043288756509,2024-12-29,2025-01-18,cardio,Alexander Gardner,Hypertension,5515.64,Vitality,emergency,Under Treatment,1.0,20.0
+PAT100588,Tracey Ward,59.0, Male,Nottingham,52.948253948805664,-1.161789943441877,2025-07-26,2025-08-12,Cardiology,Neil Howell,Hypertension,4695.23,Aviva,emergency,Readmitted,2.0,17.0
+PAT100589,James Lewis,81.0,Male,Cardiff,51.48310153082366,-3.142597278218046,2024-05-14,2024-05-26,CARDIOLOGY,Katy French,Fracture,5690.83,Vitality,Routine,Under Treatment,1.0,12.0
+PAT100590,Miss Elizabeth Powell,47.0,M,Cardiff,51.40328313687586,-3.200566278901698,2024-12-08,2024-12-22,Neurology,Nicole Patel-Smith,Infection,3859.11,AXA,Referral,Under Treatment,6.0,14.0
+PAT100591,Toby McDonald,24.0,M,Newcastle,54.954723106648814,-1.5860896092216816,2024-07-04,2024-07-14,Neurology,Geoffrey Curtis,Diabetes,5007.42,Vitality,Routine,Readmitted,3.0,10.0
+PAT100592,Mr Joe Metcalfe,36.0,F,Birmingham,52.50690770643348,-1.9096330236730326,2025-04-17,2025-04-29,Neurology,Linda Watson,Asthma,3613.26,Bupa,Emergency,Under Treatment,5.0,12.0
+PAT100593,Hollie Hodgson,62.0,Female,Sheffield,53.3020765308709,-1.4379155166382191,2025-06-18,2025-06-29,cardio,Dr Abigail Lane,Heart Disease,5391.14,Vitality,Referral,Readmitted,4.0,11.0
+PAT100594,Graeme Shah,73.0,Male,Cardiff,51.449838093155016,-3.206992439022234,2024-05-30,2024-06-16,CARDIOLOGY,Ms Mary Ashton,Fracture,7836.84,Bupa,Emergency,Referred,2.0,17.0
+PAT100595,Arthur Duncan-Robinson,71.0, Male,Manchester,53.545233905417255,-2.165694302806814,2026-04-29,2026-05-11,General Medicine,Mrs Carole Flynn,Fracture,4228.85,Bupa,Referral,Referred,10.0,12.0
+PAT100596,Dr Samantha Lee,33.0,Male,Cardiff,51.53272522451489,-3.191687490632942,2025-10-09,2025-10-18,orthopedic,Roger Ingram,Fracture,2733.53,Aviva,ER,Recovered,4.0,9.0
+PAT100597,Lynne Marshall,,Female ,Bristol,51.447752720793524,-2.630414390510444,2024-08-08,2024-08-10,Paediatrics,Rhys Brown,Hypertension,3878.58,Vitality,Referral,Discharged,2.0,2.0
+PAT100598,Mr Leslie Turner,18.0,Male,Bristol,51.50428848624544,-2.5749191600114325,2024-11-21,2024-11-30,Neurology,Anna Howarth,Stroke,1914.37,AXA,Referral,Discharged,10.0,9.0
+PAT100599,Dr Scott Jones,58.0,Female ,Bristol,51.47110408138728,-2.542988883693676,2025-02-16,2025-03-01,Cardiology,Elliott Smith-Wade,Hypertension,3591.65,AXA,ER,Referred,5.0,13.0
+PAT100600,Stuart Richards,45.0,M,Edinburgh,56.00368303740886,-3.184427852805985,2025-12-20,2026-01-03,Neurology,Zoe Pickering-Tucker,Flu,2946.7,Vitality,emergency,Under Treatment,4.0,14.0
+PAT100601,Kate Dickinson,22.0,M,Manchester,53.49454994371066,-2.2498324821791607,2025-03-14,2025-04-04,Neurology,Mr Leon Holland,Migraine,2339.3,AXA,emergency,Discharged,6.0,21.0
+PAT100602,Dale Hall,34.0,F,Edinburgh,55.95837229230931,-3.188546958196843,2024-05-19,2024-05-26,Paediatrics,Christine Davis,Fracture,2218.67,NHS,ER,Discharged,6.0,7.0
+PAT100603,Dr Gerald Smith,21.0,F,Manchester,53.439213635088336,-2.290116897085472,2024-07-17,2024-08-06,CARDIOLOGY,Adrian Grant,Fracture,8009.56,Aviva,ER,Discharged,6.0,20.0
+PAT100604,Teresa Roberts-Gordon,85.0,Female ,Nottingham,52.93831797450703,-1.155882560204955,2024-06-05,2024-06-14,cardio,Shirley Williams,Diabetes,5540.93,AXA,Routine,Referred,8.0,9.0
+PAT100605,Mr Maurice Smith,79.0,Female ,Newcastle,54.9658648654709,-1.6521080261781718,2025-10-01,2025-10-03,Cardiology,Molly Thornton,Stroke,6079.93,None,Emergency,Referred,4.0,2.0
+PAT100606,Dr Tracey Jones,71.0,Male,Bristol,51.454550111593356,-2.6356199483810174,2024-10-06,2024-10-11,Paediatrics,Reece Whitehead-Gibson,Hypertension,4426.44,Bupa,Referral,Recovered,9.0,5.0
+PAT100607,Mr Joseph Rahman,55.0,Male,London,51.53247943579275,-0.12650157124069805,2025-02-07,2025-02-12,Oncology,Dr Lee Rogers,Diabetes,7131.71,None,ER,Recovered,4.0,5.0
+PAT100608,Alan Saunders,51.0,Male,Glasgow,55.885581052358205,-4.279591095401977,2026-01-13,2026-01-20,orthopedic,Ms Marian Smith,Migraine,5387.9,None,ER,Discharged,6.0,7.0
+PAT100609,Eleanor Hall,45.0, Male,Birmingham,52.5473958276118,-1.9300115189877165,2024-09-18,2024-10-07,Emergency,Mr Frank Birch,Cancer Screening,4244.8,Bupa,Routine,Readmitted,5.0,19.0
+PAT100610,Natalie Smith-Horton,26.0,Female,Cardiff,51.436532956638146,-3.155056422293966,2025-06-21,2025-07-02,CARDIOLOGY,Martyn White,Fracture,6542.85,NHS,ER,Readmitted,3.0,11.0
+PAT100611,Kayleigh Khan,85.0,F,Edinburgh,55.98983661812624,-3.188942689762321,2026-01-09,2026-01-24,Neurology,Sean Wilkinson-Thomas,Asthma,4707.38,Aviva,ER,Referred,1.0,15.0
+PAT100612,Carol Smith,45.0,Female ,London,51.493062030088076,-0.121374561940877,2024-12-03,2024-12-04,Oncology,Toby Ali,Fracture,6372.61,None,Emergency,Referred,5.0,1.0
+PAT100613,Matthew Patel,150.0,Male,Birmingham,52.43952370552461,-1.853412860080391,2025-08-05,2025-08-17,cardio,Mr Albert Leonard,Heart Disease,7416.28,None,Routine,Discharged,2.0,12.0
+PAT100614,Ben Patel,74.0,Male,Manchester,53.46054440333685,-2.2187562975513955,2026-01-27,2026-02-16,CARDIOLOGY,Robin White,Asthma,5990.99,Vitality,ER,Under Treatment,4.0,20.0
+PAT100615,Christine James,47.0,M,Birmingham,52.49564510595816,-1.8520512870579782,2026-01-06,2026-01-27,Neurology,Ross Bradley,Heart Disease,3351.0,Aviva,Emergency,Referred,8.0,21.0
+PAT100616,Kate Howe,72.0,Male,Manchester,53.44595769294776,-2.281445961269556,2025-04-08,2025-04-26,Oncology,Glen Lewis,Heart Disease,3973.52,AXA,Referral,Referred,2.0,18.0
+PAT100617,Ms Emily Warren,58.0,Male,Liverpool,53.40293232666915,-2.9764472019546178,2026-03-24,2026-04-05,Paediatrics,Sally Hunter-Wright,Heart Disease,4241.05,Vitality,Emergency,Readmitted,1.0,12.0
+PAT100618,Jane Martin-Carter,80.0,Female,Manchester,53.51339554538582,-2.2309256731103613,2025-11-10,2025-11-28,CARDIOLOGY,Dr Joel Donnelly,Infection,6220.05,AXA,ER,Discharged,3.0,18.0
+PAT100619,Mr Alexander Bell,26.0,Female ,Glasgow,55.82398456399694,-4.219808539521123,2026-04-16,2026-04-25,General Medicine,Miss Marian Bates,Asthma,1494.16,Aviva,ER,Under Treatment,4.0,9.0
+PAT100620,Katy Walker,56.0,M,Newcastle,54.99822440866684,-1.6311085124180753,2025-01-02,2025-01-22,Paediatrics,Adam Miller,Flu,-2275.45,Vitality,Referral,Recovered,4.0,20.0
+PAT100621,Holly Humphries,54.0,Female ,Liverpool,53.41823287875059,-2.969864655727705,2025-04-10,2025-04-18,cardio,Adam Todd-Austin,Asthma,5148.95,NHS,Referral,Referred,7.0,8.0
+PAT100622,Joe Wright,38.0,Male,Leeds,53.80611325448532,-1.5256006598234984,2024-09-05,2024-09-19,Oncology,Dr Bryan Lynch,Heart Disease,6941.77,None,Referral,Recovered,8.0,14.0
+PAT100623,Dylan Bailey,68.0, Male,Sheffield,53.405475892075295,-1.4618465816898554,2025-11-14,2025-11-20,Oncology,Mr Clifford Wall,Fracture,6331.03,Aviva,ER,Readmitted,2.0,6.0
+PAT100624,Kirsty Chambers,85.0,F,Edinburgh,55.99454312358391,-3.1906087950100015,2026-05-02,2026-05-14,Cardiology,Victoria Bates-Lloyd,Heart Disease,6671.57,AXA,ER,Readmitted,7.0,12.0
+PAT100625,Dr Amy Palmer,86.0,Female,Manchester,53.48271892898955,-2.29977817032071,2024-10-12,2024-10-22,Emergency,Dr Ian Green,Hypertension,3499.54,Bupa,emergency,Under Treatment,1.0,10.0
+PAT100626,Allan Webster,65.0, Male,Birmingham,52.50798884989781,-1.9077793195453376,2025-09-21,2025-10-04,Paediatrics,Mr Benjamin Jones,Hypertension,,None,ER,Recovered,4.0,13.0
+PAT100627,Sam Summers,26.0,Female ,Manchester,53.56853134055505,-2.2627103899669048,2025-02-24,2025-03-11,General Medicine,Brandon Butler,Hypertension,5163.71,None,emergency,Readmitted,1.0,15.0
+PAT100628,Darren Osborne,32.0,M,Bristol,51.47513485905514,-2.645355647676456,2025-06-02,2025-06-22,CARDIOLOGY,John Daly,Fracture,5474.17,None,Emergency,Under Treatment,5.0,20.0
+PAT100629,Jade Taylor,87.0,Female,Cardiff,51.46791150580051,-3.1847118043872,2024-12-24,2025-01-08,orthopedic,Samuel Barry,Asthma,7484.89,Vitality,Routine,Referred,1.0,15.0
+PAT100630,Raymond Walters,41.0, Male,Liverpool,53.39936754615563,-3.016537735730795,2024-06-28,2024-07-06,Emergency,Stuart Clark,Asthma,5037.53,AXA,Routine,Discharged,10.0,8.0
+PAT100631,Mr Raymond Patel,43.0,F,Birmingham,52.51083503432533,-1.9090602330348163,2024-10-21,2024-10-22,CARDIOLOGY,Lewis Jackson,Diabetes,6143.97,None,Emergency,Referred,7.0,1.0
+PAT100632,Conor Wong,72.0,M,Leeds,53.772293684284996,-1.5507009297341645,2024-10-16,2024-11-02,Orthopaedics,Richard Swift,Infection,4827.64,Bupa,ER,Recovered,7.0,17.0
+PAT100633,Mr Billy Poole,84.0,Male,Manchester,53.47803348599021,-2.2454568910401176,2025-03-13,2025-03-30,Oncology,Ms Anne Davies,Cancer Screening,5961.47,NHS,Emergency,Recovered,7.0,17.0
+PAT100634,Miss Julie Smith,36.0,M,Newcastle,54.954247926321266,-1.6690840727587672,2025-11-22,2025-12-07,Emergency,Mr Anthony Hawkins,Stroke,4614.86,Bupa,Emergency,Discharged,2.0,
+PAT100635,Rachael Cook-Johnson,71.0,Male,Newcastle,54.95871233059319,-1.6244688824686029,2024-09-22,2024-10-08,cardio,Mr Stanley Hooper,Flu,6658.78,AXA,Referral,Recovered,6.0,16.0
+PAT100636,Scott Bishop,52.0, Male,Nottingham,52.957969254351575,-1.1871507169475295,2024-12-24,2025-01-04,orthopedic,Jessica Anderson,Hypertension,1697.13,NHS,Referral,Recovered,1.0,11.0
+PAT100637,Kerry Jones-Smith,54.0,Male,Liverpool,53.422897805631514,-2.9407288325551235,2025-09-22,2025-10-01,Emergency,Bradley Godfrey,Stroke,6706.36,NHS,Emergency,Readmitted,5.0,9.0
+PAT100638,Miss Victoria Riley,24.0,M,Newcastle,54.9592370099539,-1.6085018112565752,2025-10-21,2025-10-26,Orthopaedics,Alan Jones,Stroke,3121.59,AXA,emergency,Referred,3.0,5.0
+PAT100639,Annette Knowles,24.0,Female,Cardiff,51.469689254698956,-3.1698184484294565,2025-06-24,2025-07-02,Cardiology,Gavin Bennett,Hypertension,7733.35,Aviva,ER,Readmitted,2.0,8.0
+PAT100640,Mohammed Kay,82.0, Male,Nottingham,52.93208347588079,-1.1972801383916127,2024-06-13,2024-07-04,CARDIOLOGY,Barbara Shaw,Migraine,-5300.48,Aviva,Emergency,Referred,6.0,21.0
+PAT100641,Kate Jones,28.0,M,Sheffield,53.354895778436585,-1.4971461627403913,2024-12-26,2024-12-31,Cardiology,Paige Saunders,Asthma,8489.34,Vitality,Emergency,Readmitted,2.0,5.0
+PAT100642,Dr Stacey Williams,29.0,Male,Leeds,53.7798454616797,-1.5387321507864402,2024-10-15,2024-10-16,Orthopaedics,Stewart Waters,Diabetes,3892.3,NHS,Routine,Discharged,10.0,1.0
+PAT100643,Brett Walker,24.0,Female ,Leeds,53.767109402150254,-1.597536356210266,2025-01-06,2025-01-20,Orthopaedics,Mohamed Kelly,Cancer Screening,2779.32,None,emergency,Under Treatment,2.0,14.0
+PAT100644,Malcolm Evans,65.0,F,Leeds,53.78449565665469,-1.6042804876466954,2025-07-14,2025-08-03,Oncology,Irene Jackson-Barnes,Asthma,6040.92,Bupa,Referral,Referred,10.0,20.0
+PAT100645,Richard Crawford,150.0,F,Newcastle,54.97340254226712,-1.5957910322247408,2024-07-31,2024-08-04,Oncology,Kenneth Black,Migraine,4351.69,None,ER,Recovered,9.0,4.0
+PAT100646,Billy Payne,67.0,Male,Liverpool,53.426501775745834,-2.981001424713854,2024-07-16,2024-08-03,CARDIOLOGY,Barry Morgan,Stroke,6919.59,Aviva,ER,Recovered,6.0,18.0
+PAT100647,Kerry Sharpe,71.0,Female ,Edinburgh,55.94417714559094,-3.177685903197205,2025-03-01,2025-03-02,Emergency,Caroline Green,Hypertension,3765.57,AXA,emergency,Referred,3.0,1.0
+PAT100648,Mrs Ann Wilson,53.0, Male,Bristol,51.45974303683804,-2.5358756783178507,2024-06-07,2024-06-10,Neurology,Gordon Ball,Stroke,2010.46,NHS,emergency,Readmitted,10.0,3.0
+PAT100649,Daniel Patel,35.0,Female ,Newcastle,55.0131218012082,-1.6506011522193405,2026-05-06,2026-05-26,Paediatrics,Joyce Matthews,Asthma,2132.81,AXA,Emergency,Readmitted,9.0,20.0
+PAT100650,Gillian Jones,20.0,Female ,Cardiff,51.43209346702127,-3.2223659642671265,2026-05-14,2026-05-27,Orthopaedics,Connor Taylor-Day,Cancer Screening,5618.93,Bupa,emergency,Discharged,3.0,13.0
+PAT100651,Bruce Bentley,25.0,F,Birmingham,52.53523347718712,-1.8719921828941184,2025-08-20,2025-08-31,CARDIOLOGY,Frances Smith,Heart Disease,7152.71,Vitality,Routine,Discharged,4.0,11.0
+PAT100652,Miss Kathryn Griffiths,48.0,Female ,Newcastle,55.01388954178934,-1.5882503119905205,2025-10-11,2025-10-14,General Medicine,Ryan Freeman,Stroke,3933.81,None,Referral,Readmitted,6.0,3.0
+PAT100653,Jack Barber-Brown,45.0,Female,Manchester,53.493219436202295,-2.2352632071219203,2025-01-24,2025-02-08,Paediatrics,Iain Williams-Waters,Hypertension,-3317.5,Bupa,Emergency,Recovered,5.0,15.0
+PAT100654,Kathleen Byrne-James,78.0,M,Edinburgh,55.96844123594326,-3.214719470292239,2025-02-05,2025-02-12,cardio,Stanley Ahmed,Cancer Screening,6911.5,NHS,emergency,Recovered,1.0,7.0
+PAT100655,Victor Jarvis,47.0, Male,London,51.48640782662494,-0.16511833123170866,2026-03-18,2026-04-04,orthopedic,Joyce Quinn,Hypertension,4912.78,Aviva,ER,Under Treatment,3.0,17.0
+PAT100656,Alice Clark,64.0,F,Newcastle,54.957431228643124,-1.58232597878294,2024-11-30,2024-12-14,Emergency,Joyce Walton,Diabetes,6782.65,NHS,Routine,Referred,10.0,14.0
+PAT100657,Dawn Wallace,25.0,F,London,51.52578336461881,-0.10836230184314277,2025-02-16,2025-02-26,Emergency,Emma Thompson,Cancer Screening,5681.64,Bupa,emergency,Referred,1.0,10.0
+PAT100658,Valerie Elliott,33.0,M,Sheffield,53.44040228318217,-1.442108647514576,2025-12-19,2025-12-27,Paediatrics,Elaine Armstrong,Flu,1590.48,Aviva,ER,Recovered,1.0,8.0
+PAT100659,Judith Hodgson,84.0, Male,Birmingham,52.47376789416073,-1.8615178308545255,2025-06-14,2025-06-15,Orthopaedics,Gail Hill,Hypertension,5698.59,Bupa,emergency,Under Treatment,5.0,1.0
+PAT100660,Mr Ross Fraser,43.0,F,Manchester,53.50643479761504,-2.2359386003883106,2025-08-26,2025-09-15,CARDIOLOGY,Beverley Foster,Fracture,5203.36,NHS,emergency,Under Treatment,9.0,20.0
+PAT100661,Cameron Green,36.0,Male,Sheffield,53.41560419263078,-1.4858529806634335,2026-02-26,2026-03-01,Emergency,Allan Iqbal,Migraine,3072.6,None,Emergency,Referred,3.0,3.0
+PAT100662,Dr Gary Baker,35.0,F,Liverpool,53.384154201529256,-3.0425120235785434,2025-07-02,2025-07-15,General Medicine,Carl Shaw-Greenwood,Flu,2956.0,Bupa,Referral,Referred,1.0,13.0
+PAT100663,Georgia Gough,51.0,Female ,Liverpool,53.38144054052408,-3.0196829768724434,2025-11-30,2025-12-01,Orthopaedics,Roy Craig,Hypertension,4067.95,None,emergency,Referred,7.0,1.0
+PAT100664,Mrs Emily Thompson,34.0,F,Glasgow,55.88005672350153,-4.245079056987693,2024-12-23,2024-12-24,Paediatrics,Dr Maurice Moore,Asthma,350.0,NHS,Referral,Under Treatment,2.0,1.0
+PAT100665,Victor Harris,59.0,F,Cardiff,51.45558430854063,-3.157099598500032,2026-02-16,2026-03-05,Neurology,Ms Irene Singh,Diabetes,2662.35,Vitality,Emergency,Referred,8.0,17.0
+PAT100666,Anna Brown,80.0,M,Nottingham,52.92430214956709,-1.2113000822606599,2024-08-11,2024-08-15,Neurology,Dr Jacob O'Neill,Asthma,1990.42,Bupa,Emergency,Under Treatment,10.0,4.0
+PAT100667,Dr Joel Davies,32.0,M,Leeds,53.78686654352468,-1.5247089150882096,2025-02-09,2025-02-28,Cardiology,Geoffrey Hilton,Hypertension,8173.89,Aviva,ER,Under Treatment,2.0,19.0
+PAT100668,Tracy Shaw,80.0,M,Newcastle,54.93684235140758,-1.613888877482627,2025-09-15,2025-09-16,Neurology,Dr Jay Wilson,Fracture,3701.79,Vitality,emergency,Recovered,10.0,1.0
+PAT100669,Marion Gray,74.0,M,Manchester,53.511404774187035,-2.2474466460921922,2025-09-17,2025-09-22,Orthopaedics,Bethan Rees,Diabetes,5047.67,AXA,Emergency,Referred,5.0,5.0
+PAT100670,Alexandra Smith-Brown,82.0, Male,Newcastle,54.96511788971021,-1.6143369953080042,2024-08-11,2024-08-19,General Medicine,Kelly Smith,Fracture,3341.01,Bupa,ER,Recovered,1.0,8.0
+PAT100671,Julie Saunders,38.0,Male,Manchester,53.47136951523761,-2.2095541180904648,2024-10-28,2024-11-13,Neurology,Martin Bailey,Infection,3296.0,Aviva,Routine,Readmitted,4.0,16.0
+PAT100672,Anne Ellis,47.0,M,Cardiff,51.5588987469232,-3.175753328140617,2025-12-17,2025-12-31,Paediatrics,Stuart Hunter-Richards,Heart Disease,2262.05,Aviva,Emergency,Discharged,4.0,14.0
+PAT100673,Joseph Edwards,74.0,Male,Birmingham,52.460390899392394,-1.8754862692841896,2025-04-05,2025-04-07,orthopedic,Mrs Elaine Cox,Migraine,2672.17,Bupa,Referral,Discharged,7.0,2.0
+PAT100674,Ricky Kaur,51.0,Female ,Manchester,53.47690110437527,-2.2543799605121273,2025-08-07,2025-08-18,CARDIOLOGY,Josh Begum,Asthma,6438.72,Aviva,ER,Referred,7.0,11.0
+PAT100675,Jade Lynch,65.0,M,Sheffield,53.37187608471252,-1.4879558675015705,2025-06-27,2025-07-10,General Medicine,Gavin Brown,Stroke,4648.24,None,emergency,Referred,2.0,13.0
+PAT100676,Michelle Harris,63.0,Female,Leeds,53.75673781576309,-1.564854938722472,2025-08-04,2025-08-06,Emergency,Ian Watson,Cancer Screening,5688.27,None,Routine,Readmitted,9.0,2.0
+PAT100677,William Parker,69.0,Female ,Newcastle,54.951722159952475,-1.555268730838974,2025-08-27,2025-09-10,Paediatrics,Francesca Wood,Diabetes,3131.7,Aviva,Referral,Recovered,4.0,14.0
+PAT100678,Dr Benjamin Stokes,56.0,M,Sheffield,53.34218288140354,-1.4759393337350935,2025-09-30,2025-10-02,Oncology,Ryan Morris,Fracture,6168.86,Vitality,emergency,Under Treatment,9.0,2.0
+PAT100679,Patricia Griffiths,0.0,Female ,London,51.48640568935726,-0.10912217688575024,2025-02-19,2025-03-08,Oncology,Gillian Wilkinson,Heart Disease,5794.1,Bupa,Routine,Discharged,10.0,17.0
+PAT100680,Sylvia Cameron,39.0,Female ,Glasgow,55.86284146926414,-4.2374380679968695,2026-04-27,2026-05-12,orthopedic,Jamie Daniels-Reid,Hypertension,5668.74,NHS,ER,Readmitted,8.0,15.0
+PAT100681,Ms Andrea Jennings,65.0,F,Bristol,51.46054488536909,-2.5958939446851295,2026-04-27,2026-05-09,General Medicine,Mohamed Dunn,Diabetes,6293.82,AXA,Referral,Readmitted,1.0,12.0
+PAT100682,Carol Perry,85.0,M,London,51.52412478599561,-0.1041722470254727,2025-09-23,2025-09-30,CARDIOLOGY,Samuel Higgins,Flu,6393.34,AXA,Referral,Under Treatment,6.0,7.0
+PAT100683,Dr Charlene Kay,45.0,Female,Liverpool,53.424436374840596,-2.951077889548623,2024-08-16,2024-08-22,Neurology,Gregory Smith,Stroke,4804.78,Aviva,Referral,Discharged,2.0,6.0
+PAT100684,Mrs Diana Barnes,21.0, Male,Glasgow,55.91149082638586,-4.311179022494983,2026-05-11,2026-05-16,cardio,Maurice Sutton-Tomlinson,Migraine,7369.81,AXA,ER,Discharged,6.0,5.0
+PAT100685,Mr Danny Robertson,39.0,Female ,Edinburgh,55.95817673957568,-3.2153193350699163,2024-05-31,2024-06-06,orthopedic,Miss Tracey Wheeler,Hypertension,4105.96,Bupa,Routine,Discharged,1.0,6.0
+PAT100686,Katie Atkins,43.0,Male,London,51.50356108257508,-0.07715296566892757,2025-12-31,2026-01-18,orthopedic,Ms Dorothy Watts,Stroke,4646.22,Aviva,Routine,Discharged,1.0,18.0
+PAT100687,Clifford Watkins,,F,London,51.492218324535905,-0.12212383426368492,2025-08-18,2025-09-02,Oncology,Barbara Rees,Fracture,4976.78,AXA,Routine,Referred,6.0,15.0
+PAT100688,Lydia Hill-Sharp,85.0,Female,Birmingham,52.51240276113518,-1.8999507314173052,2025-08-12,2025-08-21,Orthopaedics,Dr Katherine Jones,Heart Disease,3205.44,Bupa,emergency,Recovered,7.0,9.0
+PAT100689,Ian Rowe,51.0,Male,Nottingham,52.90029650595013,-1.162698531105227,2024-09-22,2024-10-08,Cardiology,Glen Williamson,Cancer Screening,6511.37,Aviva,Referral,Discharged,8.0,16.0
+PAT100690,Dr Karl Sharp,66.0, Male,Manchester,53.50895094853571,-2.2819450643238337,2024-11-04,2024-11-23,Oncology,Marie Shaw,Diabetes,5279.41,NHS,Routine,Under Treatment,1.0,19.0
+PAT100691,Graeme Young,61.0,Female ,Newcastle,54.99823830659191,-1.6104373106647676,2025-02-20,2025-02-25,Paediatrics,Mrs Shirley Jones,Hypertension,3635.57,NHS,Emergency,Discharged,1.0,5.0
+PAT100692,Dr Jamie Jones,88.0,F,Bristol,51.4705245943987,-2.5834179906507777,2026-03-18,2026-03-23,CARDIOLOGY,Albert Carpenter,Fracture,6414.67,None,Referral,Readmitted,9.0,5.0
+PAT100693,Jordan Griffin,71.0,Female ,London,51.487628889619124,-0.15341261139949625,2025-12-24,2026-01-14,Orthopaedics,Douglas Thompson-Barker,Migraine,4512.59,Bupa,ER,Referred,5.0,21.0
+PAT100694,Rachel Harris,86.0,Female,Glasgow,55.83913897060413,-4.19476511757581,2024-10-15,2024-10-20,Neurology,Tom Green-Gough,Stroke,5366.05,AXA,Emergency,Recovered,4.0,5.0
+PAT100695,Rachael Hussain,65.0,Female ,Sheffield,53.43938697470231,-1.4532552664258414,2025-04-03,2025-04-17,CARDIOLOGY,Julian Wright,Asthma,6415.92,NHS,ER,Referred,8.0,14.0
+PAT100696,Danielle Robson,63.0,Male,Birmingham,52.5143589465553,-1.8443272266824797,2025-02-19,2025-03-03,orthopedic,Mrs Jenna Clarke,Flu,4978.32,Vitality,ER,Readmitted,3.0,12.0
+PAT100697,Miss Jacqueline Middleton,60.0,M,Cardiff,51.4740532561661,-3.1110905064572956,2024-05-27,2024-06-07,Oncology,Dr Roger Walsh,Cancer Screening,8533.37,Bupa,emergency,Recovered,9.0,11.0
+PAT100698,Mr Derek Smith,74.0,M,Manchester,53.53429090177092,-2.226674118813533,2025-03-29,2025-04-17,CARDIOLOGY,Dr Anne Taylor,Stroke,5015.6,AXA,ER,Readmitted,5.0,19.0
+PAT100699,Pauline Mitchell,76.0,Male,Bristol,51.43436447059639,-2.563775074119318,2026-01-01,2026-01-09,orthopedic,Kayleigh Norman-Burton,Migraine,4831.68,NHS,Referral,Recovered,10.0,8.0
+PAT100700,Dr Julia Martin,73.0,M,Glasgow,55.88604682315863,-4.217681666872567,2026-03-02,2026-03-04,Cardiology,Stewart Wood,Hypertension,8586.69,Bupa,ER,Readmitted,3.0,2.0
+PAT100701,Alice Fisher,52.0,M,Bristol,51.49143645162792,-2.590722208499126,2024-09-13,2024-09-21,Orthopaedics,Francis Taylor,Cancer Screening,2430.88,Bupa,Referral,Readmitted,7.0,8.0
+PAT100702,Miss Paige Nash,66.0,Female ,Sheffield,53.40871558161587,-1.427879125334017,2025-04-12,2025-04-18,Cardiology,Dr Gareth Wright,Asthma,4001.66,AXA,Emergency,Recovered,6.0,6.0
+PAT100703,Samantha Butler,68.0,F,Glasgow,55.88935604819308,-4.283311623285696,2024-09-01,2024-09-19,Neurology,Mr Garry Ali,Asthma,3182.22,Bupa,Referral,Referred,5.0,18.0
+PAT100704,Mr Malcolm White,150.0,Female,Liverpool,53.38786416819853,-3.031060966668036,2025-01-25,2025-02-13,Paediatrics,Oliver Mitchell,Cancer Screening,,NHS,ER,Under Treatment,1.0,19.0
+PAT100705,Stephen Murray-Flynn,81.0,F,Manchester,53.475684816115766,-2.2695835212222937,2026-01-25,2026-01-26,Oncology,Ronald Cooper-Hudson,Cancer Screening,8555.53,Bupa,Referral,Referred,5.0,1.0
+PAT100706,Deborah Cox,60.0, Male,London,51.499515126826886,-0.14580363440730115,2024-07-19,2024-07-31,Neurology,Karl Burke-Wood,Infection,1415.98,AXA,Routine,Recovered,6.0,12.0
+PAT100707,Abigail Hilton,46.0,F,Edinburgh,55.93307177677755,-3.154287354854346,2025-10-28,2025-11-08,cardio,Mrs Ann Gould,Diabetes,3516.36,NHS,Emergency,Readmitted,4.0,11.0
+PAT100708,Sheila Ward,26.0,F,Glasgow,55.903937589429724,-4.218218221586379,2026-04-05,2026-04-09,CARDIOLOGY,Kathleen Morrison,Stroke,7296.36,Vitality,Referral,Under Treatment,4.0,4.0
+PAT100709,Dr Hazel Smith,44.0,F,Cardiff,51.44849716722294,-3.1612670164655587,2024-12-28,2025-01-16,cardio,Miss Nicole Day,Fracture,6645.26,NHS,Referral,Referred,9.0,19.0
+PAT100710,Diana Barnes,53.0,F,Manchester,53.48908511708937,-2.1761838990221913,2024-06-18,2024-07-09,CARDIOLOGY,Mr Luke Porter,Flu,6213.15,Aviva,Routine,Discharged,9.0,21.0
+PAT100711,Dr Douglas Smith,30.0,M,Nottingham,53.0157335436868,-1.1773521558395779,2025-10-29,2025-11-09,Orthopaedics,Jonathan Griffiths,Hypertension,5974.27,Bupa,Routine,Referred,4.0,11.0
+PAT100712,Sean Wilkinson,20.0,Female,Sheffield,53.384966875999304,-1.4462691138468446,2024-12-18,2024-12-28,Emergency,Joseph Wood,Stroke,3628.24,Bupa,Emergency,Discharged,8.0,10.0
+PAT100713,Ms Chloe Ward,47.0,Female ,Edinburgh,55.966727347264175,-3.129231922824436,2025-11-15,2025-12-04,General Medicine,Ashley Walsh,Stroke,3592.64,Bupa,emergency,Readmitted,4.0,19.0
+PAT100714,Damien Kerr,21.0,F,London,51.49081516392561,-0.1302039650747328,2024-11-28,2024-12-03,cardio,Mr Simon Miles,Asthma,6793.73,None,Referral,Discharged,7.0,5.0
+PAT100715,Glen Walker,48.0, Male,Birmingham,52.49196226182362,-1.8890434389934772,2025-10-20,2025-11-03,Oncology,George Sanderson,Migraine,8306.51,Bupa,emergency,Under Treatment,9.0,14.0
+PAT100716,Mrs Debra Richards,45.0,Female,Manchester,53.51630971402386,-2.23637039054881,2024-07-06,2024-07-26,CARDIOLOGY,Shane Welch,Diabetes,4050.35,Bupa,Referral,Discharged,4.0,20.0
+PAT100717,Ms Diana Patel,63.0,F,Leeds,53.82924325946239,-1.4909250502725448,2025-11-21,2025-11-25,cardio,Damian Green,Stroke,9270.08,AXA,Emergency,Under Treatment,10.0,4.0
+PAT100718,Karen Taylor,42.0, Male,Cardiff,51.475099240285004,-3.193482635784519,2026-05-13,2026-05-20,Oncology,Laura Grant,Heart Disease,4866.01,Aviva,Routine,Referred,4.0,7.0
+PAT100719,Rosie King,19.0, Male,London,51.527647092588964,-0.12517766448675763,2026-03-27,2026-04-06,Paediatrics,Dr Charlene Francis,Infection,5493.14,Aviva,Referral,Under Treatment,6.0,10.0
+PAT100720,Mrs Barbara Martin,70.0,Male,Leeds,53.83413293836837,-1.5783710262840511,2025-02-09,2025-02-10,Emergency,Elliot Anderson,Cancer Screening,4624.83,NHS,Referral,Readmitted,3.0,1.0
+PAT100721,Lawrence Bevan,28.0,Male,Sheffield,53.36355109118239,-1.493616514202703,2025-05-19,2025-06-07,cardio,Cameron Allen,Cancer Screening,4743.56,Vitality,Referral,Referred,6.0,19.0
+PAT100722,Wendy Hunter,84.0,Male,Liverpool,53.36182826382862,-3.007673989070132,2026-03-07,2026-03-23,orthopedic,Joan Thomas-Johnson,Fracture,4747.01,Vitality,ER,Recovered,10.0,16.0
+PAT100723,Hugh Wheeler,76.0, Male,Sheffield,53.44798727700944,-1.5051459830993699,2025-10-24,2025-11-01,Oncology,Annette Wilson,Cancer Screening,7844.65,AXA,ER,Recovered,3.0,8.0
+PAT100724,Adam Reed,20.0,Female ,Newcastle,55.00134869052213,-1.6431965328803355,2025-10-07,2025-10-11,Emergency,Brett Sheppard,Hypertension,5772.44,NHS,ER,Under Treatment,5.0,4.0
+PAT100725,Miss Laura Peacock,72.0, Male,Leeds,53.81952639659986,-1.5577621855634627,2025-12-04,2025-12-10,Emergency,Harry Davis,Cancer Screening,4676.17,AXA,ER,Readmitted,6.0,6.0
+PAT100726,Miss Jacqueline Jarvis,55.0,M,Nottingham,52.97897788657294,-1.1972553758389315,2026-03-23,2026-04-13,orthopedic,Victoria Brown,Migraine,4678.29,None,emergency,Referred,6.0,21.0
+PAT100727,John Brown-Riley,59.0,Female,Edinburgh,55.92694345682401,-3.141677872392033,2025-02-12,2025-02-20,General Medicine,Jordan Henderson,Diabetes,3801.8,Bupa,Routine,Under Treatment,8.0,8.0
+PAT100728,Dominic Booth,59.0, Male,Glasgow,55.89425628868416,-4.268163932352101,2025-05-13,2025-06-03,cardio,Glen Davis,Migraine,7390.87,Vitality,Routine,Recovered,2.0,21.0
+PAT100729,Lisa Bailey,20.0,Female,Liverpool,53.36888595767682,-3.0096780711274262,2024-05-19,2024-05-25,Paediatrics,Stacey Jones,Migraine,4360.35,NHS,emergency,Under Treatment,5.0,6.0
+PAT100730,Jack Douglas,62.0,Female ,Liverpool,53.414742408548875,-3.0050886143343303,2026-02-17,2026-02-25,cardio,Dominic Alexander,Stroke,5675.57,Aviva,Referral,Under Treatment,3.0,8.0
+PAT100731,Donald Moore,69.0,Female,Manchester,53.527857456136324,-2.2135245928600478,2024-08-10,2024-08-17,Cardiology,Jamie Baker,Infection,5373.21,None,ER,Readmitted,6.0,7.0
+PAT100732,Hollie Fraser,37.0,M,Manchester,53.543503313463695,-2.3049755106972802,2025-04-25,2025-05-06,Neurology,Marc Johnson,Infection,5153.36,Aviva,Routine,Referred,1.0,11.0
+PAT100733,Paige Bell,20.0, Male,Nottingham,53.0102157714737,-1.1139431666410156,2025-06-22,2025-07-04,Emergency,Jay Gardiner,Cancer Screening,4524.18,NHS,ER,Under Treatment,,12.0
+PAT100734,Jade Sharpe,33.0,M,Nottingham,52.927097542459485,-1.1688008865698891,2025-09-18,2025-09-21,Orthopaedics,Charlotte Parker,Infection,6135.57,AXA,emergency,Discharged,4.0,3.0
+PAT100735,Bryan Rees,150.0,Female,Edinburgh,55.98906871901767,-3.2134766426531396,2025-06-23,2025-07-07,Paediatrics,Mr Callum Cooper,Fracture,3062.03,None,emergency,Recovered,8.0,14.0
+PAT100736,Leslie Newman,26.0,Female,Manchester,53.42988841426933,-2.2442531366505087,2025-10-24,2025-10-28,General Medicine,Dorothy Roberts,Cancer Screening,3522.19,NHS,Routine,Recovered,10.0,4.0
+PAT100737,Lynne Davis-Page,26.0,Female,Sheffield,53.343609204925876,-1.3981802224831723,2024-07-17,2024-08-05,General Medicine,Eleanor Dickinson,Hypertension,2847.51,AXA,Routine,Readmitted,,19.0
+PAT100738,Katherine Dale,47.0,F,Nottingham,53.04263120382561,-1.1170085764804456,2024-06-30,2024-07-02,Orthopaedics,Mr Adrian Watkins,Asthma,4910.27,Vitality,Routine,Readmitted,5.0,2.0
+PAT100739,Shane Blake,38.0,Male,Liverpool,53.42199548524354,-3.0218920451946447,2025-12-28,2026-01-15,General Medicine,Hayley Dobson,Diabetes,2781.79,Vitality,Routine,Referred,10.0,18.0
+PAT100740,Donald Woods,32.0,Female ,Manchester,53.497265028847984,-2.232131464538318,2026-05-12,2026-05-17,Oncology,Dr Ann Morley,Stroke,5935.74,Bupa,Emergency,Recovered,5.0,5.0
+PAT100741,Miss Jasmine Jones,38.0,Female,Liverpool,53.42811160734351,-2.9398832840864833,2025-04-11,2025-04-18,Paediatrics,Tom Pearce,Stroke,4337.87,AXA,emergency,Under Treatment,5.0,7.0
+PAT100742,Damian Bennett-Bailey,85.0,F,Newcastle,55.011571352789176,-1.6429154352306803,2025-09-21,2025-09-27,Orthopaedics,Lynne Porter,Migraine,5915.45,NHS,Routine,Discharged,6.0,6.0
+PAT100743,Abdul Taylor,45.0,F,Newcastle,54.99110810775834,-1.6203651147784046,2025-05-07,2025-05-19,orthopedic,Ms Judith Hawkins,Fracture,3376.38,NHS,ER,Referred,6.0,12.0
+PAT100744,Alison Jones,30.0, Male,Edinburgh,55.9846767694912,-3.2025717451297084,2024-08-19,2024-08-23,Paediatrics,Jennifer Thomas-Hanson,Asthma,2801.76,NHS,emergency,Referred,2.0,4.0
+PAT100745,Lydia Whittaker,83.0,M,Birmingham,52.45031508236905,-1.8478180512224902,2024-07-31,2024-08-17,cardio,Frances Lewis,Fracture,5097.41,AXA,Referral,Recovered,8.0,17.0
+PAT100746,Dennis Forster,55.0,Female,Manchester,53.45412974253167,-2.226843600425721,2025-09-28,2025-10-19,Paediatrics,Dr Elizabeth Saunders,Asthma,2588.95,AXA,Referral,Referred,10.0,21.0
+PAT100747,Barbara Jackson-Williams,61.0,Female ,Cardiff,51.50782354199902,-3.163845918944898,2025-11-05,2025-11-07,cardio,Jennifer Smith,Stroke,5580.61,NHS,Referral,Discharged,6.0,2.0
+PAT100748,Conor Moore,49.0,Female ,Sheffield,53.369371289066336,-1.4663977788363356,2025-08-15,2025-09-04,cardio,Jay Thompson,Migraine,6141.01,Aviva,Emergency,Recovered,7.0,20.0
+PAT100749,Yvonne Johnson,87.0,M,Manchester,53.49084389227785,-2.2140392197577166,2026-04-07,2026-04-12,Emergency,Anna Dean,Heart Disease,6504.11,Bupa,ER,Under Treatment,5.0,
+PAT100750,Melissa Evans,47.0,F,Glasgow,55.84333872839933,-4.2259608293800435,2024-05-18,2024-05-22,Oncology,Aimee Smith,Asthma,8304.0,None,Routine,Referred,5.0,4.0
+PAT100751,Hannah Sanders,29.0,Female,Nottingham,52.97410676018232,-1.1141737564905525,2024-10-26,2024-11-03,Cardiology,Jason Smith,Fracture,4160.53,Vitality,ER,Under Treatment,3.0,8.0
+PAT100752,Benjamin Baldwin-Coleman,32.0,Female ,Newcastle,54.953811299905276,-1.6035508374426812,2026-01-30,2026-02-09,Cardiology,Lorraine Ross,Diabetes,7775.23,AXA,emergency,Recovered,2.0,10.0
+PAT100753,Connor Frost,77.0, Male,Birmingham,52.509620026804924,-1.8741761110087993,2026-03-18,2026-03-30,Oncology,Hannah Osborne,Infection,6482.78,Vitality,Referral,Recovered,9.0,12.0
+PAT100754,Conor Hughes,71.0,Male,London,51.51254464913982,-0.09862610259048524,2024-09-15,2024-09-19,Cardiology,Mrs Karen Coates,Flu,6142.88,NHS,Routine,Recovered,7.0,4.0
+PAT100755,Jade Patel,0.0,M,Leeds,53.79938546924657,-1.5612280747045952,2025-03-13,2025-04-02,Paediatrics,Louis Parker,Flu,5241.29,Aviva,Routine,Recovered,3.0,20.0
+PAT100756,Angela Williams-Clarke,62.0,Female,Newcastle,54.98171849809607,-1.6018126825941306,2025-06-01,2025-06-03,cardio,Trevor Mills,Stroke,,None,ER,Readmitted,2.0,2.0
+PAT100757,Clive Patel,25.0,M,Cardiff,51.497262356881734,-3.1269536289821165,2025-07-05,2025-07-12,orthopedic,Hannah Franklin-Hancock,Migraine,4599.73,None,Emergency,Recovered,7.0,7.0
+PAT100758,Julia Stewart,59.0,Female ,Glasgow,55.87327217891508,-4.203956126200594,2026-04-26,2026-04-29,Emergency,Naomi Smith,Cancer Screening,5334.82,Aviva,emergency,Referred,8.0,3.0
+PAT100759,Miss Gemma Wood,32.0,Female,Leeds,53.804229625487196,-1.5492589461952009,2025-08-29,2025-09-04,CARDIOLOGY,Joseph Blake,Hypertension,6364.44,NHS,Routine,Discharged,5.0,6.0
+PAT100760,Kyle Kelly,49.0,M,Cardiff,51.46600001655693,-3.1493629165727666,2024-10-14,2024-10-30,Oncology,Matthew Black,Fracture,6834.75,AXA,Emergency,Discharged,3.0,16.0
+PAT100761,Miss Ruth Davis,71.0,Female,Glasgow,55.8357416920667,-4.253884909652898,2024-10-21,2024-11-09,CARDIOLOGY,Sophie Berry,Stroke,4376.02,Vitality,Routine,Under Treatment,2.0,19.0
+PAT100762,Mandy Begum,87.0,Female ,Leeds,53.806414248237814,-1.5167183124514088,2025-09-27,2025-10-04,Neurology,Stuart Davies-Kelly,Hypertension,6023.03,Bupa,Emergency,Readmitted,5.0,7.0
+PAT100763,Nicholas Howell-Clark,59.0, Male,Bristol,51.46551196831825,-2.584257253917505,2025-01-31,2025-02-07,CARDIOLOGY,Thomas Davies,Heart Disease,3474.15,Aviva,emergency,Recovered,8.0,7.0
+PAT100764,Gail McDonald-Butler,39.0,F,Leeds,53.787825883865054,-1.5820092557008703,2026-02-05,2026-02-12,Emergency,Catherine Joyce,Flu,4826.18,NHS,ER,Recovered,9.0,7.0
+PAT100765,Harry Miller,24.0,Male,London,51.43771745721527,-0.15154600873387813,2025-06-12,2025-06-24,CARDIOLOGY,Julia Bailey,Hypertension,5536.1,Vitality,ER,Recovered,9.0,12.0
+PAT100766,Dr Marion Morley,80.0,F,Sheffield,53.414084675361266,-1.5055242353635414,2025-06-07,2025-06-17,Orthopaedics,Natasha Adams-O'Brien,Migraine,2861.66,AXA,Routine,Under Treatment,8.0,10.0
+PAT100767,Brandon Grant,75.0, Male,Liverpool,53.43703235930039,-3.014031480935558,2024-06-17,2024-06-20,CARDIOLOGY,Lydia Williams-Burns,Cancer Screening,6842.91,AXA,Emergency,Discharged,1.0,3.0
+PAT100768,Jordan Brown,42.0, Male,Nottingham,52.95469076812856,-1.1277914110943297,2024-12-16,2024-12-28,orthopedic,Sandra Smith-Hughes,Diabetes,3235.78,Bupa,Emergency,Readmitted,3.0,12.0
+PAT100769,Maureen Davey,39.0,Female,London,51.50326719053277,-0.03134565506153732,2024-07-26,2024-08-03,orthopedic,Hazel Warren-Thomas,Fracture,4998.22,NHS,Referral,Under Treatment,7.0,8.0
+PAT100770,Oliver Morton,88.0,F,Glasgow,55.86083597723615,-4.22630620900028,2025-09-27,2025-10-09,Oncology,Karl Hart,Fracture,6573.75,NHS,ER,Under Treatment,10.0,12.0
+PAT100771,Geoffrey Long,25.0,F,Newcastle,55.00866912575541,-1.6663675083214822,2024-08-10,2024-08-22,Paediatrics,Ms Rosemary Day,Cancer Screening,3898.66,Aviva,Routine,Readmitted,8.0,12.0
+PAT100772,Mr Alex Allen,87.0,M,Manchester,53.50472203943336,-2.265872980581356,2026-02-16,2026-02-28,Neurology,Mark Taylor,Hypertension,3092.95,Vitality,ER,Discharged,5.0,12.0
+PAT100773,Matthew Jones,51.0, Male,Newcastle,54.99511025323888,-1.6019974491759994,2025-01-25,2025-02-01,Oncology,Dr Wayne Singh,Stroke,7379.03,None,Emergency,Referred,8.0,7.0
+PAT100774,Kyle Bell,87.0,Male,Liverpool,53.36924227895792,-3.0234862431234166,2024-09-06,2024-09-11,Orthopaedics,Andrew Day,Diabetes,3364.24,NHS,Emergency,Referred,1.0,5.0
+PAT100775,Ms Irene Perry,64.0,Male,Manchester,53.49491104735764,-2.255949836114167,2026-01-01,2026-01-04,orthopedic,Teresa Barker,Diabetes,3729.48,Aviva,Referral,Recovered,3.0,3.0
+PAT100776,Marilyn Murphy-O'Neill,39.0,Male,Edinburgh,55.88473037622584,-3.231678392252102,2025-05-23,2025-06-02,CARDIOLOGY,Melanie Douglas,Hypertension,5384.15,Aviva,emergency,Recovered,6.0,10.0
+PAT100777,Mrs Hollie Hancock,54.0,M,Edinburgh,55.89449940104566,-3.1923264615908944,2024-05-31,2024-06-16,Orthopaedics,Gavin Reed,Cancer Screening,-4682.16,Vitality,Routine,Discharged,6.0,16.0
+PAT100778,Jennifer Jackson,62.0,Male,Newcastle,55.03934122719681,-1.6369009910819488,2026-05-02,2026-05-13,orthopedic,Clare Campbell,Fracture,4774.78,Vitality,Emergency,Discharged,3.0,11.0
+PAT100779,Mr Declan Morgan,33.0,F,London,51.54646169778214,-0.12901430202788838,2024-10-09,2024-10-22,CARDIOLOGY,Oliver Dean,Stroke,8455.23,None,Emergency,Discharged,7.0,13.0
+PAT100780,Mrs Deborah Wright,64.0,F,Liverpool,53.391643216795735,-3.0207246677837984,2026-05-14,2026-05-25,General Medicine,Mr Nigel Saunders,Cancer Screening,2437.61,AXA,ER,Referred,3.0,11.0
+PAT100781,Mrs Lesley Chambers,34.0,Female,Glasgow,55.864970178436266,-4.2136332874274105,2025-12-06,2025-12-13,Paediatrics,Nicola Roberts-Coleman,Hypertension,2129.19,AXA,ER,Discharged,2.0,7.0
+PAT100782,Patrick Ellis,21.0,Male,Leeds,53.80017318466031,-1.5292377135726858,2026-04-10,2026-04-19,Neurology,Shannon Morris,Flu,919.63,Aviva,emergency,Referred,6.0,9.0
+PAT100783,Gail Robinson,23.0,Female ,Newcastle,54.96626987896978,-1.6544895525541483,2024-08-23,2024-09-13,Orthopaedics,Christopher Smith,Fracture,3725.79,Vitality,Routine,Discharged,3.0,21.0
+PAT100784,Ms Leanne Thomas,38.0,M,Manchester,53.448219354725424,-2.2367489008791517,2026-05-08,2026-05-21,General Medicine,Philip Bell,Asthma,2888.83,Vitality,emergency,Under Treatment,9.0,13.0
+PAT100785,Melissa Iqbal,77.0,Female ,Birmingham,52.477395761315385,-1.9186268438556986,2025-06-04,2025-06-25,Neurology,Mr Gerard Allen,Stroke,3172.77,NHS,Routine,Recovered,4.0,21.0
+PAT100786,Donna Chadwick,,F,Birmingham,52.45486189841994,-1.870170367159936,2026-02-12,2026-03-02,Oncology,Christian Roberts-Quinn,Cancer Screening,5510.42,None,Referral,Discharged,10.0,18.0
+PAT100787,Molly Lucas,71.0, Male,Edinburgh,55.979383150791016,-3.166405880513941,2025-07-07,2025-07-10,Paediatrics,Tom Walton,Fracture,2119.22,Bupa,ER,Readmitted,9.0,3.0
+PAT100788,Timothy Smith,25.0,Male,Sheffield,53.36544000129281,-1.4864121309957703,2025-11-29,2025-12-11,Oncology,Linda Anderson,Hypertension,5076.82,Aviva,emergency,Recovered,2.0,12.0
+PAT100789,Sam Newman,86.0,F,Birmingham,52.51720069571567,-1.9612602829597416,2025-02-06,2025-02-13,Cardiology,Dr Lucy Newman,Fracture,7507.83,Aviva,ER,Readmitted,3.0,7.0
+PAT100790,Donald Lee,36.0,Female ,London,51.52802735696692,-0.10383141057664072,2026-04-30,2026-05-02,Cardiology,Damian Woods,Heart Disease,6218.69,Aviva,Emergency,Discharged,10.0,2.0
+PAT100791,Mrs Gillian Clark,37.0,Female ,Newcastle,55.03602872719283,-1.5934745960110785,2026-04-17,2026-04-28,CARDIOLOGY,Mrs Helen McDonald,Asthma,7277.81,NHS,Routine,Referred,10.0,11.0
+PAT100792,Mrs Jacqueline Nicholls,85.0,Female,Nottingham,52.93111999835295,-1.2506186383794646,2026-02-10,2026-02-20,cardio,Ross Chapman,Asthma,3075.66,None,emergency,Readmitted,4.0,10.0
+PAT100793,Dr Iain Thomas,82.0,F,Liverpool,53.46433939396771,-3.017161167202172,2024-07-17,2024-07-31,Cardiology,Geraldine Miah,Hypertension,5408.69,Aviva,Referral,Under Treatment,6.0,14.0
+PAT100794,Heather Evans,62.0,Female,Birmingham,52.48679530304663,-1.8072797904166962,2025-09-24,2025-09-29,Emergency,Marc Gibson,Fracture,4298.9,NHS,Routine,Discharged,7.0,5.0
+PAT100795,Alexandra Morris-Dixon,50.0,Male,London,51.53193439442181,-0.11448207180478831,2024-10-17,2024-11-04,Neurology,Mr Leon Morris,Hypertension,2833.9,AXA,emergency,Discharged,10.0,18.0
+PAT100796,Adrian Mistry,26.0, Male,Glasgow,55.83879103090324,-4.268349191012534,2026-04-12,2026-04-25,Emergency,Tracy Evans,Diabetes,4199.7,NHS,ER,Under Treatment,5.0,13.0
+PAT100797,Mr Bernard Cook,32.0,Female,Liverpool,53.35635981059971,-3.0065212251186355,2025-01-11,2025-01-31,Neurology,Olivia Smith,Infection,2764.41,AXA,Routine,Referred,10.0,20.0
+PAT100798,Mr Nicholas Jones,34.0,F,Birmingham,52.47030995924261,-1.9289167438462305,2025-05-01,2025-05-21,cardio,Jacob Bates,Cancer Screening,4301.1,AXA,emergency,Under Treatment,5.0,20.0
+PAT100799,Mrs Ellie Pickering,84.0,F,Glasgow,55.84034047005337,-4.197203411474658,2026-02-08,2026-02-27,Oncology,Ryan Carter,Diabetes,6330.98,NHS,emergency,Under Treatment,7.0,19.0
+PAT100800,Ian Flynn,76.0,F,Edinburgh,55.933972794292295,-3.1697827471565105,2026-03-28,2026-04-16,Paediatrics,Elaine Dale,Stroke,2074.27,AXA,Routine,Readmitted,,19.0
+PAT100801,Julie Mason,44.0,M,Edinburgh,55.96346920737484,-3.182124652166451,2025-01-03,2025-01-17,Cardiology,Francesca Allen-Murphy,Migraine,8663.1,None,Referral,Readmitted,10.0,14.0
+PAT100802,Dr Derek Allen,31.0, Male,Liverpool,53.41040745740763,-3.006683850678969,2024-07-11,2024-07-15,Oncology,Max Butcher,Heart Disease,6914.95,Bupa,ER,Referred,,4.0
+PAT100803,Mrs Michelle Smith,35.0,F,Birmingham,52.45550283178134,-1.9003844687481437,2024-07-23,2024-07-30,CARDIOLOGY,Christopher Hussain,Flu,7407.42,None,ER,Readmitted,7.0,7.0
+PAT100804,Mr Marcus Coates,74.0,F,Liverpool,53.34648000157463,-2.969379278059715,2025-09-06,2025-09-24,cardio,Patricia Miles,Fracture,4428.53,Bupa,Emergency,Under Treatment,6.0,18.0
+PAT100805,Mr Jacob Jones,48.0, Male,Glasgow,55.856917466356656,-4.232962093474734,2024-10-18,2024-11-01,Paediatrics,Philip Wood,Diabetes,3002.96,None,ER,Under Treatment,1.0,14.0
+PAT100806,Brian Wilson,48.0,M,Edinburgh,55.9283442981236,-3.1794743714646714,2025-05-02,2025-05-04,CARDIOLOGY,Mr Damien Roberts,Flu,5462.93,AXA,Referral,Readmitted,9.0,2.0
+PAT100807,Katherine Allen,,F,Glasgow,55.79916961168697,-4.20508569270628,2025-05-31,2025-06-12,Oncology,Mrs Sylvia Howarth,Stroke,6183.17,None,Emergency,Discharged,6.0,12.0
+PAT100808,Nigel Williams,79.0,F,Cardiff,51.478217297145264,-3.1962998070612754,2025-02-09,2025-02-14,Neurology,Miss Linda Moss,Migraine,6616.61,AXA,Referral,Recovered,3.0,5.0
+PAT100809,Samantha Roberts-Rees,42.0,Male,Cardiff,51.47721670574187,-3.1577121057823407,2026-01-17,2026-01-27,orthopedic,Dr Peter Fuller,Stroke,3971.26,AXA,Referral,Recovered,,10.0
+PAT100810,Ross Hodgson,32.0,Female,Leeds,53.76800266398794,-1.5832021283904898,2025-03-19,2025-04-09,General Medicine,Alex Winter,Infection,3935.9,AXA,Routine,Readmitted,10.0,21.0
+PAT100811,Josh Phillips,49.0,Male,Glasgow,55.83471995395867,-4.216045454904152,2024-10-12,2024-10-14,Neurology,Benjamin Martin-Kent,Stroke,7222.65,Bupa,Routine,Referred,4.0,2.0
+PAT100812,Dr Dominic Lawrence,45.0,F,Newcastle,54.99890580179298,-1.574250703833259,2026-04-14,2026-05-02,Neurology,Vincent Davis,Fracture,1672.63,Vitality,emergency,Referred,4.0,18.0
+PAT100813,Lewis Scott,70.0,F,Cardiff,51.54529859335598,-3.190482634989934,2025-06-30,2025-07-12,Emergency,Miss Margaret Giles,Fracture,6079.34,None,emergency,Under Treatment,10.0,12.0
+PAT100814,Simon Richardson-Cook,38.0, Male,Cardiff,51.52547291115621,-3.2156455513120066,2026-01-13,2026-01-20,CARDIOLOGY,Mr Guy Davies,Heart Disease,8217.8,None,ER,Discharged,8.0,7.0
+PAT100815,Jack Tomlinson,41.0,M,London,51.50594796175038,-0.14293590060868336,2026-02-04,2026-02-12,cardio,Carole Thomas,Fracture,8220.25,Aviva,emergency,Recovered,3.0,8.0
+PAT100816,Alice Carr-Francis,,Male,Manchester,53.506396528434244,-2.2211971737158733,2025-07-23,2025-08-04,Neurology,Amber Cross-French,Hypertension,3159.37,AXA,ER,Recovered,7.0,12.0
+PAT100817,Alex Cook,56.0, Male,London,51.47426716333846,-0.1721987413583564,2024-12-19,2024-12-25,Oncology,Andrew Harris,Stroke,7811.86,None,Routine,Readmitted,,6.0
+PAT100818,Ms Joan Hall,61.0,Female ,Newcastle,55.006572269986265,-1.6054164899798804,2024-06-14,2024-06-20,General Medicine,Dale Baker,Hypertension,4674.11,Bupa,Routine,Readmitted,7.0,6.0
+PAT100819,Marilyn Smart,49.0,Male,Nottingham,53.00752818117012,-1.168938243830022,2024-08-15,2024-08-16,General Medicine,Gavin Murray,Heart Disease,1710.72,NHS,ER,Recovered,1.0,1.0
+PAT100820,Mr Donald Newman,56.0,Female ,Bristol,51.47012785592145,-2.57796073053691,2025-03-21,2025-03-25,Neurology,Georgia Thomas,Cancer Screening,1877.0,Vitality,Emergency,Recovered,5.0,4.0
+PAT100821,Stacey Clarke,42.0, Male,Newcastle,54.999018544647576,-1.630718311190459,2025-09-05,2025-09-24,Cardiology,Irene Hargreaves,Diabetes,2715.07,Vitality,Routine,Recovered,10.0,19.0
+PAT100822,Molly Hobbs,45.0,Female ,Bristol,51.48368512230501,-2.5761379401678894,2026-04-19,2026-04-21,orthopedic,Ryan Clark-Akhtar,Fracture,6003.47,NHS,Emergency,Referred,,2.0
+PAT100823,Dr Lydia Flynn,54.0,F,Cardiff,51.51565079673523,-3.1902595405379084,2026-04-23,2026-05-03,Oncology,Billy Norris,Hypertension,7560.19,Bupa,Emergency,Under Treatment,10.0,10.0
+PAT100824,Aaron Franklin,43.0,Female,Liverpool,53.380812899862654,-3.0014032110567745,2025-10-11,2025-10-28,Cardiology,Elizabeth Curtis,Asthma,6480.52,None,Emergency,Under Treatment,2.0,17.0
+PAT100825,Carly Savage,42.0,M,Edinburgh,55.937018533953776,-3.158218854363902,2024-09-10,2024-09-11,orthopedic,Kelly Townsend,Hypertension,3906.62,Aviva,emergency,Recovered,3.0,1.0
+PAT100826,Bruce Field-Sims,67.0,M,Cardiff,51.45273101581302,-3.1781095398126955,2025-05-03,2025-05-19,Paediatrics,Anna Baker,Migraine,5604.58,Aviva,Emergency,Recovered,6.0,16.0
+PAT100827,Mr Jeremy Murray,24.0,Female ,Liverpool,53.39193003607256,-3.013846784519128,2024-11-11,2024-11-14,Orthopaedics,Naomi Carey,Asthma,4606.61,AXA,emergency,Recovered,4.0,3.0
+PAT100828,Richard Carr,81.0,Male,Liverpool,53.43370896130579,-3.018491613141802,2026-05-07,2026-05-16,CARDIOLOGY,Gordon Burns,Migraine,7149.87,None,Routine,Discharged,2.0,9.0
+PAT100829,Patrick Gibbons,48.0,Male,London,51.49236192101548,-0.17594793360625663,2026-02-17,2026-03-03,Paediatrics,David Marshall,Stroke,350.0,None,Routine,Under Treatment,1.0,14.0
+PAT100830,Dr Nicholas Gibson,54.0,F,Bristol,51.48446302990082,-2.632864458688997,2026-05-12,2026-05-20,Paediatrics,Kyle Hughes,Heart Disease,4176.99,Aviva,Routine,Readmitted,1.0,8.0
+PAT100831,Dr Derek Oliver,43.0,F,Glasgow,55.88932138987608,-4.232894708046099,2024-11-14,2024-11-22,CARDIOLOGY,Clifford Davis,Diabetes,7163.45,NHS,Routine,Under Treatment,2.0,8.0
+PAT100832,Reece Miller-Smith,84.0,Female ,Leeds,53.77995427652614,-1.531323721150107,2025-05-09,2025-05-27,Paediatrics,Dr Daniel Evans,Infection,1388.35,Vitality,Referral,Readmitted,7.0,18.0
+PAT100833,Cameron Fisher,77.0,Male,Liverpool,53.34812608740494,-2.9811589566887817,2024-12-25,2025-01-04,CARDIOLOGY,Nathan Webb,Fracture,6310.2,Bupa,Routine,Readmitted,3.0,10.0
+PAT100834,Helen Edwards,19.0,Female,Nottingham,52.967539204006336,-1.1433708140691232,2025-11-19,2025-12-10,Orthopaedics,Mrs Janet Brookes,Hypertension,6082.56,AXA,Routine,Recovered,8.0,21.0
+PAT100835,Dr Iain Baker,52.0,Female ,Manchester,53.51011482525216,-2.25081828212407,2025-09-03,2025-09-09,Oncology,Heather Cooper,Flu,5763.71,None,Emergency,Referred,3.0,6.0
+PAT100836,Ms Fiona Thompson,76.0,F,Bristol,51.505027459231314,-2.52498141164751,2024-06-09,2024-06-21,orthopedic,Louis Fox,Diabetes,4064.43,None,ER,Under Treatment,,12.0
+PAT100837,Carolyn Williams,54.0,F,Cardiff,51.47608455345938,-3.1983166821103985,2025-10-13,2025-10-18,Paediatrics,Kyle Oliver,Fracture,2992.59,Vitality,Emergency,Discharged,6.0,5.0
+PAT100838,Glen Walker,0.0,Female,Bristol,51.49827199533625,-2.5773446894727368,2025-01-05,2025-01-22,General Medicine,Dr Carl Birch,Heart Disease,2900.77,Aviva,ER,Referred,7.0,17.0
+PAT100839,Lewis Smith,51.0,Female ,Birmingham,52.41995469289202,-1.8317041087697548,2025-07-13,2025-07-21,cardio,Miss Kimberley Hayes,Fracture,4526.53,Aviva,Emergency,Discharged,9.0,8.0
+PAT100840,Michael Walton,71.0, Male,Liverpool,53.353899583484086,-2.967534492728336,2025-03-01,2025-03-11,cardio,Annette Brown,Flu,5179.65,Bupa,emergency,Discharged,2.0,10.0
+PAT100841,Josh Watson,70.0,Male,Sheffield,53.40029459083936,-1.4601838418232247,2025-12-06,2025-12-20,Emergency,Jennifer Barber-Roberts,Flu,4400.88,AXA,ER,Under Treatment,3.0,14.0
+PAT100842,Carole Walker,76.0, Male,Nottingham,52.92340637858826,-1.152745208751361,2024-05-23,2024-05-25,Paediatrics,Kathryn Harper,Cancer Screening,1683.57,Bupa,Referral,Under Treatment,2.0,2.0
+PAT100843,Miss Pauline Banks,71.0,F,Leeds,53.80461310559866,-1.5230689307682754,2024-08-02,2024-08-23,Orthopaedics,Dr Carl White,Infection,2652.56,Vitality,Referral,Readmitted,4.0,21.0
+PAT100844,Nicole Parker,53.0, Male,Manchester,53.47678437284507,-2.3027534484727403,2025-09-18,2025-09-19,Orthopaedics,Barbara Simpson,Infection,5757.22,None,Referral,Referred,5.0,1.0
+PAT100845,Ms Lynda Jones,49.0, Male,Nottingham,52.964846769007636,-1.1270542993986363,2025-05-01,2025-05-11,Paediatrics,Kieran Sheppard-Dixon,Cancer Screening,2542.38,None,emergency,Referred,9.0,10.0
+PAT100846,Aaron Lane,43.0,Male,Sheffield,53.3912816539777,-1.4433690595332018,2025-04-05,2025-04-16,Oncology,Charlene Holmes,Stroke,,Vitality,emergency,Under Treatment,7.0,
+PAT100847,Natasha Pearce-Fry,26.0, Male,London,51.50950483537691,-0.13539110635799467,2025-08-15,2025-09-04,Neurology,Aaron Brooks,Migraine,4996.5,AXA,Referral,Recovered,3.0,20.0
+PAT100848,Frederick Morris,25.0,F,Nottingham,52.98181457718342,-1.2006845725051063,2024-11-15,2024-12-03,Emergency,Edward Price-Butler,Heart Disease,5569.74,Bupa,Referral,Referred,2.0,18.0
+PAT100849,Abigail White,88.0,M,Nottingham,52.978329444789175,-1.1663356390525514,2025-05-17,2025-06-03,cardio,Ms Kerry Taylor,Cancer Screening,3424.91,Vitality,Emergency,Under Treatment,3.0,17.0
+PAT100850,Leon Jones-Jones,30.0,M,Edinburgh,55.965172065466895,-3.190289613111861,2024-05-20,2024-06-07,Oncology,Dominic Mitchell,Heart Disease,6846.65,Vitality,Routine,Referred,1.0,18.0
+PAT100851,Michelle Stevens,68.0,M,Edinburgh,55.95834002077643,-3.1966153834887026,2024-10-02,2024-10-03,Neurology,Mrs Wendy Holt,Flu,5472.02,None,emergency,Recovered,1.0,1.0
+PAT100852,Sally Walker,39.0,Male,Glasgow,55.79794355873186,-4.243185335788646,2024-06-13,2024-06-17,CARDIOLOGY,Jason Walsh,Stroke,6156.08,Vitality,Emergency,Recovered,1.0,4.0
+PAT100853,Jean Saunders,20.0,F,Sheffield,53.387549704296504,-1.4670730065921407,2024-08-04,2024-08-10,Paediatrics,Joe Hall,Flu,2516.65,Bupa,emergency,Under Treatment,6.0,6.0
+PAT100854,Paige Walsh,81.0,F,London,51.53866964640722,-0.06581394624152115,2025-09-08,2025-09-20,CARDIOLOGY,Howard Knight,Migraine,4439.97,Aviva,Emergency,Under Treatment,6.0,12.0
+PAT100855,Dr Jasmine Day,71.0,F,Sheffield,53.376116418469806,-1.492295845672612,2025-10-13,2025-10-26,orthopedic,Dr Beverley Jackson,Migraine,8198.78,AXA,emergency,Discharged,10.0,13.0
+PAT100856,Ruth Butler,78.0,Female,Manchester,53.467688481866226,-2.228838531927467,2025-09-27,2025-10-08,Orthopaedics,Scott Morrison,Hypertension,6967.74,Vitality,emergency,Referred,1.0,11.0
+PAT100857,Victor King,39.0,M,Sheffield,53.42462350052523,-1.4213635438896464,2024-07-18,2024-07-20,cardio,Lynne Morton,Heart Disease,4563.39,Vitality,Referral,Readmitted,9.0,2.0
+PAT100858,Anthony Simmons-Thompson,22.0, Male,Newcastle,54.964136110966265,-1.6035215631942665,2026-04-05,2026-04-22,General Medicine,Dr Danny Carroll,Migraine,4014.22,Bupa,Emergency,Under Treatment,4.0,17.0
+PAT100859,Maurice Riley,33.0,Female,Manchester,53.42662713999501,-2.2214690453204784,2024-08-15,2024-08-17,Orthopaedics,Dr Shane Williams,Infection,2901.26,AXA,ER,Discharged,10.0,2.0
+PAT100860,Mr Bernard Owen,63.0,Male,Manchester,53.47834762857385,-2.2785076993811075,2024-05-23,2024-06-10,General Medicine,Denise Harvey,Infection,4798.13,AXA,Referral,Referred,10.0,18.0
+PAT100861,Melissa Thomas,84.0,Female ,Manchester,53.47194609144395,-2.1825910309428846,2024-09-27,2024-10-01,Neurology,Miss Eileen Allen,Fracture,3207.02,Aviva,Referral,Recovered,2.0,4.0
+PAT100862,Janet Moore,56.0,F,Cardiff,51.46212491481526,-3.156815860766148,2025-05-02,2025-05-22,Cardiology,Zoe Wilkins,Stroke,5526.37,NHS,ER,Referred,8.0,20.0
+PAT100863,Dr Carol Mills,66.0,M,Cardiff,51.453124880075386,-3.203118507463737,2026-04-04,2026-04-25,Orthopaedics,Francis Allen,Cancer Screening,4621.22,None,Emergency,Under Treatment,4.0,21.0
+PAT100864,Mrs Jill Burton,69.0,Female ,Glasgow,55.891730774063866,-4.227547937496822,2025-05-08,2025-05-13,Cardiology,Ms Stephanie Moore,Infection,6948.6,AXA,Routine,Under Treatment,10.0,5.0
+PAT100865,Mr Howard Scott,26.0,F,Leeds,53.81428424966801,-1.599548934265215,2025-11-29,2025-12-15,Orthopaedics,Vincent Freeman-Peters,Cancer Screening,5136.45,NHS,Emergency,Recovered,5.0,16.0
+PAT100866,Shaun Baker,54.0,Female,Cardiff,51.42907257142586,-3.1597314710363276,2024-12-13,2024-12-25,Oncology,Lindsey Kaur,Migraine,-8802.22,NHS,emergency,Referred,2.0,12.0
+PAT100867,Mrs Sian Robson,72.0,F,Sheffield,53.35789958788218,-1.4979143059010145,2024-12-01,2024-12-14,cardio,Kimberley Campbell,Heart Disease,8722.37,Bupa,Referral,Readmitted,4.0,13.0
+PAT100868,Eleanor Henderson,45.0,Male,Sheffield,53.37743452220749,-1.465927611451392,2024-07-08,2024-07-12,Oncology,Katy Jones,Cancer Screening,3998.23,Vitality,Referral,Recovered,6.0,4.0
+PAT100869,Donald Jackson,62.0,Male,Nottingham,52.99900178221504,-1.185866429250599,2024-11-05,2024-11-08,General Medicine,Stephanie Brown,Flu,5596.12,NHS,Routine,Referred,9.0,3.0
+PAT100870,Mohammed Gibson,60.0,M,Leeds,53.83792993258938,-1.480919148103608,2025-04-06,2025-04-17,cardio,Sylvia Jones,Fracture,6881.55,Vitality,emergency,Under Treatment,6.0,11.0
+PAT100871,Richard Farmer,54.0,Male,Liverpool,53.426237445791706,-3.0073745379882992,2024-08-29,2024-09-12,Paediatrics,Jeremy Coleman,Heart Disease,3686.89,AXA,ER,Readmitted,3.0,14.0
+PAT100872,Marian Watts,65.0,Female,Leeds,53.828699227328364,-1.542942708912089,2024-08-22,2024-09-06,cardio,Josh Dickinson,Asthma,4468.77,None,emergency,Readmitted,4.0,15.0
+PAT100873,Linda Powell,55.0,M,Edinburgh,55.95580107394463,-3.2262891088769976,2024-08-01,2024-08-10,General Medicine,Dorothy Bates-Harding,Flu,4274.44,AXA,Emergency,Under Treatment,2.0,
+PAT100874,Elliott Palmer,83.0,F,Cardiff,51.52898812111754,-3.246162926609792,2025-10-07,2025-10-24,Paediatrics,Clifford Wood,Infection,2675.74,Vitality,Emergency,Recovered,3.0,17.0
+PAT100875,Dr Paula Wade,45.0,Female ,Manchester,53.45817304092113,-2.214893715186298,2025-10-21,2025-10-26,Oncology,Michael Elliott,Cancer Screening,6581.65,AXA,ER,Referred,3.0,5.0
+PAT100876,Pamela Reed,60.0,Female ,Nottingham,52.972857262945816,-1.1677272540922492,2025-06-13,2025-06-27,Orthopaedics,Barbara Watkins,Infection,3973.1,NHS,emergency,Under Treatment,9.0,14.0
+PAT100877,David Wood,85.0,Female ,Sheffield,53.34617311969972,-1.4929513172217967,2025-04-02,2025-04-10,Orthopaedics,Carole Smith,Infection,4931.01,NHS,Routine,Readmitted,6.0,8.0
+PAT100878,Ms Carolyn Bell,80.0,Female ,Nottingham,52.996292532468935,-1.1727932234466425,2024-06-06,2024-06-15,Oncology,Lawrence Mason,Fracture,5852.88,AXA,Routine,Under Treatment,6.0,9.0
+PAT100879,Wayne Chapman,27.0,Female,Glasgow,55.88822412983678,-4.21285615156784,2025-01-13,2025-01-23,cardio,Danny Savage-Ali,Migraine,3896.11,AXA,ER,Referred,8.0,10.0
+PAT100880,Gail Byrne,62.0,F,Cardiff,51.484326254336416,-3.1658051944711265,2025-04-14,2025-04-16,cardio,Charlie Flynn,Asthma,5712.46,Bupa,Routine,Recovered,10.0,2.0
+PAT100881,Lorraine Stone,28.0,Male,Manchester,53.468217533538855,-2.2462077344649347,2025-07-03,2025-07-07,CARDIOLOGY,Marie Bailey-Wilson,Cancer Screening,3963.08,Bupa,emergency,Readmitted,6.0,4.0
+PAT100882,Charlie Martin,61.0,Male,Cardiff,51.498451254634816,-3.131285316584268,2024-11-09,2024-11-11,orthopedic,Maureen Taylor,Heart Disease,-6818.46,Aviva,Referral,Readmitted,9.0,2.0
+PAT100883,Danny Bradley,67.0,F,Liverpool,53.45225896042806,-2.980528634534459,2026-02-07,2026-02-28,orthopedic,Jean Parry,Hypertension,5076.73,None,Referral,Under Treatment,8.0,21.0
+PAT100884,Harriet Hill,34.0, Male,Edinburgh,55.96242904745572,-3.181588438641642,2024-12-10,2024-12-24,Orthopaedics,Catherine Wood-Williams,Hypertension,3735.63,Vitality,emergency,Referred,8.0,14.0
+PAT100885,Irene Lambert,67.0,M,Bristol,51.53729494650376,-2.53910382778443,2024-11-01,2024-11-04,Oncology,Reece Wright,Hypertension,6857.97,None,Routine,Recovered,4.0,3.0
+PAT100886,Charlene Taylor-Brown,25.0,Female ,Manchester,53.47206830948484,-2.3187889243907387,2025-01-22,2025-01-26,General Medicine,Sean Spencer,Stroke,5627.06,AXA,emergency,Under Treatment,10.0,4.0
+PAT100887,Dennis Moore-Brookes,150.0,Female ,Birmingham,52.50750112709301,-1.9615531392704935,2025-10-05,2025-10-19,Paediatrics,Jason O'Brien,Infection,5143.46,Bupa,Referral,Discharged,5.0,14.0
+PAT100888,Ms Rita Harris,78.0,M,Birmingham,52.48506167789053,-1.907242446677007,2025-08-31,2025-09-01,Orthopaedics,Joanne Campbell,Diabetes,6226.24,None,Emergency,Under Treatment,8.0,1.0
+PAT100889,Aimee Cook,71.0, Male,Manchester,53.431454384361736,-2.2130913516818866,2024-09-04,2024-09-21,CARDIOLOGY,Damien Gibbs-Mitchell,Flu,7679.41,None,Emergency,Under Treatment,1.0,17.0
+PAT100890,Ms Chloe Clark,23.0,M,Manchester,53.484997746331,-2.2439167439689673,2025-07-07,2025-07-20,Cardiology,Mark Mitchell-Kaur,Stroke,7594.57,AXA,emergency,Under Treatment,6.0,13.0
+PAT100891,Carol Hall,40.0,M,Leeds,53.78628656713724,-1.5337834030524755,2025-11-09,2025-11-11,Paediatrics,Dr Danny Dunn,Flu,2968.39,NHS,ER,Referred,9.0,2.0
+PAT100892,Arthur Price,48.0,Male,Manchester,53.47729389295308,-2.194376602871815,2026-02-10,2026-03-02,Neurology,Megan McDonald,Cancer Screening,4239.57,None,Referral,Recovered,3.0,20.0
+PAT100893,Dawn Ward,53.0, Male,Liverpool,53.41018457878069,-3.0093824831065406,2024-09-24,2024-09-26,Cardiology,Antony Robinson,Infection,5803.93,None,Emergency,Readmitted,4.0,2.0
+PAT100894,Miss Georgina Taylor,87.0, Male,Edinburgh,55.93013707562834,-3.2026389268398905,2024-11-23,2024-12-01,General Medicine,Miss Amelia Barton,Migraine,4613.0,Aviva,Referral,Referred,8.0,
+PAT100895,Mr Christopher Ashton,34.0,Female ,Newcastle,54.976254745468076,-1.5656049771325558,2024-10-06,2024-10-08,Paediatrics,James Thomas-Turner,Stroke,3340.78,Bupa,Referral,Referred,7.0,2.0
+PAT100896,Amanda Smith-O'Neill,31.0,Male,Edinburgh,55.97329857029771,-3.1858017858603893,2024-06-04,2024-06-15,Orthopaedics,Mr Dylan Foster,Fracture,,None,Routine,Under Treatment,3.0,11.0
+PAT100897,Paul Clayton-Begum,25.0,F,Birmingham,52.45823738236678,-1.9373135689577972,2025-11-23,2025-12-06,Cardiology,Stanley Jackson,Migraine,7698.02,AXA,emergency,Discharged,5.0,13.0
+PAT100898,Rhys Wilson,25.0,M,Sheffield,53.33432801633817,-1.438724293334402,2025-06-08,2025-06-13,Paediatrics,Keith Williams,Heart Disease,350.0,Bupa,ER,Referred,8.0,5.0
+PAT100899,Kayleigh Khan-Jones,56.0, Male,Liverpool,53.43311250633926,-2.9967134100402126,2024-10-15,2024-10-19,orthopedic,Katherine Rowe,Stroke,6943.98,Aviva,Referral,Referred,4.0,4.0
+PAT100900,Hilary Williams,50.0,Male,Liverpool,53.42987310814088,-3.009789269511564,2024-07-31,2024-08-15,General Medicine,Wayne Birch,Infection,2548.04,None,ER,Readmitted,4.0,15.0
+PAT100901,Dylan Scott-Bird,41.0,Male,Nottingham,52.96128919623324,-1.198472561859988,2025-09-13,2025-10-03,Cardiology,Miss Grace West,Diabetes,6711.18,Aviva,emergency,Referred,10.0,20.0
+PAT100902,Sarah Gill,88.0,F,Edinburgh,55.94785446386346,-3.2097227297678455,2025-06-06,2025-06-21,General Medicine,Mrs Danielle John,Infection,5414.19,NHS,Routine,Referred,7.0,15.0
+PAT100903,Mr Alex Smith,50.0,F,Nottingham,52.94713650494648,-1.1790224986784623,2025-11-04,2025-11-17,Neurology,Stuart Read,Cancer Screening,,None,Emergency,Discharged,5.0,13.0
+PAT100904,Francis Wood,70.0, Male,Sheffield,53.39174587514339,-1.4539714492381983,2024-06-22,2024-07-11,cardio,Colin Brown-Sutton,Asthma,4708.32,Vitality,emergency,Referred,2.0,19.0
+PAT100905,Thomas Weston,24.0,Male,Sheffield,53.40903384193058,-1.4809697675327937,2024-08-02,2024-08-08,General Medicine,Wayne Hodgson-Morton,Hypertension,2056.53,Aviva,Emergency,Discharged,5.0,6.0
+PAT100906,Dr Christopher Mills,66.0,Male,Edinburgh,55.967715347758855,-3.2251975593435893,2025-03-11,2025-03-29,Neurology,Jonathan George,Diabetes,2782.13,Aviva,emergency,Recovered,1.0,18.0
+PAT100907,Naomi Morris,67.0, Male,Nottingham,52.96645035008862,-1.1284596083553387,2025-09-06,2025-09-13,Neurology,Kirsty Norton,Migraine,3699.35,Vitality,emergency,Recovered,7.0,7.0
+PAT100908,Michelle Ali-Stephens,78.0,M,Bristol,51.51116386048279,-2.558375367052519,2024-11-18,2024-11-20,Cardiology,Francesca Hopkins,Cancer Screening,8177.24,Aviva,Routine,Discharged,7.0,2.0
+PAT100909,Dr Lynne Marsh,36.0,F,Sheffield,53.336339603377006,-1.4532473460576945,2024-09-15,2024-09-30,Oncology,Wendy Nicholls,Hypertension,4555.09,None,Routine,Referred,8.0,15.0
+PAT100910,Emma Bowen,54.0,F,London,51.49868851571505,-0.09043328008141038,2024-08-06,2024-08-20,Oncology,Jacob Scott,Cancer Screening,5354.93,Aviva,ER,Recovered,8.0,14.0
+PAT100911,Mr Ricky Nicholson,84.0,Female ,Leeds,53.85248537880297,-1.542716387815127,2024-12-21,2024-12-26,Paediatrics,Tom Simpson,Migraine,4140.84,Bupa,Emergency,Discharged,,5.0
+PAT100912,Ms Irene Marshall,64.0,M,Manchester,53.4244168516704,-2.2316894044778373,2024-10-23,2024-11-11,General Medicine,Dr Gerald Wood,Infection,4244.85,None,ER,Readmitted,9.0,19.0
+PAT100913,Aaron Peters-Turnbull,50.0,F,Birmingham,52.47750014625476,-1.9081299842585548,2025-09-11,2025-09-16,Neurology,Fiona Moore,Infection,3601.55,Aviva,Referral,Under Treatment,10.0,5.0
+PAT100914,Joseph Stevens,46.0,Female,Leeds,53.74511195158059,-1.5719018123237076,2024-10-03,2024-10-20,cardio,Mr Gavin Knight,Fracture,6734.0,AXA,ER,Under Treatment,4.0,17.0
+PAT100915,Lynn Gardner-Campbell,39.0,M,London,51.49556502487967,-0.11140676334942642,2025-08-31,2025-09-18,Cardiology,Ms Abbie Lee,Heart Disease,8652.5,None,Referral,Readmitted,7.0,18.0
+PAT100916,Eric Baker,30.0,Male,Birmingham,52.42247687977291,-1.8563032137275137,2025-01-06,2025-01-10,General Medicine,Dr Antony Rogers,Fracture,3248.42,Bupa,Referral,Referred,4.0,4.0
+PAT100917,Eleanor Payne,46.0,F,Newcastle,54.99984092831344,-1.5918238025330163,2025-09-03,2025-09-18,Orthopaedics,Dr Karen Brown,Infection,4683.22,Bupa,emergency,Discharged,6.0,15.0
+PAT100918,Mr Jason Metcalfe,52.0,Male,Birmingham,52.48630190536957,-1.8889078566856852,2025-11-05,2025-11-21,CARDIOLOGY,Denis White-Hunt,Migraine,5639.42,Bupa,emergency,Discharged,1.0,16.0
+PAT100919,Dr Marilyn Burke,64.0,M,Nottingham,53.00954445299028,-1.1332092341881599,2026-02-11,2026-03-03,orthopedic,Nicole Ball-John,Fracture,6719.55,NHS,Routine,Under Treatment,7.0,20.0
+PAT100920,Mr Trevor Knowles,67.0,Female,Sheffield,53.3641411132095,-1.4379725631130431,2025-11-13,2025-12-04,cardio,Lucy Burton,Asthma,4784.85,Bupa,emergency,Readmitted,1.0,21.0
+PAT100921,Dr Benjamin Browne,26.0,Female ,Leeds,53.813696597208995,-1.555970943842758,2026-03-21,2026-03-25,Orthopaedics,Natalie Smith,Cancer Screening,3836.59,Aviva,Routine,Recovered,8.0,4.0
+PAT100922,Roger Lowe,64.0,M,Glasgow,55.89750680446431,-4.288855835558334,2024-07-09,2024-07-16,Emergency,Shane Owens,Flu,3929.52,AXA,emergency,Discharged,7.0,7.0
+PAT100923,Leon John,36.0,Female,Leeds,53.76151549992708,-1.5529258053044128,2024-07-08,2024-07-17,orthopedic,Mr Graeme Power,Cancer Screening,6178.02,NHS,Routine,Recovered,1.0,9.0
+PAT100924,Lynda Parry,54.0, Male,Birmingham,52.50837771619517,-1.866641761163508,2025-08-18,2025-08-31,CARDIOLOGY,Dr Alexander Hill,Asthma,5435.37,Aviva,emergency,Discharged,6.0,13.0
+PAT100925,Charlotte Giles,19.0,F,Leeds,53.79311320207851,-1.5380655662083096,2024-05-30,2024-06-14,Neurology,Leah Smith-Holland,Fracture,724.43,Vitality,Routine,Recovered,7.0,15.0
+PAT100926,Dr Karl Greenwood,87.0,F,Leeds,53.775817906715176,-1.5362179150787456,2026-03-04,2026-03-23,CARDIOLOGY,Susan Morrison,Infection,5592.64,Aviva,ER,Readmitted,1.0,19.0
+PAT100927,Benjamin Baker,49.0,Female,Liverpool,53.42256751248859,-3.0083110716639747,2026-03-11,2026-03-24,orthopedic,Henry Davies,Stroke,5603.41,Bupa,Emergency,Referred,6.0,13.0
+PAT100928,Mrs Sandra Dale,33.0,Female ,Liverpool,53.39210863922361,-2.983824603862392,2024-08-11,2024-08-20,General Medicine,Mrs Hazel Bray,Hypertension,2892.74,AXA,Routine,Recovered,3.0,9.0
+PAT100929,Alice Morris-Holland,88.0,F,Edinburgh,56.01265956063936,-3.2484017128609994,2025-07-20,2025-08-02,Orthopaedics,Sam Walker,Cancer Screening,6359.95,AXA,emergency,Under Treatment,1.0,13.0
+PAT100930,Billy Nelson,29.0,F,Bristol,51.45618614455731,-2.597489945588832,2025-04-10,2025-04-11,Oncology,Frederick Robertson,Diabetes,4263.99,Aviva,ER,Under Treatment,10.0,1.0
+PAT100931,Mr Iain White,88.0,Male,Bristol,51.4591507944189,-2.5718221966380885,2026-03-31,2026-04-07,Orthopaedics,Lorraine Wright,Migraine,5343.96,AXA,Routine,Referred,1.0,7.0
+PAT100932,Stacey Wilson-Turner,53.0, Male,Nottingham,52.91512946385909,-1.1768753102171094,2025-04-22,2025-04-24,Orthopaedics,Dr Denise Rhodes,Hypertension,4735.19,None,emergency,Readmitted,6.0,2.0
+PAT100933,Mandy Wall,77.0,M,Glasgow,55.858269066491985,-4.242323643046727,2026-01-29,2026-02-14,Emergency,Ms Danielle Ward,Hypertension,3044.66,Aviva,emergency,Referred,4.0,16.0
+PAT100934,Jack Thomas-Cooper,52.0, Male,London,51.49918024488742,-0.1129828320814853,2025-07-18,2025-07-28,Orthopaedics,Craig Williams,Stroke,5636.67,AXA,Routine,Under Treatment,6.0,10.0
+PAT100935,Dr Stanley Shepherd,49.0,Female ,Edinburgh,55.94905556204237,-3.203722638831892,2024-12-29,2025-01-13,Oncology,Dr Sylvia Baker,Fracture,2879.92,Aviva,emergency,Recovered,2.0,15.0
+PAT100936,Ben Bradley-Chambers,82.0, Male,Nottingham,52.975166265690554,-1.1746840742073477,2024-11-18,2024-12-09,Orthopaedics,Rhys Smith,Fracture,6223.2,Vitality,ER,Readmitted,8.0,21.0
+PAT100937,Mrs Paula Porter,39.0,M,Bristol,51.473948387054925,-2.649688633629131,2024-08-13,2024-08-20,Oncology,Denise Young,Asthma,7120.3,AXA,emergency,Referred,2.0,7.0
+PAT100938,Frances Chambers,65.0,M,Edinburgh,55.992776160853865,-3.2076555585905457,2025-09-01,2025-09-10,Neurology,Paula Butler,Fracture,2296.54,NHS,emergency,Discharged,2.0,9.0
+PAT100939,Timothy Wells,60.0, Male,Newcastle,54.97885112676023,-1.6432500637188983,2025-11-21,2025-11-24,General Medicine,Mrs Diana Evans,Infection,1545.62,AXA,ER,Recovered,1.0,3.0
+PAT100940,Dr Sarah Nelson,77.0,Female ,Birmingham,52.49225820176926,-1.8915150355303665,2026-02-04,2026-02-08,CARDIOLOGY,Ann Murray,Fracture,7280.62,AXA,ER,Discharged,1.0,4.0
+PAT100941,Nicholas Gibson,72.0,Male,Leeds,53.80908924154493,-1.5656879013128753,2024-08-21,2024-09-02,Orthopaedics,Shane Jones-Ingram,Infection,3609.09,Aviva,Referral,Readmitted,4.0,
+PAT100942,Jade Bell-White,73.0,M,Liverpool,53.41018897332868,-2.9188839796810813,2025-01-29,2025-02-12,Neurology,Gregory Phillips,Migraine,4999.09,AXA,Referral,Discharged,6.0,14.0
+PAT100943,Ms Rachael Green,65.0,M,Liverpool,53.41626888891469,-3.019951411370441,2025-05-08,2025-05-25,Emergency,Peter Foster,Asthma,4448.09,Aviva,Emergency,Referred,8.0,17.0
+PAT100944,Kimberley Mistry,52.0,F,Liverpool,53.39040766419843,-3.0030501375505207,2024-12-08,2024-12-10,CARDIOLOGY,Jonathan Bennett,Heart Disease,6504.38,Aviva,Emergency,Readmitted,9.0,
+PAT100945,Charles Smith,75.0, Male,London,51.52230611532194,-0.09017049866073452,2025-12-26,2026-01-08,Cardiology,Alison Baker,Cancer Screening,7027.9,Vitality,emergency,Discharged,9.0,13.0
+PAT100946,Ruth Day,78.0, Male,Birmingham,52.478316323543055,-1.8681054861386823,2026-02-23,2026-03-04,Cardiology,Duncan Hicks,Infection,7263.04,Aviva,ER,Discharged,8.0,9.0
+PAT100947,Rosie Cooper,24.0,Female ,Cardiff,51.48629964808377,-3.1570739000655514,2025-02-21,2025-03-07,cardio,Kayleigh Summers,Fracture,5005.62,Vitality,ER,Recovered,2.0,14.0
+PAT100948,Toby Dodd,24.0, Male,Cardiff,51.43224056568906,-3.1892725472335393,2025-05-28,2025-06-05,CARDIOLOGY,Joan Owen,Migraine,5654.5,NHS,Emergency,Under Treatment,5.0,8.0
+PAT100949,Louise Richards,59.0,M,Leeds,53.75178638283986,-1.5726203075569394,2025-10-18,2025-11-02,cardio,Albert Rees-Smith,Migraine,4320.13,Aviva,Emergency,Recovered,10.0,15.0
+PAT100950,Dominic Wright,41.0,F,Manchester,53.48879556201319,-2.2310941725992963,2025-06-21,2025-07-03,Orthopaedics,Laura Price,Heart Disease,5349.34,Aviva,emergency,Recovered,3.0,12.0
+PAT100951,Janice Hayes,29.0,Female ,Newcastle,55.018776653385004,-1.64491251130339,2026-05-02,2026-05-15,Neurology,Malcolm Smith,Flu,2843.48,Aviva,Routine,Under Treatment,7.0,13.0
+PAT100952,Louise Hughes-Nicholls,30.0,M,Leeds,53.79973014921245,-1.5895293680130278,2025-12-06,2025-12-21,Neurology,Melanie Wood,Migraine,1644.53,Aviva,Emergency,Discharged,6.0,15.0
+PAT100953,Victor Lewis-Bradley,25.0,Female,Birmingham,52.49336924687498,-1.8915529089022518,2025-04-15,2025-05-01,cardio,Iain Brooks,Hypertension,5581.13,Aviva,ER,Discharged,7.0,16.0
+PAT100954,Mrs Anne Nolan,62.0,F,Manchester,53.46934726018588,-2.2174691481982722,2025-11-03,2025-11-20,Neurology,Hannah Peacock,Asthma,5046.32,Aviva,Referral,Readmitted,3.0,17.0
+PAT100955,Elliot Evans,82.0,Female ,Glasgow,55.86211997401729,-4.2250946973351535,2026-03-14,2026-03-30,cardio,Gerard Hewitt,Diabetes,4454.19,NHS,Referral,Readmitted,2.0,16.0
+PAT100956,Ashley Patel-Cooper,26.0,Male,Birmingham,52.48841250828081,-1.9058140178191572,2025-12-24,2026-01-08,General Medicine,Patricia Brown,Asthma,5022.87,AXA,Referral,Recovered,1.0,15.0
+PAT100957,Mr Gavin Freeman,84.0,Female ,Glasgow,55.90480592456901,-4.231774412779436,2025-06-24,2025-07-12,Neurology,Dr Amelia Murphy,Cancer Screening,1352.48,Aviva,Emergency,Readmitted,1.0,18.0
+PAT100958,Dr Marie Murray,61.0,F,Edinburgh,56.0049300551785,-3.2066427150950534,2025-06-13,2025-07-04,Neurology,Anthony Wood,Migraine,1491.62,Aviva,ER,Discharged,4.0,21.0
+PAT100959,Kim Giles,37.0,M,Sheffield,53.39563920286197,-1.4703784794128156,2024-07-25,2024-07-31,Orthopaedics,Miss Hilary Williams,Diabetes,2756.59,NHS,Routine,Readmitted,3.0,6.0
+PAT100960,Mandy Carroll,42.0,Female ,Newcastle,54.96766153058323,-1.6490436545806337,2024-06-03,2024-06-24,cardio,Caroline Morris-Kelly,Asthma,7502.0,AXA,emergency,Readmitted,5.0,21.0
+PAT100961,Melanie Green,44.0,M,Sheffield,53.37588254961454,-1.5058175029868217,2025-01-24,2025-02-08,Cardiology,Aimee Harvey,Migraine,4021.99,Bupa,Referral,Under Treatment,2.0,15.0
+PAT100962,Joe Brown,77.0,Female ,Manchester,53.48860092435896,-2.2201275631288224,2025-10-18,2025-10-19,General Medicine,Terence O'Neill,Diabetes,3915.07,AXA,Routine,Referred,8.0,1.0
+PAT100963,Dr Leslie Pearce,71.0,Female,Birmingham,52.515624729069415,-1.9048911873900864,2025-02-12,2025-02-18,orthopedic,Mr George Pritchard,Fracture,3395.74,Aviva,Routine,Readmitted,7.0,6.0
+PAT100964,Anthony Price-Williams,65.0,M,London,51.5387454614812,-0.1285121121447135,2024-08-29,2024-09-15,Neurology,Gail Martin,Cancer Screening,2338.53,None,ER,Recovered,9.0,17.0
+PAT100965,Catherine Cox,0.0,Female ,Edinburgh,55.94247151755621,-3.2409216197328377,2025-08-23,2025-09-06,Emergency,Mr Louis Jones,Asthma,6339.5,Aviva,emergency,Readmitted,3.0,14.0
+PAT100966,Graham Shaw,69.0, Male,London,51.44820097704769,-0.12744525100320694,2024-09-29,2024-10-09,Emergency,Ruth Brown,Flu,3962.47,None,Routine,Discharged,10.0,10.0
+PAT100967,Aimee Wilson,25.0,Female ,Newcastle,55.00759636280073,-1.6694239114182838,2025-03-16,2025-03-30,orthopedic,Glenn Dawson,Cancer Screening,6805.97,None,Referral,Under Treatment,3.0,14.0
+PAT100968,Lydia Howard,20.0,Female,Liverpool,53.42404269214562,-2.979311400842885,2025-12-30,2026-01-08,General Medicine,Ms Charlene Gilbert,Fracture,3775.14,Bupa,ER,Discharged,5.0,9.0
+PAT100969,Adrian Smith-Brown,54.0,M,Sheffield,53.40240155257802,-1.4075966948760914,2026-02-18,2026-03-03,Cardiology,Mr Craig Price,Asthma,5892.49,Bupa,Referral,Referred,6.0,13.0
+PAT100970,Patrick Morley,83.0,Female ,Newcastle,55.01697667129076,-1.6289057371286992,2025-03-07,2025-03-10,Emergency,Dr Lucy Harrison,Flu,6378.68,Vitality,Referral,Under Treatment,5.0,3.0
+PAT100971,Aaron Rose,85.0,Male,Manchester,53.44814715083207,-2.264504853988442,2025-03-25,2025-04-02,cardio,Judith Hart,Flu,6971.53,Aviva,Referral,Discharged,2.0,8.0
+PAT100972,Christian Gibson,36.0,Female,Leeds,53.81924343421892,-1.5898723176392855,2025-05-26,2025-06-07,General Medicine,Stacey Jackson,Fracture,3149.78,NHS,Referral,Discharged,9.0,12.0
+PAT100973,Lesley Williams,61.0, Male,Sheffield,53.43127614518618,-1.5123907908020076,2025-11-08,2025-11-23,CARDIOLOGY,Aimee Storey,Cancer Screening,6343.66,Bupa,ER,Recovered,6.0,
+PAT100974,Jill Hunt,49.0,Female,Liverpool,53.45764202793001,-2.9832693319684283,2025-11-29,2025-12-15,Oncology,Dr Maria Patel,Stroke,5580.13,NHS,Referral,Referred,3.0,16.0
+PAT100975,Katherine Hill-Lewis,22.0, Male,Bristol,51.457802083265136,-2.6065120497809953,2025-10-27,2025-11-07,Oncology,Hayley Campbell,Fracture,6168.83,AXA,Routine,Discharged,4.0,11.0
+PAT100976,Darren Bennett,31.0,Female ,Newcastle,54.96343524294791,-1.625004278639677,2024-06-11,2024-06-29,Oncology,Dr Raymond Burton,Migraine,7727.88,Bupa,Referral,Referred,6.0,18.0
+PAT100977,Simon Williams,79.0, Male,Birmingham,52.5056534465065,-1.9060241017227897,2024-10-08,2024-10-10,cardio,Miss Lynne Pritchard,Cancer Screening,5278.31,AXA,Routine,Referred,7.0,2.0
+PAT100978,Graeme Robson,70.0,Male,Liverpool,53.399919641102876,-2.9788879808167055,2024-12-09,2024-12-17,Orthopaedics,Christine Jones-Nolan,Diabetes,4085.86,None,Referral,Under Treatment,10.0,8.0
+PAT100979,Miss Harriet Wilson,44.0,M,Birmingham,52.471143167396825,-1.8838724966137974,2024-11-18,2024-11-24,Cardiology,Rebecca Jennings-Douglas,Cancer Screening,4336.83,Bupa,Emergency,Referred,3.0,6.0
+PAT100980,Justin Bailey,44.0,Male,Bristol,51.42715820010255,-2.5759287870044845,2025-03-04,2025-03-22,Orthopaedics,Julian Hilton,Fracture,5425.0,Bupa,ER,Referred,,18.0
+PAT100981,Elizabeth Elliott,42.0,Female ,Sheffield,53.356655810908066,-1.4399592013172882,2025-10-05,2025-10-17,Cardiology,Alexandra Cooper,Stroke,6777.8,Vitality,ER,Referred,1.0,12.0
+PAT100982,Mohamed Miller,60.0,Female ,Nottingham,52.92325672941636,-1.1609597532497986,2025-08-27,2025-09-09,Oncology,Miss Maureen Jennings,Heart Disease,4588.44,Bupa,Routine,Recovered,1.0,13.0
+PAT100983,Craig Walsh,81.0,F,Manchester,53.49165730447894,-2.198993150801601,2025-03-18,2025-04-06,Orthopaedics,Stewart Savage-Stephens,Infection,5603.49,Vitality,emergency,Readmitted,4.0,19.0
+PAT100984,Edward Wallis,25.0,F,Bristol,51.48485503242348,-2.5763450085412094,2024-12-15,2024-12-24,Oncology,Mrs Hayley Burns,Stroke,9281.18,NHS,Emergency,Readmitted,1.0,9.0
+PAT100985,Lauren Carpenter,64.0,M,Manchester,53.51303187921217,-2.2788371322350245,2025-04-07,2025-04-24,Orthopaedics,Miss Ellie Thompson,Diabetes,6064.69,None,emergency,Recovered,4.0,17.0
+PAT100986,George Baker,76.0,Female,Edinburgh,55.964667238550014,-3.197397736405412,2024-08-11,2024-08-19,orthopedic,Beverley Wood,Hypertension,1841.87,Vitality,ER,Under Treatment,9.0,8.0
+PAT100987,Wendy Williams,38.0, Male,Liverpool,53.469456965215635,-2.967142277781739,2025-04-21,2025-05-02,Oncology,Jake Bailey-Thorpe,Heart Disease,6794.67,Aviva,Emergency,Readmitted,8.0,11.0
+PAT100988,Susan Green,82.0,Female,Liverpool,53.38243173868494,-2.954005942374362,2025-09-19,2025-09-21,General Medicine,Alison Jackson,Fracture,,None,Referral,Referred,4.0,2.0
+PAT100989,Katie Carroll,61.0,M,Nottingham,52.945423128309216,-1.1791634229311332,2024-10-10,2024-10-18,General Medicine,Jason Collins,Heart Disease,987.74,AXA,ER,Recovered,4.0,8.0
+PAT100990,Ms Alice Harris,39.0, Male,Glasgow,55.863158315968406,-4.276545177446807,2026-03-25,2026-03-31,Orthopaedics,Dr Bernard Brown,Cancer Screening,5886.91,AXA,ER,Referred,5.0,6.0
+PAT100991,Stewart Morgan,60.0,Female,Cardiff,51.50352089963606,-3.129163253942592,2024-10-01,2024-10-05,Oncology,David White,Flu,-5247.09,Aviva,ER,Recovered,9.0,4.0
+PAT100992,Mr Mathew Baker,84.0,M,Liverpool,53.38397248198288,-2.980142736604355,2024-08-14,2024-09-04,Neurology,Dr James Taylor,Migraine,1474.2,Bupa,Emergency,Readmitted,7.0,21.0
+PAT100993,Dr Vincent Wood,72.0,F,Edinburgh,55.98710077390282,-3.210546713438335,2025-09-28,2025-10-14,Emergency,Shaun Richards,Hypertension,5327.38,NHS,Routine,Readmitted,7.0,16.0
+PAT100994,Brian Roberts,23.0, Male,Birmingham,52.490417187376,-1.8890556594744499,2025-08-22,2025-09-05,Paediatrics,Mr Bradley Smith,Infection,4528.23,Bupa,Emergency,Recovered,1.0,14.0
+PAT100995,Yvonne Gibson,45.0,M,Leeds,53.792398292519614,-1.5509943516206555,2025-10-28,2025-11-07,orthopedic,Mrs Kimberley Williams,Hypertension,5880.02,Aviva,Routine,Discharged,6.0,10.0
+PAT100996,Phillip Collins,88.0,Male,Newcastle,54.95908568885345,-1.6046611599930385,2024-05-22,2024-06-09,Oncology,Donald Johnson,Asthma,4321.49,Aviva,Routine,Recovered,2.0,18.0
+PAT100997,Mr Stewart Green,88.0,Female ,Birmingham,52.50779232325771,-1.882718883675072,2024-06-27,2024-07-05,General Medicine,Dr Katie Smith,Fracture,2422.61,NHS,Routine,Under Treatment,4.0,8.0
+PAT100998,Joanne Young,46.0,Female,Leeds,53.78255055868598,-1.5772432401353593,2025-04-16,2025-04-19,General Medicine,Ms Alison Marsh,Flu,,Aviva,Emergency,Under Treatment,3.0,3.0
+PAT100999,Mr Frank Wilson,42.0,F,Glasgow,55.93340508102481,-4.224666352289372,2025-06-01,2025-06-19,General Medicine,Dr Brandon Parker,Heart Disease,4508.59,Vitality,emergency,Referred,10.0,18.0
+PAT100246,Mr Victor Andrews,47.0,Female ,Leeds,53.81810993492809,-1.5395250928951123,2025-12-07,2025-12-23,Paediatrics,Ellie Davison,Cancer Screening,2284.46,Aviva,Referral,Under Treatment,4.0,16.0
+PAT100132,Dr Kathryn Williamson,26.0, Male,Newcastle,55.00415733354135,-1.6169988850117563,2025-04-27,2025-05-18,Emergency,Ms Eleanor Clayton,Asthma,5230.97,Aviva,Emergency,Under Treatment,5.0,21.0
+PAT100597,Lynne Marshall,,Female ,Bristol,51.447752720793524,-2.630414390510444,2024-08-08,2024-08-10,Paediatrics,Rhys Brown,Hypertension,3878.58,Vitality,Referral,Discharged,2.0,2.0
+PAT100134,Miss Sheila Hutchinson,70.0, Male,Bristol,51.496905788367144,-2.6366887330675146,2025-04-05,2025-04-08,General Medicine,Mr Clifford Williams,Diabetes,4165.38,AXA,Routine,Readmitted,2.0,3.0
+PAT100237,Mr Christopher Clark,27.0, Male,London,51.53404088679789,-0.10146245309484132,2025-10-24,2025-10-27,Neurology,Martyn Pratt,Diabetes,1746.43,Aviva,Emergency,Readmitted,5.0,3.0
+PAT100145,Ms Carolyn Barrett,47.0,Male,Manchester,53.450229728556245,-2.2371103046482697,2026-04-20,2026-05-04,cardio,Ms Jean Newman,Fracture,6318.14,Vitality,Routine,Recovered,2.0,14.0
+PAT100092,Dawn Newton,20.0, Male,Nottingham,52.94799278712768,-1.1197431695530207,2024-12-12,2024-12-21,cardio,Mohammed Stone,Flu,8684.91,NHS,ER,Discharged,1.0,9.0
+PAT100577,Andrew Kennedy,45.0,F,Bristol,51.424639141121446,-2.589044435220466,2026-02-27,2026-03-17,Neurology,Mr Liam Page,Migraine,2872.78,Vitality,emergency,Discharged,8.0,18.0
+PAT100924,Lynda Parry,54.0, Male,Birmingham,52.50837771619517,-1.866641761163508,2025-08-18,2025-08-31,CARDIOLOGY,Dr Alexander Hill,Asthma,5435.37,Aviva,emergency,Discharged,6.0,13.0
+PAT100472,Jamie Armstrong,32.0,Female ,Liverpool,53.41842753045506,-2.97858334895766,2025-08-21,2025-09-09,Paediatrics,Lawrence Robson,Hypertension,2264.39,Bupa,ER,Readmitted,5.0,19.0
+PAT100997,Mr Stewart Green,88.0,Female ,Birmingham,52.50779232325771,-1.882718883675072,2024-06-27,2024-07-05,General Medicine,Dr Katie Smith,Fracture,2422.61,NHS,Routine,Under Treatment,4.0,8.0
+PAT100990,Ms Alice Harris,39.0, Male,Glasgow,55.863158315968406,-4.276545177446807,2026-03-25,2026-03-31,Orthopaedics,Dr Bernard Brown,Cancer Screening,5886.91,AXA,ER,Referred,5.0,6.0
